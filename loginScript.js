@@ -36,6 +36,14 @@ function getAccess(){
 
             alert('Wrong Credential! Please make sure to create an Account');
          }
+    if(username=="Bethel"&&password=="botho728"){
+            
+            window.location.href = "html2.html";
+        }
+         else{
+
+            alert('Wrong Credential! Please make sure to create an Account');
+         }
     
 
 
