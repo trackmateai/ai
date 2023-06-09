@@ -20,6 +20,14 @@ function getAccess(){
 
             alert('Wrong Credential! Please make sure to create an Account');
          }
+    if(username=="amemodibo@gmail.com"&&password=="Stalin1962"){
+            
+            window.location.href = "html2.html";
+        }
+         else{
+
+            alert('Wrong Credential! Please make sure to create an Account');
+         }
     
 
 
