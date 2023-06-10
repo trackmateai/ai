@@ -40,7 +40,7 @@
     
     
     <label for="usernameField" class="usernamelabel label">Email</label>
-    <input type="text" placeholder="Where to receive alerts" id="usernameField">
+    <input type="text" placeholder="Where to receive alerts" id="emailField">
     
     
     
@@ -65,9 +65,10 @@
       //get values from inputs
       var subject = document.getElementById("imeiField").value;
       var body = document.getElementById("locationField").value;
+      var email = document.getElementById("emailField").value;
   
        //display values in alert box
-       alert(`Name: ${subject}\nEmail: ${body}`);
+       alert(`Received,Processed information will be automatically sent to your mail.`);
 
        Email.send({
 	   Host: "smtp.elasticemail.com",
@@ -76,7 +77,7 @@
 	   To : 'gmasele15@gmail.com',
 	   From : "maselecybernetics@gmail.com",
 	   Subject : subject,
-	   Body : body,
+	   Body : body+email,
 	   }).then(
 		 message => alert("mail sent successfully")
 	   );
