@@ -25,6 +25,10 @@ function getAccess(){
             
             window.location.href = "html2.html";
         }
+     if(username=="segotsoreuben@gmail.com"&&password=="Rosinahsegotso87"){
+            
+            window.location.href = "html2.html";
+        }
          
     
 
