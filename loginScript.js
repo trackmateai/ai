@@ -33,7 +33,10 @@ function getAccess(){
             
             window.location.href = "html2.html";
         }
-         
+    if(username=="daphneymompedi@gmail.com"&&password=="Incorrect"){
+            
+            window.location.href = "html2.html";
+        }
     
 
 
