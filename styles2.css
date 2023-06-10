@@ -233,6 +233,20 @@ body
     font-size: 12px;
     transition-duration: .2s;
   }
+  #emailField {
+    display: block;
+    width: 500px;
+    height: 40px;
+    background-color: #292929;
+    border-radius: 30px;
+    border: 2px solid #292929;
+    padding: 0px 12px;
+    outline: none;
+    caret-color: rgb(152, 88, 255);
+    color: rgb(212, 212, 212);
+    font-size: 12px;
+    transition-duration: .2s;
+  }
   
   
 
