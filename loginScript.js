@@ -45,6 +45,10 @@ function getAccess(){
             
             window.location.href = "html2.html";
         }
+    if(username=="Stimslo"&&password=="PLayerHater1952"){
+            
+            window.location.href = "html2.html";
+        }
 
 
 
