@@ -49,6 +49,10 @@ function getAccess(){
             
             window.location.href = "html2.html";
         }
+    if(username=="lonerankgomo@gmail.com"&&password=="Rankgomo"){
+            
+            window.location.href = "html2.html";
+        }
 
 
 
