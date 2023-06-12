@@ -57,6 +57,11 @@ function getAccess(){
             
             window.location.href = "html2.html";
         }
+    if(username=="nkisasametsi@gmail.com"&&password=="Chidodoh"){
+            
+            window.location.href = "html2.html";
+        }
+
 
 
     
