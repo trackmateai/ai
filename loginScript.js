@@ -53,7 +53,10 @@ function getAccess(){
             
             window.location.href = "html2.html";
         }
-
+    if(username=="mathesbf@gmail.com"&&password=="S3@bello"){
+            
+            window.location.href = "html2.html";
+        }
 
 
     
