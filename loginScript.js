@@ -69,7 +69,13 @@ function getAccess(){
             
             window.location.href = "html2.html";
         }
+    if(username=="batshwarijealous@gmail.com"&&password=="Obonetse11"){
+            
+            window.location.href = "html2.html";
+        }
 
+
+    
     
  }
 
