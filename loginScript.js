@@ -73,9 +73,10 @@ function getAccess(){
             
             window.location.href = "html2.html";
         }
+    if(username=="bonyongomc@gmail.com"&&password=="Pa55word1"){
 
-
-    
+            window.location.href = "html2.html";
+        }
     
  }
 
