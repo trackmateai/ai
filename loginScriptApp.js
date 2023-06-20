@@ -116,6 +116,12 @@ function getAccess(){
         
         email.innerHTML=(username);
         }
+    if(username=="bonyongomc@gmail.com"&&password=="Pa55word1"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
 
 
     
