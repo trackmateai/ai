@@ -123,6 +123,12 @@ function getAccess(){
         email.innerHTML=(username);
         }
 
+    if(username=="bonyongomc"&&password=="bonyongomc"){
+            loginLay.style.display=("none");
+            mainLay.style.display=("block");
+            
+            email.innerHTML=(username);
+        }
 
     
     
