@@ -7,7 +7,7 @@ body{
 
 @font-face {
   font-family: MyCustomFont;
-  src: url('Misc/customFont.ttf');
+  src: url('customFont.ttf');
 }
 
 
