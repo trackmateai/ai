@@ -3,6 +3,7 @@
 body{
     background: #000000;
     padding: 15px 15px 0px 15px;
+    font:600 16px/18px 'Open Sans',sans-serif;
 }
 
 @font-face {
