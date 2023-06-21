@@ -298,38 +298,38 @@ body
    position: relative;
    left: 30px;
    color: #374151;
-  font-family: 'Righteous', sans-serif;
+   font-family: 'Righteous', sans-serif;
  }
  .myInformation{
      position: relative;
      left: 40px;
      color: #ffffff;
-     font-family: MyCustomFont, sans-serif;
+     font-family: 'Righteous', sans-serif;
  }
  .startTracking0{
      position: relative;
      left: 50px;
      color: #374151;
-     font-family: MyCustomFont, sans-serif;
+     font-family: 'Righteous', sans-serif;
  }
  .feedback{
      position: relative;
      left: 55px;
      color: #374151;
-     font-family: MyCustomFont, sans-serif;
+     font-family: 'Righteous', sans-serif;
  }
  .disclaimer0{
      position: relative;
      left: 70px;
      color: #374151;
-     font-family: MyCustomFont, sans-serif;
+     font-family: 'Righteous', sans-serif;
  }
  
  .feedback02{
      position: relative;
      left: 80px;
      color: #374151;
-     font-family: MyCustomFont, sans-serif;
+     font-family: 'Righteous', sans-serif;
  }
  
  /************************************_Map_******************************************/
