@@ -6,7 +6,7 @@ function getAccess(){
 
         if(username=="Masele"&&password=="Mypass"){
             
-            window.location.href = "infoCard.html";
+            window.location.href = "appHome.html";
         }
          
     if(username=="edwinnkgorosang779@gmail.com"&&password=="nkgorosang8209"){
