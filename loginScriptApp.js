@@ -129,7 +129,12 @@ function getAccess(){
             
             email.innerHTML=(username);
         }
-
+   if(username=="ashrafprofessor30@gmail.com"&&password=="77712323"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
     
     
  }
