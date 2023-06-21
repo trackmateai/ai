@@ -1,5 +1,5 @@
  
-function feedback(){
+function feedBack9(){
     
     var username = document.getElementById("username").value;
   
