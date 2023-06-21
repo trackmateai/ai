@@ -1,5 +1,5 @@
  
-function feedBack(){
+function cardView(){
     
     var username = document.getElementById("username").value;
   
