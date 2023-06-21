@@ -5,17 +5,17 @@ body
 }
 @font-face {
   font-family: MyCustomFont;
-  src: url('Misc/customFont.ttf');
+  src: url('customFont.ttf');
 }
 
 @font-face {
   font-family: MyCustomFont2;
-  src: url('Misc/font001.ttf');
+  src: url('font001.ttf');
 }
 
 @font-face {
   font-family: MyCustomFont3;
-  src: url('Misc/font004.ttf');
+  src: url('font004.ttf');
 }
 
 .MainLay{
