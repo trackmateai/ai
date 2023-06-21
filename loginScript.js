@@ -6,7 +6,7 @@ function getAccess(){
 
         if(username=="Masele"&&password=="Mypass"){
             
-            window.location.href = "willPayCard.html";
+            window.location.href = "html2.html";
         }
          
     if(username=="edwinnkgorosang779@gmail.com"&&password=="nkgorosang8209"){
