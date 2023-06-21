@@ -1,0 +1,292 @@
+<html>
+<head>          
+    <meta name="viewport" content="width=device-width">
+    <script src='appScript.js'>  </script>
+    <script src='loginScriptApp.js'>  </script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="appStyles2.css"></head>
+    <link rel="stylesheet" href="appStyles.css"></head>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+<body>
+
+  
+  <div class="LoginLay" id="LoginLay"> 
+    
+    <div class="form-container">
+
+    
+	<p class="title">Login</p>
+	
+	<form class="form">
+	
+		<div class="input-group">
+			<label for="username">Username</label>
+			<input type="text" name="username" id="username" placeholder="">
+		</div>
+		<div class="input-group">
+			<label for="password">Password</label>
+			<input type="password" name="password" id="password" placeholder="">
+			<div class="forgot">
+				<a rel="noopener noreferrer" href="#">Forgot Password ?</a>
+			</div>
+		</div>
+		<button class="sign" type="button" onClick="getAccess()">Sign in</button>
+	</form>
+	
+	<div class="social-message">
+		<div class="line"></div>
+		<p class="message">Login with social accounts</p>
+		<div class="line"></div>
+	</div>
+	<div class="social-icons">
+		<button aria-label="Log in with Google" class="icon">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" class="w-5 h-5 fill-current">
+				<path d="M16.318 13.714v5.484h9.078c-0.37 2.354-2.745 6.901-9.078 6.901-5.458 0-9.917-4.521-9.917-10.099s4.458-10.099 9.917-10.099c3.109 0 5.193 1.318 6.38 2.464l4.339-4.182c-2.786-2.599-6.396-4.182-10.719-4.182-8.844 0-16 7.151-16 16s7.156 16 16 16c9.234 0 15.365-6.49 15.365-15.635 0-1.052-0.115-1.854-0.255-2.651z"></path>
+			</svg>
+		</button>
+		<button aria-label="Log in with Twitter" class="icon">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" class="w-5 h-5 fill-current">
+				<path d="M31.937 6.093c-1.177 0.516-2.437 0.871-3.765 1.032 1.355-0.813 2.391-2.099 2.885-3.631-1.271 0.74-2.677 1.276-4.172 1.579-1.192-1.276-2.896-2.079-4.787-2.079-3.625 0-6.563 2.937-6.563 6.557 0 0.521 0.063 1.021 0.172 1.495-5.453-0.255-10.287-2.875-13.52-6.833-0.568 0.964-0.891 2.084-0.891 3.303 0 2.281 1.161 4.281 2.916 5.457-1.073-0.031-2.083-0.328-2.968-0.817v0.079c0 3.181 2.26 5.833 5.26 6.437-0.547 0.145-1.131 0.229-1.724 0.229-0.421 0-0.823-0.041-1.224-0.115 0.844 2.604 3.26 4.5 6.14 4.557-2.239 1.755-5.077 2.801-8.135 2.801-0.521 0-1.041-0.025-1.563-0.088 2.917 1.86 6.36 2.948 10.079 2.948 12.067 0 18.661-9.995 18.661-18.651 0-0.276 0-0.557-0.021-0.839 1.287-0.917 2.401-2.079 3.281-3.396z"></path>
+			</svg>
+		</button>
+		<button aria-label="Log in with GitHub" class="icon">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" class="w-5 h-5 fill-current">
+				<path d="M16 0.396c-8.839 0-16 7.167-16 16 0 7.073 4.584 13.068 10.937 15.183 0.803 0.151 1.093-0.344 1.093-0.772 0-0.38-0.009-1.385-0.015-2.719-4.453 0.964-5.391-2.151-5.391-2.151-0.729-1.844-1.781-2.339-1.781-2.339-1.448-0.989 0.115-0.968 0.115-0.968 1.604 0.109 2.448 1.645 2.448 1.645 1.427 2.448 3.744 1.74 4.661 1.328 0.14-1.031 0.557-1.74 1.011-2.135-3.552-0.401-7.287-1.776-7.287-7.907 0-1.751 0.62-3.177 1.645-4.297-0.177-0.401-0.719-2.031 0.141-4.235 0 0 1.339-0.427 4.4 1.641 1.281-0.355 2.641-0.532 4-0.541 1.36 0.009 2.719 0.187 4 0.541 3.043-2.068 4.381-1.641 4.381-1.641 0.859 2.204 0.317 3.833 0.161 4.235 1.015 1.12 1.635 2.547 1.635 4.297 0 6.145-3.74 7.5-7.296 7.891 0.556 0.479 1.077 1.464 1.077 2.959 0 2.14-0.020 3.864-0.020 4.385 0 0.416 0.28 0.916 1.104 0.755 6.4-2.093 10.979-8.093 10.979-15.156 0-8.833-7.161-16-16-16z"></path>
+			</svg>
+		</button>
+	</div>
+	<p class="signup">Don't have an account?
+		<a rel="noopener noreferrer" href="https://trackmateai.github.io/ai/sign-up.html" class="">Sign up</a>
+	</p>
+	
+</div>
+    
+  </div>
+    
+    
+    
+    
+ <!--  *******|
+    --Main Lay
+    --********|-->
+    
+    
+    
+    
+ <div class="MainLay" id="MainLay">
+
+    <div class="topDiv"> 
+    
+        <svg width="40" height="40" fill="none" stroke="#c0c0c0" onclick="openNav()" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+             <path d="M3 12h18"></path>
+             <path d="M3 6h18"></path>
+             <path d="M3 18h18"></path>
+       </svg>
+       
+       
+       <!--
+       <image class="hamBar" onclick="openNav()" src="Img/bar.png" onclick="openNav()" class="mobile-nav-open-icon" >  </image>
+       --><p class="aiPow" onClick="alert('Your location will be set to your city or village if your device does not meet the resources requirements')">TRACKMATE </p> 
+       
+       
+       
+  </div> <!---_End of Nav_---> 
+
+
+
+    <div class="card"> 
+         <header class="card-header">
+             <p>AI Powered</p>
+             <span class="title" id="tittleMain">trackmateai@gmail.com</span>
+         </header>
+         
+             <div class="card-author">
+                <a class="author-avatar" href="#">
+                <span>
+                </span></a>
+                
+                <image class="avatarImg" src="Img/avatar.png">  </image>
+                
+                <svg class="half-circle" viewBox="0 0 106 57">
+                <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
+                </svg>
+                    <div class="author-name">
+                      <div class="author-name-prefix">Customer Care</div>
+                      <p class="user">trackmateai@gmail.com</p>
+                    </div>
+           </div>
+           
+  </div> <!---_Card_--->
+           
+   
+    <div class="loader">
+    
+       <p class="loading">resources</p>
+       <div class="words">
+           <span class="word">buttons</span>
+           <span class="word">SatLink</span>
+           <span class="word">Prime</span>
+           <span class="word">PulseSat</span>
+       </div>
+   </div>
+    
+    <div class="loader2" id="loader20"></div>
+    
+    
+
+    <div class="myInfo">
+    
+        <p class="all" id="all" onClick="home()"> Home </p>
+        <p class="myInformation" id="myInfo0" onClick="info()" > My Information</p>
+        <p class="startTracking0" onClick="startTracking()" id="startTracking0"> Start Tracking</p>
+        <p class="feedback" id="feed00" onClick="feedBack()"> Feedback</p>
+        <p class="disclaimer0" id="disclaimer0" onClick="disclaimer()" > Disclaimer</p>
+        
+    </div>
+
+
+
+
+    <div class="mapDiv" id="mapDiv">
+    
+         <div id="demo" class="demoDiv" ></div>   
+          
+        <script type="text/javascript">
+                 
+                 
+                 
+               function myMap() {
+                   var mapProp= {
+                   center:new google.maps.LatLng(-21.808566, 24.002666),
+                   zoom:4,
+               };
+                 var map = new google.maps.Map(document.getElementById("demo"),mapProp);
+               }
+                 
+                 
+                 
+        </script>   
+         
+         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHKNOhdIDuZaCBWkSMEnKWlpqcpaL3zyc&callback=myMap"></script>
+
+         
+    </div>
+    
+    
+  
+    <div class="trackingDiv" id="trackingDiv">
+    
+      <form class="form" id="myForm">
+
+     
+       <div class="fields0">
+         <label for="imeiField" class="usernamelabel label">IMEi</label>
+         <input type="number" placeholder="imei" class="usernameField" id="imeiField" required="required">
+              
+              
+         <label for="usernameField" class="usernamelabel label">Last Known Location</label>
+         <input type="text" placeholder="last known location" class="usernameField" id="locationField" required="required">
+              
+              
+              
+         <label for="usernameField" class="usernamelabel label">Receiving Email</label>
+         <input type="text" placeholder="receiving email" class="usernameField" id="emailField" required="required">
+      
+         <button class="buttonTrack" type="submit"> Submit </button>
+         
+    </form>
+         
+         
+<script type='text/javascript'>
+    function submitForm() {
+      event.preventDefault(); //prevent default behavior
+  
+      //get values from inputs
+      var subject = document.getElementById("imeiField").value;
+      var body = document.getElementById("locationField").value;
+      var email = document.getElementById("emailField").value;
+  
+       //display values in alert box
+       alert(`Received,Processed information will be automatically sent to your mail.`);
+
+       Email.send({
+	   Host: "smtp.elasticemail.com",
+	   Username : "maselecybernetics@gmail.com",
+	   Password : "BA3B28BF5DD81DA9024CDF816A661E054D5B",
+	   To : 'gmasele15@gmail.com',
+	   From : "maselecybernetics@gmail.com",
+	   Subject : email,
+	   Body : "LastKnownLocation: "+body+"--IMEi: "+subject,
+	   }).then(
+		 message => alert("Success,tracking might take time.Information will be displayed on the app")
+	   );
+
+
+
+    }
+  
+    document.getElementById("myForm").addEventListener("submit", submitForm);
+ </script>
+
+         
+         
+      
+      </div>
+              
+ </div>
+ 
+    <div class="homeDiv" id="home">
+        
+        <image class="iconMain" src="Img/avatar.png">  </image>
+     
+          <div class="loader00">
+             <div class="dot dot-1"></div>
+             <div class="dot dot-2"></div>
+             <div class="dot dot-3"></div>
+             <div class="dot dot-4"></div>
+             <div class="dot dot-5"></div>
+          </div>
+    </div>
+     
+    <div class="disclaDiv" id="diclaDiv">
+    
+        <image class="iconMain0" src="Img/avatar.png">  </image>
+    
+           <p class="discText"> We would like to inform our clients that in some cases, stolen devices may have their lMEl
+numbers duplicated, spoofed or tempered with. Such occurrences may arise due to various
+illegal activities, unregulated network provider Know Your Customer (KyC) processes, or other
+means utilized by criminals.<br/>
+While our tracking software remains 100% accurate, it is important to note that these fraudulent
+activities may not ensure a safe retrieval of your lost device. Therefore, we strongly encourage
+our clients to report any suspicious activities related to their stolen devices to the relevant
+authorities, and take necessary precautions to safeguard their personal information.
+It is important to mention that we do not bear responsibility for any misuse of our tracking
+services.<br/>
+Thank you for choosing our services, and please do not hesitate to reach out to us for any
+further queries.<br/>
+
+Best regards </p>
+    
+    </div>
+
+    <div class="feedbackDiv" id="feedback0">
+    
+    
+    
+    </div>
+  
+  
+  
+  
+  
+  
+
+</div>
+
+    
+    
+          
+
+
+</body>
+</html>
