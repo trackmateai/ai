@@ -23,6 +23,10 @@ body
     display: none;
 }
 
+.appCardInfo{
+     display: none;
+}
+
  .topDiv{
      
      position: absolute;
@@ -772,7 +776,6 @@ body
     gap: 0.7rem;
     padding: 1em;
     padding-top: 1.4em;
-    display: none;
   }
   
   
