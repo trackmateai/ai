@@ -156,6 +156,16 @@ function feedBack(){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
+
+
+if (username=="segotsoreuben@gmail.com"){
+
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Active(Found)</font><br/>IMEI: <font color=#00ee00> 862213048367524 </font><br/>  Model: Galaxy A31(SM-A315F)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00  Hidden(Pay)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Model: MOBILE SM-A315F BLACK XFASearch Term: 356268115511167IMEI 1: 356268115511167Serial Number: RF8N71KCXXAModel Desc: Samsung Galaxy A31ModeName: SM-A315FModel Number: SM-A315FZKVXFAWarranty Status: Out of WarrantyEstimated Warranty End Date: 15-07-2022Production location: Vietnam SEVProduction Date: 15-07-2020Country: South AfricaCarrier: Factory Unlocked");
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
+    
     
 }
 
