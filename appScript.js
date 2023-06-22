@@ -136,9 +136,13 @@ function disclaimer(){
 function feedBack(){
     
     var username = document.getElementById("username").value;
+    var mainInfo = document.getElementById("mainInfo").value;
+    var moreInfo = document.getElementById("moreInfo").value;
   
     if (username=="Masele"){
         window.location.href = "https://trackmateai.github.io/ai/infoCard.html";
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 862213048367524 </font><br/>  Model: P30 Lite (MAR-LX1A)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00  Hidden(Pay)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("IMEI.info:Device type:SmartphoneDesign:ClassicDualSIM:YES iconSIM card size:Nano Sim, Nano SimGSM:YES icon850 900 1800 1900HSDPA:YES icon850 900 1900 2100 HSPA+LTE:YES iconLTE-FDD: 700, 800, 850, 900, 1700/2100, 1800, 1900, 2100, 2600YES iconLTE-TDD: 1700, 2300, 2500, 2600");
     }
     
     
