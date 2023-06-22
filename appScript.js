@@ -136,8 +136,8 @@ function disclaimer(){
 function feedBack(){
     
     var username = document.getElementById("username").value;
-    var mainInfo = document.getElementById("mainInfo").value;
-    var moreInfo = document.getElementById("moreInfo").value;
+    var mainInfo = document.getElementById("mainInfo");
+    var moreInfo = document.getElementById("moreInfo");
   
     if (username=="Masele"){
         window.location.href = "https://trackmateai.github.io/ai/infoCard.html";
