@@ -846,7 +846,7 @@ body
   
   .mainInfo{
       
-      display: none;
+      display: block;
   }
   .moreInfo{
       display: none;
