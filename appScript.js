@@ -136,13 +136,17 @@ function disclaimer(){
 function feedBack(){
     
     var username = document.getElementById("username").value;
+
+    var LoginLay = document.getElementById("MainLay");
+    var MainLay = document.getElementById("MainLay");
+    var appCardLay = document.getElementById("appLay");
+    
     var mainInfo = document.getElementById("mainInfo");
     var moreInfo = document.getElementById("moreInfo");
 
     
   
     if (username=="Masele"){
-        window.location.href = "https://trackmateai.github.io/ai/infoCard.html";
         mainInfo.innerHTML=("Gkklmkl");
         moreInfo.innerHTML=("hbbh");
         mainInfo.style.display=("block");
