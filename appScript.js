@@ -137,22 +137,25 @@ function feedBack(){
     
     var username = document.getElementById("username").value;
 
-    var LoginLay = document.getElementById("MainLay");
-    var MainLay = document.getElementById("MainLay");
-    var appCardLay = document.getElementById("appLay");
+    var myLoginLay = document.getElementById("LoginLay");
+    var myMainLay = document.getElementById("MainLay");
+    var myInfoLay = document.getElementById("InfoLay");
+
+            myLoginLay.style.display=("none");
+            myMainLay.style.display=("none");
+            myInfoLay.style.display=("block");
     
     var mainInfo = document.getElementById("mainInfo");
     var moreInfo = document.getElementById("moreInfo");
 
     
-  
     if (username=="Masele"){
-        mainInfo.innerHTML=("Gkklmkl");
-        moreInfo.innerHTML=("hbbh");
+
+        mainInfo.innerHTML=("Should work");
+        moreInfo.innerHTML=("More info here");
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
-    
     
 }
 
