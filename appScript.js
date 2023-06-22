@@ -166,6 +166,14 @@ if (username=="segotsoreuben@gmail.com"){
         moreInfo.style.display=("block");
     }
     
+if (username=="Ashrafprofessor30@gmail.com"){
+
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI:<font color=#00ee00> 3582619114645561 </font><br/>  Model: Galaxy A04S (SM-A047F)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00  Hidden(Pay)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A047F/DS BLACK AFASearch Term: 358261911464556IMEI 1: 358261911464556Serial Number: RZ8W206VQRAModel Desc: Samsung Galaxy A04s Model Name: SM-A047F/DS Model Number: SM-A047FZKDAFA Warranty Status: Warranty Active Estimated Warranty End Date: 11-02-2025 Production location: Brazil SEDA Production Date: 11-02-2023 Country: South Africa Carrier: Factory Unlocked ");
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
+    
     
 }
 
