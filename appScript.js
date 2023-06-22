@@ -138,6 +138,9 @@ function feedBack(){
     var username = document.getElementById("username").value;
     var mainInfo = document.getElementById("mainInfo");
     var moreInfo = document.getElementById("moreInfo");
+
+    mainInfo.style.display=("block");
+    moreInfo.style.display=("block");
   
     if (username=="Masele"){
         window.location.href = "https://trackmateai.github.io/ai/infoCard.html";
