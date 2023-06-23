@@ -136,5 +136,11 @@ function getAccess(){
         email.innerHTML=(username);
         }
     
+   if(username=="klaytonseltok@gmail.com"&&password=="Afiwaselato2016"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
     
  }
