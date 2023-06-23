@@ -157,5 +157,13 @@ function getAccess(){
         email.innerHTML=(username);
         }
     
+   if(username=="slamd.mogotsi@gmail.com"&&password=="Mmolimi.1995"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
+
+    
     
  }
