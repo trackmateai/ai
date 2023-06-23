@@ -150,9 +150,13 @@ function feedBack(){
 
     
     if (username=="Masele"){
+          var firstInfo= "my first info here";
+          var secondInfo= "my second info here";
         
+         mainInfo.innerHTML=(firstInfo);
+         moreInfo.innerHTML=(secondInfo);
          mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+         moreInfo.style.display=("block");
     }
 
 
