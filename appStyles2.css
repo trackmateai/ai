@@ -808,6 +808,7 @@ body
   .cardGale .cardGale__btns {
     display: flex;
     gap: 0.6rem;
+    padding: 4px;
   }
   
   .cardGale .watch-btnGale {
