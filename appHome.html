@@ -62,9 +62,18 @@
         <button class="add-btnGale">+</button>
         <button class="watch-btnGale" type="button" onClick="payWhatsapp()">Pay Through Agent</button>
     </div>
+	
+    <div class="cardGale__btns">
+        <button class="add-btnGale">+</button>
+        <button class="watch-btnGale" type="button" onClick="payPaypal()">Pay With PayPal</button>
+    </div>
 	<script>
             function payWhatsapp(){
                 window.location.href=("https://wa.me/qr/SBM564SD7CPVE1");
+            }
+		
+            function payPaypal(){
+                window.location.href=("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VY7G3XJJ9QQ9G");
             }
         </script>
 </div>
