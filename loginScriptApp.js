@@ -150,6 +150,12 @@ function getAccess(){
         email.innerHTML=(username);
         }
 
+   if(username=="ftando8@gmail.com"&&password=="FrancoT1994!"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
     
     
  }
