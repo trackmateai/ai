@@ -150,14 +150,9 @@ function feedBack(){
 
     
     if (username=="Masele"){
-
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354242786621219</font><br/>  Model: Camon 16 <br/>Brand: Tecno<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Pay)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Device type: Smartphone Design:
-                            Classic DualSIM: yes SIM card size: Nano Sim, Nano Sim GSM:
-        YES850 900 1800 1900 HSDPA: YES icon 850 900 2100 HSPA+ LTE: YES icon LTE-FDD: 800, 850, 900, 1800, 2100, 2600 YES icon 
-            LTE-TDD: 2300, 2500, 2600 Other: WCDMA Dimensions (H/L/W): 170.9 x 77.2 x 9.2
-                mm, vol. 121.4 cm³ Display: LCD IPS Color (16M) 720x1640px (6.8") 263ppi Tou
-                    ch screen: YES Weight: 207 g Battery: Li-Ion 5000 mAh Non-removable battery: YES icon Built-in memory: YES icon128 GB Memory card: YES iconmicroSDXC RAM Memory: 4 GBore) GPU Type: Mali-G52 2EEMC2 ");
+        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Active(Found)</font><br/>IMEI: <font color=#00ee00> 862213048367524 </font><br/>  Model: Galaxy A31(SM-A315F)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00  Hidden(Pay)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Model: MOBILE SM-A315F BLACK XFASearch Term: 356268115511167IMEI 1: 356268115511167Serial Number: RF8N71KCXXAModel Desc: Samsung Galaxy A31ModeName: SM-A315FModel Number: SM-A315FZKVXFAWarranty Status: Out of WarrantyEstimated Warranty End Date: 15-07-2022Production location: Vietnam SEVProduction Date: 15-07-2020Country: South AfricaCarrier: Factory Unlocked");
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
