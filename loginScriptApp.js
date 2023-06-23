@@ -142,5 +142,14 @@ function getAccess(){
         
         email.innerHTML=(username);
         }
+     
+   if(username=="mmopsconsultants@gmail.com"&&password=="mmops123"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
+
+    
     
  }
