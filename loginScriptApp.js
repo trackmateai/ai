@@ -163,6 +163,12 @@ function getAccess(){
         
         email.innerHTML=(username);
         }
+    if(username=="gdonaldompatile@gmail.com"&&password=="901019727G"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
 
     
     
