@@ -151,7 +151,20 @@ function feedBack(){
     
     if (username=="Masele"){
           var firstInfo= "my first info here";
-          var secondInfo= "my second info here";
+          var secondInfo= "Model Info: MOBILE SM-A217F/DS BLACK XFA
+Search Term: 355177110558514
+IMEI 1: 355177110558514
+Serial Number: RF8N826WBSM
+Model Desc: Samsung Galaxy A21s
+Model Name: SM-A217F/DS
+Model Number: SM-A217FZKDXFA
+Warranty Status: Out of Warranty
+Estimated Warranty End Date: 20-08-2022
+Production location: Vietnam SEV
+Production Date: 20-08-2020
+Country: South Africa
+Carrier: Factory Unlocked
+";
         
          mainInfo.innerHTML=(firstInfo);
          moreInfo.innerHTML=(secondInfo);
@@ -161,6 +174,9 @@ function feedBack(){
 
 
 if (username=="segotsoreuben@gmail.com"){
+         mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355177110558514</font><br/>  Model: Galaxy A21s (SM-217F) <br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+         moreInfo.innerHTML=("Model Info: MOBILE SM-A217F/DS BLACK XFA Search Term: 355177110558514 IMEI 1: 355177110558514 Serial Number: RF8N826WBSM Model Desc: Samsung Galaxy A21s Model Name: SM-A217F/DS Model Number: SM-A217FZKDXFA Warranty Status: Out of Warranty Estimated Warranty End Date: 20-08-2022 Production location: Vietnam SEV Production Date: 20-08-2020 Country: South Africa Carrier: Factory Unlocked ");
+    
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
