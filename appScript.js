@@ -177,8 +177,8 @@ if (username=="ashrafprofessor30@gmail.com"){
     }
 if (username=="ftando8@gmail.com"){
 
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354242786621219</font><br/>  Model: Camon 16 <br/>Brand: Tecno<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Pay)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Device type: Smartphone Design: Classic DualSIM: yes SIM card size: Nano Sim, Nano Sim GSM:YES850 900 1800 1900 HSDPA: YES icon 850 900 2100 HSPA+ LTE: YES icon LTE-FDD: 800, 850, 900, 1800, 2100, 2600 YES icon LTE-TDD: 2300, 2500, 2600 Other: WCDMA Dimensions (H/L/W): 170.9 x 77.2 x 9.2 mm, vol. 121.4 cm³ Display: LCD IPS Color (16M) 720x1640px (6.8inch) 263ppi Touch screen: YES Weight: 207 g Battery: Li-Ion 5000 mAh Non-removable battery: YES icon Built-in memory: YES icon128 GB Memory card: YES iconmicroSDXC RAM Memory: 4 GBore GPU Type: Mali-G52 2EEMC2 ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352938776602737</font><br/>  Model: Galaxy A52 4G(525F) <br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A525F BLUE MEA Search Term: 352938776602737 IMEI 1: 352938776602737 Serial Number: RZ8R322MZ0E Model Desc: Samsung Galaxy A52 4G Model Name: SM-A525F Model Number: SM-A525FZBHMEA Warranty Status: Out of Warranty Estimated Warranty End Date: 20-03-2023 Production location: Brazil SEDA Production Date: 20-03-2021 Country: United Arab Emirates Carrier: Factory Unlocked");
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
