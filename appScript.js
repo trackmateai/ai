@@ -151,20 +151,7 @@ function feedBack(){
     
     if (username=="Masele"){
           var firstInfo= "my first info here";
-          var secondInfo= "Model Info: MOBILE SM-A217F/DS BLACK XFA
-Search Term: 355177110558514
-IMEI 1: 355177110558514
-Serial Number: RF8N826WBSM
-Model Desc: Samsung Galaxy A21s
-Model Name: SM-A217F/DS
-Model Number: SM-A217FZKDXFA
-Warranty Status: Out of Warranty
-Estimated Warranty End Date: 20-08-2022
-Production location: Vietnam SEV
-Production Date: 20-08-2020
-Country: South Africa
-Carrier: Factory Unlocked
-";
+          var secondInfo= "Model Info: MOBILE SM-A217F/DS BLACK XFA Search Term: 355177110558514 IMEI 1: 355177110558514 Serial Number: RF8N826WBSM Model Desc: Samsung Galaxy A21s Model Name: SM-A217F/DS Model Number: SM-A217FZKDXFA Warranty Status: Out of Warranty Estimated Warranty End Date: 20-08-2022 Production location: Vietnam SEV Production Date: 20-08-2020 Country: South Africa Carrier: Factory Unlocked ";
         
          mainInfo.innerHTML=(firstInfo);
          moreInfo.innerHTML=(secondInfo);
