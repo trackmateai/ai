@@ -170,8 +170,8 @@ if (username=="segotsoreuben@gmail.com"){
     
 if (username=="ashrafprofessor30@gmail.com"){
 
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI:<font color=#00ee00> 3582619114645561 </font><br/>  Model: Galaxy A04S (SM-A047F)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A047F/DS BLACK AFASearch Term: 358261911464556IMEI 1: 358261911464556Serial Number: RZ8W206VQRAModel Desc: Samsung Galaxy A04s Model Name: SM-A047F/DS Model Number: SM-A047FZKDAFA Warranty Status: Warranty Active Estimated Warranty End Date: 11-02-2025 Production location: Brazil SEDA Production Date: 11-02-2023 Country: South Africa Carrier: Factory Unlocked ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351999625875859</font><br/>  Model: Iphone 13 Pro Max (A2641) <br/>Brand: Apple<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Description: IPHONE 13 PRO MAX GPH 256GB-JPNIMEI: 351999625875859 Model Region: Canada, Guam, Japan, Mexico, Puerto Rico, Saudi Arabia, USVI Activation Status: Activated Warranty Status: Coverage Expired Coverage Start Date: Dec 2021 Estimated Purchase Date: Dec 2021 AppleCare Eligible: No Registered Device: YesReplaced Device: No Loaner Device: No IMEI2: 3519996250**9** Serial Number: GGVVYT6JK7 Purchase Country: Japan Demo Unit: No Carrier: This device is UNLOCKED Next Tether Policy: 10 Sim-Lock: Unlocked Find My iPhone: ON iCloud Status: Clean Blacklist Status: Clean ");
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
