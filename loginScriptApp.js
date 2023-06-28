@@ -169,7 +169,12 @@ function getAccess(){
         
         email.innerHTML=(username);
         }
-
+   if(username=="seizsoka5694@gmail.com"&&password=="Seiz569493%"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
     
     
  }
