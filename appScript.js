@@ -151,7 +151,7 @@ function feedBack(){
     
     if (username=="Masele"){
           var firstInfo= "IMEI: 355786376148800 <br/>Model: Iphone 13 Pro     ";
-          var secondInfo= " Status: <font color=#ff0000> Inactive </font> <br/> Last Seen: today 14:53 <br/> Active Number: 71822437 " ;
+          var secondInfo= " Status: <font color=#ff0000> Inactive </font> <br/> Last Seen: today 14:53 <br/> Location: -21.1748359, 27.5038262 <br/> Active Number: 71822437 " ;
         
          mainInfo.innerHTML=(firstInfo);
          moreInfo.innerHTML=(secondInfo);
