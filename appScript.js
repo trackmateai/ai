@@ -150,7 +150,7 @@ function feedBack(){
 
     
     if (username=="Masele"){
-          var firstInfo= "IMEI: 356761352132648 <br/>Model: Tecno Pop5 Pro BD4j     ";
+          var firstInfo= "IMEI: 355786376148800 <br/>Model: Iphone 13 Pro     ";
           var secondInfo= " IMEI: 356761352132648 Brand: Tecno Model: BD4j Model Name: Pop 5 Pro   IMEI.info: Device type: Smartphone Design: Classic Released: January2022 r. DualSIM: YES icon SIM card size: Nano Sim, Nano Sim GSM: YES icon 850 900 1800 1900 HSDPA: YES icon HSPA+ LTE: YES icon LTE-FDD: 700, 800, 850, 900, 1800, 1900, 2100, 2600 YES icon LTE-TDD: 2300 Display: LCD IPS Color (16M) 720x1600px(6.52inch) 269ppi Touch screen: YES " ;
         
          mainInfo.innerHTML=(firstInfo);
