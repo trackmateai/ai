@@ -181,5 +181,12 @@ function getAccess(){
         
         email.innerHTML=(username);
         }
+   if(username=="motsumigorata@gmail.com"&&password=="Tinashe2017*"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
+    
     
  }
