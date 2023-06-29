@@ -175,6 +175,11 @@ function getAccess(){
         
         email.innerHTML=(username);
         }
-    
+    if(username=="vincent.madome7@gmail.com"&&password=="Vineyard88"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
     
  }
