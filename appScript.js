@@ -188,6 +188,13 @@ if (username=="ftando8@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
+if (username=="vincent.madome7@gmail.com"){
+
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350973421316328</font><br/>  Model: Galaxy A34 (SM-A346E) <br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A346E BLACK AFA Search Term: 350973421316328 IMEI 1: 350973421316328 Serial Number: RZCW31ZD1XH Model Desc: Samsung Korea Galaxy A34 5g Model Name: SM-A346E Model Number: SM-A346EZKAAFA Warranty Status: Warranty Active Estimated Warranty End Date: 29-03-2025 Production location: Brazil SEDA Production Date: 29-03-2023 Country: South Africa Carrier: Factory Unlocked "+"What you receive after payment: <br/> *Exact location of the device <br/>* Number used with the device<br/>*Sim card registration details");
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
     
     
     
