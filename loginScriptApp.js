@@ -187,6 +187,12 @@ function getAccess(){
         
         email.innerHTML=(username);
         }
+    if(username=="zibisot@gmail.com"&&password=="Ishmaeltbg@12"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
     
     
  }
