@@ -176,8 +176,8 @@ if (username=="segotsoreuben@gmail.com"){
     
 if (username=="ashrafprofessor30@gmail.com"){
 
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351999625875859</font><br/>  Model: Iphone 13 Pro Max (A2641) <br/>Brand: Apple<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Description: IPHONE 13 PRO MAX GPH 256GB-JPNIMEI: 351999625875859 Model Region: Canada, Guam, Japan, Mexico, Puerto Rico, Saudi Arabia, USVI Activation Status: Activated Warranty Status: Coverage Expired Coverage Start Date: Dec 2021 Estimated Purchase Date: Dec 2021 AppleCare Eligible: No Registered Device: YesReplaced Device: No Loaner Device: No IMEI2: 3519996250**9** Serial Number: GGVVYT6JK7 Purchase Country: Japan Demo Unit: No Carrier: This device is UNLOCKED Next Tether Policy: 10 Sim-Lock: Unlocked Find My iPhone: ON iCloud Status: Clean Blacklist Status: Clean ");
+        mainInfo.innerHTML=("  STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 862851057417985</font><br/>  Model: 9A (M2006C3LI)<br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Description: Redmi 9A <br/> Color: Sea Blue <br/> RAM: 2GB <br/>ROM: 32GB <br/>IMEI: <font color=#00ee0>862851057417985</font> <br/>Brand: Redmi<br/>Model: M2006C3LI<br/>Name: 9A<br/>Purchase Country: India <br/>MI Activation Lock: OFF ");
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
