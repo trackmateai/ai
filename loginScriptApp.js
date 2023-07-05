@@ -131,7 +131,10 @@ function getAccess(){
         }
    if(username=="ashrafprofessor30@gmail.com"&&password=="77712323"){
 
-      Alert("Account has been revoked");
+            loginLay.style.display=("none");
+            mainLay.style.display=("block");
+            
+            email.innerHTML=(username);
         }
     
    if(username=="klaytonseltok@gmail.com"&&password=="Afiwaselato2016"){
