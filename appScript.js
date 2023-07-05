@@ -162,8 +162,8 @@ function feedBack(){
 
 if (username=="segotsoreuben@gmail.com"){
 
-       var firstInfo= "<font color=#ff0000>Invalid IMEi </font>";
-       var secondInfo= "Aborted" ;
+       var firstInfo= "<font color=#ff0000>Awaiting query </font>";
+       var secondInfo= "" ;
         
 
 
