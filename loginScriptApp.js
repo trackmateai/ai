@@ -194,6 +194,13 @@ function getAccess(){
         
         email.innerHTML=(username);
         }
+    if(username=="moatshekingbolt@gmail.com"&&password=="75119359"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
+
     
     
  }
