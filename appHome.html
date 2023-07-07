@@ -274,41 +274,58 @@
          <label for="usernameField" class="usernamelabel label">Receiving Email</label>
          <input type="text" placeholder="receiving email" class="usernameField" id="emailField" required="required">
       
-         <button class="buttonTrack" type="submit"> Submit </button>
          
     </form>
-         
+         <button class="buttonTrack" type="button" onClick="startTrk()"> Start Tracking </button>
          
 <script type='text/javascript'>
-    function submitForm() {
-      event.preventDefault(); //prevent default behavior
-  
-      //get values from inputs
-      var subject = document.getElementById("imeiField").value;
-      var body = document.getElementById("locationField").value;
-      var email = document.getElementById("emailField").value;
-  
-       //display values in alert box
-       alert(`Received,Processed information will be automatically sent to your mail.`);
-/*
-       Email.send({
-	   Host: "smtp.elasticemail.com",
-	   Username : "maselecybernetics@gmail.com",
-	   Password : "BA3B28BF5DD81DA9024CDF816A661E054D5B",
-	   To : 'gmasele15@gmail.com',
-	   From : "maselecybernetics@gmail.com",
-	   Subject : email,
-	   Body : "LastKnownLocation: "+body+"--IMEi: "+subject,
-	   }).then(
-		 message => alert("Success,tracking might take time.Information will be displayed on the app")
-	   );
-*/
+    
+
+    function startTrk(){
+        
+        var subject = document.getElementById("imeiField").value;
+        var body = document.getElementById("locationField").value;
+        var email = document.getElementById("emailField").value;
+        
+        
+        const secretKey = '$2b$10$5.GD5IWqNSL2RsbiNWZdbeQGJ3wkUk/t3ZxfbbLn2ddvAPibpWpr.';
+        const binName= 'myBin';
 
 
-    }
-  
-    document.getElementById("myForm").addEventListener("submit", submitForm);
- </script>
+
+      
+        const data = {
+        IMEi: subject,
+        LastLocation: body,
+        MailTo: email
+      };
+
+      
+       fetch('https://api.jsonbin.io/v3/b', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              "X-Master-Key": secretKey,
+              "X-Bin-Private": true,
+              'X-Bin-Name': email
+            },
+            body: JSON.stringify(data)
+          })
+         .then(response => response.json())
+         .then(jsonData => console.log(jsonData))
+         .catch(error => console.error(error));
+      
+
+
+
+
+            alert("Recieved,processing may take up to an hour.Keep on checking Feedback");
+
+
+
+
+
+</script>
 
          
          
