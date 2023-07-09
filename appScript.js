@@ -177,9 +177,7 @@ if (username=="segotsoreuben@gmail.com"){
 if (username=="ashrafprofessor30@gmail.com"){
 
         mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355528102166924</font><br/>  Model: Galaxy J4 Core (SM-J410F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-J410F/DS BLACK XFA Search Term: 355528102166924 IMEI 1: <font color=#00ee00>355528102166924</font> Serial Number: <font color=#00ee00>RZ8M80ZRB8Z</font> Model Desc: Samsung Galaxy J4 Core Model Name: SM-J410F/DS Model Number: SM-J410FZKDXFA Warranty Status: Out of Warranty Estimated Warranty End Date: 07-08-2021 Production location: Brazil SEDA Production Date: 07-08-2019 Country: South Africa Carrier: Factory Unlocked
-
- ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-J410F/DS BLACK XFA Search Term: 355528102166924 IMEI 1: <font color=#00ee00>355528102166924</font> Serial Number: <font color=#00ee00>RZ8M80ZRB8Z</font> Model Desc: Samsung Galaxy J4 Core Model Name: SM-J410F/DS Model Number: SM-J410FZKDXFA Warranty Status: Out of Warranty Estimated Warranty End Date: 07-08-2021 Production location: Brazil SEDA Production Date: 07-08-2019 Country: South Africa Carrier: Factory Unlocked");
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
