@@ -200,6 +200,12 @@ function getAccess(){
         
         email.innerHTML=(username);
         }
+    if(username=="frankburu77@gmail.com"&&password=="Quinton16"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
 
     
     
