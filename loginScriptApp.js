@@ -218,6 +218,18 @@ function getAccess(){
         
         email.innerHTML=(username);
         }
+    if(username=="stiloryinvest@gmail.com"&&password=="Seema@1990"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
+    if(username=="gmmoaneng@gmail.com"&&password=="72646279"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
     
     
  }
