@@ -212,6 +212,12 @@ function getAccess(){
         
         email.innerHTML=(username);
         }
+     if(username=="seemabokang@yahoo.com"&&password=="Seema@1990"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
     
     
  }
