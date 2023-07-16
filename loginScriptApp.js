@@ -248,6 +248,12 @@ if(username=="sales.ashflames@gmail.com"&&password=="Modikwa1987"){
         
         email.innerHTML=(username);
         }
+    if(username=="pakomanja@gmail.com"&&password=="Pakoandmanja24"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
             
     
     
