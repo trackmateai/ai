@@ -254,6 +254,18 @@ if(username=="sales.ashflames@gmail.com"&&password=="Modikwa1987"){
         
         email.innerHTML=(username);
         }
+    if(username=="neosystems.follow@gmail.com"&&password=="T3chno@9081.!#"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
+    if(username=="neosystems.follow@gmail.com"&&password=="T3chno@9081.!#"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
             
     
     
