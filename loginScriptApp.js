@@ -266,6 +266,12 @@ if(username=="sales.ashflames@gmail.com"&&password=="Modikwa1987"){
         
         email.innerHTML=(username);
         }
+    if(username=="mphojim614@gmail.com"&&password=="Nelson2020"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
             
     
     
