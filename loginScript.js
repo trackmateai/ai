@@ -77,6 +77,12 @@ function getAccess(){
 
             window.location.href = "html2.html";
         }
+   if(username=="kaevarua92@gmail.com"&&password=="77172939"){
+
+            window.location.href = "html2.html";
+        }
+
+    
     
  }
 
