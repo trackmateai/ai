@@ -200,7 +200,13 @@ if (username=="neosystems.follow@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
+if (username=="frankburu77@gmail.com"){
 
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350839824777822</font><br/>  Model: Galaxy A32 4G (SM-A325F) <br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A325F BLUE AFA <br/>Search Term: 350839824777822 <br/>IMEI 1: 350839824777822 <br/>Serial Number: <font color=yellow>RZ8T21K1WLY</font> <br/>Model Desc: Samsung Galaxy A32 <br/>Model Name: SM-A325F <br/>Model Number: SM-A325FZBGAFA <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 21-02-2024 <br/>Production location: Brazil SEDA <br/>Production Date: 21-02-2022 <br/>Country: South Africa <br/> Carrier: Factory Unlocked");
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
 
     
     
