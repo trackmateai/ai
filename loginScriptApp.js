@@ -284,7 +284,13 @@ if(username=="sales.ashflames@gmail.com"&&password=="Modikwa1987"){
         
         email.innerHTML=(username);
         }
-            
+    if(username=="kelediyakgotlal@gmail.com"&&password=="03011988"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
+                
     
     
  }
