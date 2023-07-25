@@ -175,11 +175,7 @@ if (username=="segotsoreuben@gmail.com"){
     }
     
 if (username=="ashrafprofessor30@gmail.com"){
-
-        mainInfo.innerHTML=("<font color=#00ee00>Awaiting query... </font>");
-        moreInfo.innerHTML=("");
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+       window.location.href=("results.html");
     }
 if (username=="ftando8@gmail.com"){
 
