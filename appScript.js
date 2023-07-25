@@ -150,13 +150,7 @@ function feedBack(){
 
     
     if (username=="Masele"){
-          var firstInfo= "Awaiting query...";
-          var secondInfo= "Awaiting query..." ;
-        
-         mainInfo.innerHTML=(firstInfo);
-         moreInfo.innerHTML=(secondInfo);
-         mainInfo.style.display=("block");
-         moreInfo.style.display=("block");
+    window.location.href=("results.html");      
     }
 
 
