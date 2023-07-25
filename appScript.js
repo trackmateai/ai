@@ -197,7 +197,13 @@ if (username=="frankburu77@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
+if (username=="vusatshegofatso@gmail.com"){
 
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 863706058814458</font><br/>  Model: Note 11 Pro 4G(2201116TI) <br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Description: Redmi Note 11 Pro Stealth Black 6GB RAM 128GB ROM <br/>IMEI: <font color=#00ee00> 863706058814458 </font><br/>Brand: Redmi <br/>Model: 2201116TI <br/>Name: Note 11 Pro 4G <br/>Purchase Country: India <br/>MI Activation Lock: <font color=#ff0000> OFF</font>");
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
     
     
     
