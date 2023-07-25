@@ -290,7 +290,22 @@ if(username=="sales.ashflames@gmail.com"&&password=="Modikwa1987"){
         
         email.innerHTML=(username);
         }
-                
+
+    if(username=="tsaonekelediyakgotla@gmail.com"&&password=="botswana"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
+   if(username=="Edditlets@gmail.com"&&password=="71744642"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
+
+
+    
     
     
  }
