@@ -200,10 +200,19 @@ if (username=="frankburu77@gmail.com"){
 if (username=="vusatshegofatso@gmail.com"){
 
         mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 863706058814458</font><br/>  Model: Note 11 Pro 4G(2201116TI) <br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A505F/DS BLACK XXV <br/>Search Term: 356646104723127 <br/>IMEI 1: 356646104723127<br/>Serial Number: R58M68KCBAD <br/>Model Desc: Samsung Galaxy A50 <br/>Model Name: SM-A505F/DS <br/>Model Number: SM-A505FZKDXXV <br/>Warranty Status: Out of Warranty <br/>Estimated Warranty End Date: 29-06-2021 <br/>Production location: Korea SEC<br/>Production Date: 29-06-2019 <br/>Country: Vietnam <br/>Carrier: Factory Unlocked");
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
+if (username=="bamerakolanyane@gmail.com"){
+
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356646104723127</font><br/>  Model:  GALAXY A50 (SM-A505F) <br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
         moreInfo.innerHTML=("Description: Redmi Note 11 Pro Stealth Black 6GB RAM 128GB ROM <br/>IMEI: <font color=#00ee00> 863706058814458 </font><br/>Brand: Redmi <br/>Model: 2201116TI <br/>Name: Note 11 Pro 4G <br/>Purchase Country: India <br/>MI Activation Lock: <font color=#ff0000> OFF</font>");
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
+
+    
     
     
     
