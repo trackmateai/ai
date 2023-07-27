@@ -327,6 +327,12 @@ if(username=="sales.ashflames@gmail.com"&&password=="Modikwa1987"){
         
         email.innerHTML=(username);
         }
+   if(username=="tefgeo@gmail.com"&&password=="Bgeof922"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
     
     
     
