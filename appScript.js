@@ -203,7 +203,10 @@ if (username=="vusatshegofatso@gmail.com"){
     }
 if (username=="bamerakolanyane@gmail.com"){
 
-         window.location.href="resultsBame.html"
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350873070340142</font><br/>  Model: Pop 5 LTE <br/>Brand: Tecno<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("IMEI: 350873070340142 <br/>Brand: Tecno <br/>Model: BD4a <br/>Model Name: Pop 5 LTE ");
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
     
     }
 if (username=="sengwekelediyakgotla@gmail.com"){
