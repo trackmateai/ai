@@ -206,10 +206,8 @@ if (username=="vusatshegofatso@gmail.com"){
     }
 if (username=="bamerakolanyane@gmail.com"){
 
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350543338603363</font><br/>  Model: Galaxy A12 (SM-A127F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A127F BLACK AFA <br/><br/>Search Term: 350543338603363 <br/>IMEI 1: 350543338603363 <br/> Serial Number: <font color=#00ee00>R58T11Z0P9J</font> <br/>Model Desc: Samsung Galaxy A12 <br/>Model Name: SM-A127F <br/>Model Number: SM-A127FZKGAFA <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 17-01-2024<br/>Production location: Korea SEC <br/>Production Date: 17-01-2022 <br/>Country: South Africa <br/>Carrier: Factory Unlocked ");
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+         window.location.href="resultsBame.html"
+    
     }
 if (username=="sengwekelediyakgotla@gmail.com"){
 
