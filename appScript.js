@@ -207,8 +207,8 @@ if (username=="vusatshegofatso@gmail.com"){
     }
 if (username=="bamerakolanyane@gmail.com"){
 
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350873070340142</font><br/>  Model: Pop 5 LTE <br/>Brand: Tecno<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("IMEI: <font color=#00ee00>350873070340142</font> <br/>Brand: Tecno <br/>Model: BD4a <br/>Model Name: Pop 5 LTE ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355705440786155</font><br/>  Model: Galaxy S22+ 5G (SM-S906E) <br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-S906E WHITE AFA <br/Search Term: 355705440786155 <br/>IMEI 1: 355705440786155 <br/>Serial Number:<font color=#00ee00> RFCT30JNPCZ </font><br/>Model Desc: Samsung Galaxy S22+ 5G <br/>Model Name: SM-S906E <br/>Model Number: SM-S906EZWGAFA <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 08-03-2024 <br/>Production location: Vietnam SEV <br/>Production Date: 08-03-2022 <br/>Country: South Africa <br/>Carrier: Factory Unlocked ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
