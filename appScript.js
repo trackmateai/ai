@@ -224,7 +224,13 @@ if (username=="sengwekelediyakgotla@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
-    
+if (username=="gideon2203@gmail.com"){
+
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354401114371430</font><br/>  Model: S42 <br/>Brand: CAT<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("IMEI: 354401114371430 <br/>Brand: Cat <br/>Model: S42 <br/>Model Name: S42 <br/> Design:Classic *Released: July2020 r. *DualSIM: YES  *SIM card size: Nano Sim, Nano Sim *GSM: YES 850 900 1800 1900 *HSDPA: YES 850 900 1700 1900 HSPA+ *LTE: YES *LTE-FDD: 700, 800, 850, 900, 1800, 1900, 2100, 2600 YES *LTE-TDD: 1700 *Dimensions (H/L/W): 161.3 x 77.2 x 12.7 mm, vol. 158.1 cm³ *Display: LCD IPS Color (16M) 720x1440px (5.5inch) 293ppi *Protection LCD: Corning Gorilla Glass 5 * Touch screen: YES  * Weight: 220 g * Battery: Li-Ion 4200 mAh * Built-in memory: YES  32 GB *Memory card: YES microSDXC max. 128 GB * RAM Memory: 3 GB * OS: Android 10 * Chipset: MediaTek Helio A20 MT6761D * CPU #1 Type: ARM Cortex-A53 *CPU #1 freq.: 1800.0MHz (4-core) *GPU Type: PowerVR GE8300 * GPU freq.: 550.0 MHz");
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
     
     
     
