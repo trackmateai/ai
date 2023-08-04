@@ -169,8 +169,8 @@ if (username=="segotsoreuben@gmail.com"){
     }
     
 if (username=="ashrafprofessor30@gmail.com"){
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355528102166924</font><br/>  Model: Galaxy J4 Core (SM-J410F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-J410F/DS BLACK XFA <br/><br/>Search Term: 355528102166924 <br/>IMEI 1:<font color=#00ee00> 355528102166924</font> <br/>Serial Number: <font color=00ee00>RZ8M80ZRB8Z</font> <br/Model Desc: Samsung Galaxy J4 Core <br/>Model Name: SM-J410F/DS <br/Model Number: SM-J410FZKDXFA <br/>Warranty Status: Out of Warranty <br/>Estimated Warranty End Date: 07-08-2021 <br/>Production location: Brazil SEDA <br/>Production Date: 07-08-2019 <br/Country: South Africa <br/>Carrier: Factory Unlocked");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355844445803358</font><br/>  Model: Galaxy A22 (SM-A225F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A225F/DS BLACK MEB <br/>Search Term:<font color=#ff0000> 355844445803358</font> <br/>IMEI 1: 354838355803359 <br/>Serial Number: <font color=#00ee00>R58R75V92SK</font> <br/>Model Desc: Samsung Galaxy A22 <br/>Model Name: SM-A225F/DS <br/>Model Number: SM-A225FZKDMEB <br/>Warranty Status: Out of Warranty <br/>Estimated Warranty End Date: 24-07-2023 <br/>Production location: Korea SEC <br/>Production Date: 24-07-2021 <br/>Country: Pakistan <br/>Carrier: Factory Unlocked ");
         
     mainInfo.style.display=("block");
         moreInfo.style.display=("block");
