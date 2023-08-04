@@ -227,7 +227,11 @@ if (username=="gideon2203@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
+if (username=="gideon2203@gmail.com"){
+
+        window.location.href=("resultsGideon.html");
     
+    }
     
     
 }
