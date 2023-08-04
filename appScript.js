@@ -210,8 +210,8 @@ if (username=="vusatshegofatso@gmail.com"){
     }
 if (username=="bamerakolanyane@gmail.com"){
 
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355705440786155</font><br/>  Model: Galaxy S22+ 5G (SM-S906E) <br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-S906E WHITE AFA <br/Search Term: 355705440786155 <br/>IMEI 1: 355705440786155 <br/>Serial Number:<font color=#00ee00> RFCT30JNPCZ </font><br/>Model Desc: Samsung Galaxy S22+ 5G <br/>Model Name: SM-S906E <br/>Model Number: SM-S906EZWGAFA <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 08-03-2024 <br/>Production location: Vietnam SEV <br/>Production Date: 08-03-2022 <br/>Country: South Africa <br/>Carrier: Factory Unlocked ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 869998050311989</font><br/>  Model: Note 10 Pro (M2101K6G)<br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Description: Redmi Note 10 Pro Onyx Gray 6G RAM 128G ROM <br/>Search Term:<font color=#00ee00> 869998050311989</font> <br/>Brand: Redmi<br/>Model: M2101K6G <br/>Name: Note 10 Pro <br/>Purchase Country: South African <br/>MI Activation Lock: ON <br/><font color=#00ee00>Email Id Hint:</font><font color=#ff0000> mph***@gmail.com</font> ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
