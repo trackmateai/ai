@@ -210,7 +210,7 @@ if (username=="vusatshegofatso@gmail.com"){
     }
 if (username=="bamerakolanyane@gmail.com"){
 
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 869998050311989</font><br/>  Model: Note 10 Pro (M2101K6G)<br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 869998050311989</font><br/>  Model: Note 10 Pro (M2101K6G)<br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  -22.382289973176253, 26.726398271840914</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
         moreInfo.innerHTML=("Description: Redmi Note 10 Pro Onyx Gray 6G RAM 128G ROM <br/>Search Term:<font color=#00ee00> 869998050311989</font> <br/>Brand: Redmi<br/>Model: M2101K6G <br/>Name: Note 10 Pro <br/>Purchase Country: South African <br/>MI Activation Lock: ON <br/><font color=#00ee00>Email Id Hint:</font><font color=#ff0000> mph***@gmail.com</font> ");
         
         mainInfo.style.display=("block");
