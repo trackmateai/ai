@@ -169,8 +169,8 @@ if (username=="segotsoreuben@gmail.com"){
     }
     
 if (username=="ashrafprofessor30@gmail.com"){
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355844445803358</font><br/>  Model: Galaxy A22 (SM-A225F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A225F/DS BLACK MEB <br/>Search Term:<font color=#ff0000> 355844445803358</font> <br/>IMEI 1: 354838355803359 <br/>Serial Number: <font color=#00ee00>R58R75V92SK</font> <br/>Model Desc: Samsung Galaxy A22 <br/>Model Name: SM-A225F/DS <br/>Model Number: SM-A225FZKDMEB <br/>Warranty Status: Out of Warranty <br/>Estimated Warranty End Date: 24-07-2023 <br/>Production location: Korea SEC <br/>Production Date: 24-07-2021 <br/>Country: Pakistan <br/>Carrier: Factory Unlocked ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 357498776870664</font><br/>  Model: Spark Go 2022 <br/>Brand: Tecno<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" IMEI: 357498776870664 <br/>Brand: Tecno <br/>Model: KG5h <br/>Model Name: Spark Go 2022");
         
     mainInfo.style.display=("block");
         moreInfo.style.display=("block");
@@ -217,13 +217,6 @@ if (username=="sengwekelediyakgotla@gmail.com"){
 
         mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00>355235621011199</font><br/>  Model: Galaxy A12 (SM-A125F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  -19.9892349,23.3975764</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
         moreInfo.innerHTML=("Model Info: MOBILE SM-A125F BLUE XXV <br/>Search Term:<font color=#00ee00> 355235621011199</font> <br/>IMEI 1: 354312131011190 <br/>Serial Number: <font color=#00ee00>R58R93BFVWE</font> <br/>Model Desc: Samsung Galaxy A12 <br/>Model Name: SM-A125F <br/>Model Number: SM-A125FZBHXXV <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 25-09-2023 <br/>Production location: Korea SEC <br/>Production Date: 25-09-2021 <br/>Country: Vietnam <br/>Carrier: Factory Unlocked");
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
-    }
-if (username=="gideon2203@gmail.com"){
-
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354401114371430</font><br/>  Model: S42 <br/>Brand: CAT<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("IMEI: 354401114371430 <br/>Brand: Cat <br/>Model: S42 <br/>Model Name: S42 <br/> Design:Classic *Released: July2020 r. *DualSIM: YES  *SIM card size: Nano Sim, Nano Sim *GSM: YES 850 900 1800 1900 *HSDPA: YES 850 900 1700 1900 HSPA+ *LTE: YES *LTE-FDD: 700, 800, 850, 900, 1800, 1900, 2100, 2600 YES *LTE-TDD: 1700 *Dimensions (H/L/W): 161.3 x 77.2 x 12.7 mm, vol. 158.1 cm³ *Display: LCD IPS Color (16M) 720x1440px (5.5inch) 293ppi *Protection LCD: Corning Gorilla Glass 5 * Touch screen: YES  * Weight: 220 g * Battery: Li-Ion 4200 mAh * Built-in memory: YES  32 GB *Memory card: YES microSDXC max. 128 GB * RAM Memory: 3 GB * OS: Android 10 * Chipset: MediaTek Helio A20 MT6761D * CPU #1 Type: ARM Cortex-A53 *CPU #1 freq.: 1800.0MHz (4-core) *GPU Type: PowerVR GE8300 * GPU freq.: 550.0 MHz");
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
