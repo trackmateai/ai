@@ -363,7 +363,7 @@ if(username=="sales.ashflames@gmail.com"&&password=="Modikwa1987"){
         
         email.innerHTML=(username);
         }
-    f(username=="sirserwalo@gmail.com"&&password=="Onameditse"){
+    if(username=="sirserwalo@gmail.com"&&password=="Onameditse"){
         loginLay.style.display=("none");
         mainLay.style.display=("block");
         
