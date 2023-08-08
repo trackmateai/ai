@@ -357,6 +357,13 @@ if(username=="sales.ashflames@gmail.com"&&password=="Modikwa1987"){
         
         email.innerHTML=(username);
         }
+   if(username=="emmahdt@gmail.com"&&password=="326419914"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);
+        }
+            
     
     
  }
