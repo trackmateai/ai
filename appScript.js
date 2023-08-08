@@ -230,6 +230,11 @@ if (username=="phlpkhaya@gmail.com"){
         window.location.href=("resultsPhlp.html");
     
     }
+if (username=="emmahdt@gmail.com"){
+
+        window.location.href=("resultsEmmah.html");
+    
+    }
     
     
 }
