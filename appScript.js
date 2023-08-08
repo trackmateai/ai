@@ -235,6 +235,11 @@ if (username=="emmahdt@gmail.com"){
         window.location.href=("resultsEmmah.html");
     
     }
+    if (username=="sirserwalo@gmail.com"){
+
+        window.location.href=("resultsSirserwalo.html");
+    
+    }
     
     
 }
