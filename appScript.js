@@ -225,6 +225,11 @@ if (username=="gideon2203@gmail.com"){
         window.location.href=("resultsGideon.html");
     
     }
+if (username=="phlpkhaya@gmail.com"){
+
+        window.location.href=("resultsPhlp.html");
+    
+    }
     
     
 }
