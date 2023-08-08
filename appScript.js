@@ -169,8 +169,8 @@ if (username=="segotsoreuben@gmail.com"){
     }
     
 if (username=="ashrafprofessor30@gmail.com"){
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 357498776870664</font><br/>  Model: Spark Go 2022 <br/>Brand: Tecno<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" IMEI: 357498776870664 <br/>Brand: Tecno <br/>Model: KG5h <br/>Model Name: Spark Go 2022");
+        mainInfo.innerHTML=("<font color=#00ee00>356324221162426 </font>is an <font color=#ff0000>INVAILD</font> IMEi. Please check and input the correct IMEi ");
+        moreInfo.innerHTML=(" ");
         
     mainInfo.style.display=("block");
         moreInfo.style.display=("block");
