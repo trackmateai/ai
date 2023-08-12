@@ -369,7 +369,11 @@ if(username=="sales.ashflames@gmail.com"&&password=="Modikwa1987"){
         
         email.innerHTML=(username);
         }
-            
+     if(username=="thabangthutogidion@gmail.com"&&password=="Gidion@1998"){
+        loginLay.style.display=("none");
+        mainLay.style.display=("block");
+        
+        email.innerHTML=(username);    
     
     
  }
