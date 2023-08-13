@@ -9,11 +9,13 @@ function getAccess(){
     var mainLay= document.getElementById("MainLay");
     
     var email= document.getElementById("tittleMain");
+
+    alert("System under maintainance,tracking services would not be available until 18:00");
     
 
 
 
-        if(username=="Masele"&&password=="Mypass"){
+    if(username=="Masele"&&password=="Mypass"){
             loginLay.style.display=("none");
             mainLay.style.display=("block");
             
