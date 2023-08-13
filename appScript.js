@@ -235,11 +235,17 @@ if (username=="emmahdt@gmail.com"){
         window.location.href=("resultsEmmah.html");
     
     }
-    if (username=="sirserwalo@gmail.com"){
+if (username=="sirserwalo@gmail.com"){
 
         window.location.href=("resultsSirserwalo.html");
     
     }
+if (username=="thabangthutogidion@gmail.com"){
+
+        window.location.href=("resultsThabang.html");
+    
+    }
+
     
     
 }
