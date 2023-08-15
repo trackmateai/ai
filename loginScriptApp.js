@@ -10,7 +10,7 @@ function getAccess(){
     
     var email= document.getElementById("tittleMain");
 
-    alert("System under maintainance,tracking services would not be available until 06:00");
+    
     
 
 
