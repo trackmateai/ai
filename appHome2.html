@@ -1,0 +1,335 @@
+<html>
+<head>          
+    <meta name="viewport" content="width=device-width">
+    <script src='appScript.js'>  </script>
+    <script src='loginScriptApp.js'>  </script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="appStyles2.css"></head>
+    <link rel="stylesheet" href="appStyles.css"></head>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+	<style>
+          @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+        </style>
+<body>
+
+
+
+
+
+	
+<!----
+     Card Info
+	--->
+
+
+	
+	
+<div class="appCardInfo" id="InfoLay">
+
+              
+
+<div class="cardGale">
+    <div class="cardGale-top">
+        <p class="cardGale__title">Device Query</p>
+        <div class="rating">
+            <svg width="17" height="17" viewBox="0 0 17 17" fill="none">
+                <path d="M8.51948 1.625C9.1214 1.625 10.0427 4.16625 10.4636 5.43013C10.6014 5.8437 10.9837 6.13054 11.4192 6.14904C12.7373 6.20505 15.375 6.39722 15.375 7.0384C15.375 7.66696 13.5161 9.17543 12.5322 9.92976C12.1816 10.1986 12.0365 10.6604 12.1687 11.082C12.5631 12.34 13.2755 14.8755 12.7573 15.3009C12.2506 15.717 10.2147 14.2326 9.15246 13.4009C8.77021 13.1016 8.22949 13.1012 7.84719 13.4004C6.78473 14.2321 4.75246 15.717 4.28166 15.3009C3.79912 14.8745 4.47615 12.3275 4.84741 11.0727C4.97086 10.6555 4.82425 10.2029 4.47885 9.93826C3.49798 9.18681 1.625 7.66933 1.625 7.0384C1.625 6.3962 4.2711 6.20444 5.5871 6.14878C6.0197 6.13048 6.3998 5.84769 6.53973 5.43793C6.97041 4.17673 7.91633 1.625 8.51948 1.625Z" fill="#00B9AE" stroke="#00B9AE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
+        </div>
+    </div>
+    
+<div class="MainGale">
+    
+    <p class="mainInfo" id="mainInfo"> <font color=#00ee00> Awaiting query intel... </font> </p>
+
+</div>
+
+<div class="MoreGale">
+
+     <p class="moreInfo" id="moreInfo">
+
+     </p>
+
+</div>
+    
+    
+    
+    <div class="cardGale__info">
+        <p class="episode__num">46Ep</p>
+        <p class="episode__type">Price:200BWP</p>
+    </div>
+    <div class="cardGale__btns">
+        <button class="add-btnGale">+</button>
+        <button class="watch-btnGale" type="button" onClick="payWhatsapp()">Pay Through Agent</button>
+    </div>
+	
+    <div class="cardGale__btns">
+        <button class="add-btnGale">+</button>
+        <button class="watch-btnGale" type="button" onClick="payPaypal()">Pay With PayPal</button>
+    </div>
+	<div class="cardGale__btns">
+        <button class="add-btnGale">+</button>
+        <button class="watch-btnGale" type="button" onClick="window.location.href='visaPay.html'">Pay With Credit Card</button>
+    </div>
+	<script>
+            function payWhatsapp(){
+                window.location.href=("https://wa.me/qr/SBM564SD7CPVE1");
+            }
+		
+            function payPaypal(){
+                window.location.href=("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VY7G3XJJ9QQ9G");
+            }
+        </script>
+</div>
+
+
+	  
+  </div><!----cardEnd---->
+    
+          
+
+
+
+
+
+
+
+
+	
+    
+ <!--  *******|
+    --Main Lay
+    --********|-->
+    
+    
+    
+    
+ <div class="MainLay" id="MainLay">
+
+    <div class="topDiv"> 
+    
+        <svg width="40" height="40" fill="none" stroke="#c0c0c0" onclick="openNav()" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+             <path d="M3 12h18"></path>
+             <path d="M3 6h18"></path>
+             <path d="M3 18h18"></path>
+       </svg>
+       
+       
+       <!--
+       <image class="hamBar" onclick="openNav()" src="Img/bar.png" onclick="openNav()" class="mobile-nav-open-icon" >  </image>
+       --><p class="aiPow" onClick="alert('Your location will be set to your city or village if your device does not meet the resources requirements')">TRACKMATE </p> 
+       
+       
+       
+  </div> <!---_End of Nav_---> 
+
+
+
+    <div class="card"> 
+         <header class="card-header">
+             <p>AI Powered</p>
+             <span class="title" id="tittleMain">trackmateai@gmail.com</span>
+         </header>
+         
+             <div class="card-author">
+                <a class="author-avatar" href="#">
+                <span>
+                </span></a>
+                
+                <image class="avatarImg" src="avatar.png">  </image>
+                
+                <svg class="half-circle" viewBox="0 0 106 57">
+                <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
+                </svg>
+                    <div class="author-name">
+                      <div class="author-name-prefix">Customer Care</div>
+                      <p class="user">trackmateai@gmail.com</p>
+                    </div>
+           </div>
+           
+  </div> <!---_Card_--->
+           
+   
+    <div class="loader">
+    
+       <p class="loading">resources</p>
+       <div class="words">
+           <span class="word">buttons</span>
+           <span class="word">SatLink</span>
+           <span class="word">Prime</span>
+           <span class="word">PulseSat</span>
+       </div>
+   </div>
+    
+    <div class="loader2" id="loader20"></div>
+    
+    
+
+    <div class="myInfo">
+    
+        <p class="all" id="all" onClick="home()"> Home </p>
+        <p class="myInformation" id="myInfo0" onClick="info()" > My Information</p>
+        <p class="startTracking0" onClick="startTracking()" id="startTracking0"> Start Tracking</p>
+        <p class="feedback" id="feed00" onClick="feedBack()"> Feedback</p>
+        <p class="disclaimer0" id="disclaimer0" onClick="disclaimer()" > Disclaimer</p>
+        
+    </div>
+
+
+
+
+    <div class="mapDiv" id="mapDiv">
+    
+         <div id="demo" class="demoDiv" ></div>   
+          
+        <script type="text/javascript">
+                 
+                 
+                 
+               function myMap() {
+                   var mapProp= {
+                   center:new google.maps.LatLng(-21.808566, 24.002666),
+                   zoom:4,
+               };
+                 var map = new google.maps.Map(document.getElementById("demo"),mapProp);
+               }
+                 
+                 
+                 
+        </script>   
+         
+         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHKNOhdIDuZaCBWkSMEnKWlpqcpaL3zyc&callback=myMap"></script>
+
+         
+    </div>
+    
+    
+  
+    <div class="trackingDiv" id="trackingDiv">
+    
+      <form class="form" id="myForm">
+
+     
+       <div class="fields0">
+         <label for="imeiField" class="usernamelabel label">IMEi</label>
+         <input type="number" placeholder="imei" class="usernameField" id="imeiField" required="required">
+              
+              
+         <label for="usernameField" class="usernamelabel label">Last Known Location</label>
+         <input type="text" placeholder="last known location" class="usernameField" id="locationField" required="required">
+              
+              
+              
+         <label for="usernameField" class="usernamelabel label">Receiving Email</label>
+         <input type="text" placeholder="receiving email" class="usernameField" id="emailField" required="required">
+      
+         
+    </form>
+         <button class="buttonTrack" type="button" onClick="startTrk()"> Start Tracking </button>
+         
+<script type='text/javascript'>
+    
+
+    function startTrk(){
+        
+        var subject = document.getElementById("imeiField").value;
+        var body = document.getElementById("locationField").value;
+        var email = document.getElementById("emailField").value;
+        
+        
+        const secretKey = '$2b$10$5.GD5IWqNSL2RsbiNWZdbeQGJ3wkUk/t3ZxfbbLn2ddvAPibpWpr.';
+        const binName= 'myBin';
+
+
+
+      
+        const data = {
+        IMEi: subject,
+        LastLocation: body,
+        MailTo: email
+      };
+
+      
+       fetch('https://api.jsonbin.io/v3/b', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              "X-Master-Key": secretKey,
+              "X-Bin-Private": true,
+              'X-Bin-Name': email
+            },
+            body: JSON.stringify(data)
+          })
+         .then(response => response.json())
+         .then(jsonData => console.log(jsonData))
+         .catch(error => console.error(error));
+      
+
+
+
+
+            alert("Recieved,processing may take up to an hour.Keep on checking Feedback");
+
+
+}
+
+
+</script>
+
+         
+         
+      
+      </div>
+              
+ </div>
+ 
+    <div class="homeDiv" id="home">
+        
+        <image class="iconMain" src="avatar.png">  </image>
+     
+          <div class="loader00">
+             <div class="dot dot-1"></div>
+             <div class="dot dot-2"></div>
+             <div class="dot dot-3"></div>
+             <div class="dot dot-4"></div>
+             <div class="dot dot-5"></div>
+          </div>
+    </div>
+     
+    <div class="disclaDiv" id="diclaDiv">
+    
+        <image class="iconMain0" src="avatar.png">  </image>
+    
+           <p class="discText"> We would like to inform our clients that in some cases, stolen devices may have their lMEl
+numbers duplicated, spoofed or tempered with. Such occurrences may arise due to various
+illegal activities, unregulated network provider Know Your Customer (KyC) processes, or other
+means utilized by criminals.<br/>
+While our tracking software remains 100% accurate, it is important to note that these fraudulent
+activities may not ensure a safe retrieval of your lost device. Therefore, we strongly encourage
+our clients to report any suspicious activities related to their stolen devices to the relevant
+authorities, and take necessary precautions to safeguard their personal information.
+It is important to mention that we do not bear responsibility for any misuse of our tracking
+services.<br/>
+Thank you for choosing our services, and please do not hesitate to reach out to us for any
+further queries.<br/>
+
+Best regards </p>
+    
+    </div>
+
+    <div class="feedbackDiv" id="feedback0">
+    
+    
+    
+    </div>
+  
+  
+  
+  
+  
+  
+
+</div>
+
+</body>
+</html>
