@@ -11,8 +11,11 @@ function openNav(){
 
 
 function startTracking(){
+
+   window.location.href=("https://trackmateai.authgearapps.com/login?q_login_id_input_type=email");
+ 
     
-    
+    /*
     var trkDv= document.getElementById("trackingDiv");
     var mapDv= document.getElementById("mapDiv");
     var homeDv= document.getElementById("home");
@@ -37,7 +40,7 @@ function startTracking(){
     homeDv.style.display=("none");
     homeDv.style.display=("none");
     diclaDiv.style.display=("none");
-    feedDv.style.display=("none");
+    feedDv.style.display=("none"); */
 }
 
 function home(){
