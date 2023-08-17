@@ -106,7 +106,7 @@ function info(){
 
 function disclaimer(){
 
-    window.location.href=("https://trackmateai.github.io/ai/appNewLogin.html");
+    window.location.href=("https://trackmateai.authgearapps.com/settings");
 
     /*
     var trkDv= document.getElementById("trackingDiv");
