@@ -45,7 +45,9 @@ function startTracking(){
 
 function home(){
     
+     window.location.href=("https://trackmateai.authgearapps.com/settings");
     
+    /*
     var trkDv= document.getElementById("trackingDiv");
     var mapDv= document.getElementById("mapDiv");
     var homeDv= document.getElementById("home");
@@ -69,7 +71,7 @@ function home(){
     trkDv.style.display=("none");
     homeDv.style.display=("block");
     diclaDiv.style.display=("none");
-    feedDv.style.display=("none");
+    feedDv.style.display=("none"); */
 }
 
 
@@ -106,9 +108,9 @@ function info(){
 
 function disclaimer(){
 
-    window.location.href=("https://trackmateai.authgearapps.com/settings");
+   
 
-    /*
+    
     var trkDv= document.getElementById("trackingDiv");
     var mapDv= document.getElementById("mapDiv");
     var homeDv= document.getElementById("home");
@@ -135,7 +137,7 @@ function disclaimer(){
     
     var loader= document.getElementById("loader20");
     loader.style.display=("none");
-    feedDv.style.display=("none"); */
+    feedDv.style.display=("none"); 
 }
 
 function feedBack(){
