@@ -158,8 +158,8 @@ function disclaimer(){
 
 function feedBack(){
     
-    var username = document.getElementById("username").value;
-
+    var username= document.getElementById("emailVerify").value;
+    
     var myLoginLay = document.getElementById("LoginLay");
     var myMainLay = document.getElementById("MainLay");
     var myInfoLay = document.getElementById("InfoLay");
