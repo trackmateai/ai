@@ -140,6 +140,22 @@ function disclaimer(){
     feedDv.style.display=("none"); 
 }
 
+
+
+
+
+
+           function showCard(){
+                card3=document.getElementById("card2");
+                card3.style.display=("block");
+             }
+
+
+
+
+
+
+
 function feedBack(){
     
     var username = document.getElementById("username").value;
