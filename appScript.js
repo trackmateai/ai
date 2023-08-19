@@ -155,7 +155,7 @@ function disclaimer(){
 
 
 
-function feedBack(){
+function feedBack0(){
 
 
                 card3=document.getElementById("card3");
