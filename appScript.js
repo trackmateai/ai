@@ -163,11 +163,9 @@ function feedBack0(){
     
     var username= document.getElementById("emailVerify").value;
     
-    var myLoginLay = document.getElementById("LoginLay");
     var myMainLay = document.getElementById("MainLay");
     var myInfoLay = document.getElementById("InfoLay");
 
-            myLoginLay.style.display=("none");
             myMainLay.style.display=("none");
             myInfoLay.style.display=("block");
     
