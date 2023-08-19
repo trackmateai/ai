@@ -149,14 +149,17 @@ function disclaimer(){
                 card3=document.getElementById("card3");
                 card3.style.display=("block");
              }
-
-
+           
 
 
 
 
 
 function feedBack(){
+
+
+                card3=document.getElementById("card3");
+                card3.style.display=("none");
     
     var username= document.getElementById("emailVerify").value;
     
