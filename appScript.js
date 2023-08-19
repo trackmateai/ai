@@ -146,7 +146,7 @@ function disclaimer(){
 
 
            function showCard(){
-                card3=document.getElementById("card2");
+                card3=document.getElementById("card3");
                 card3.style.display=("block");
              }
 
