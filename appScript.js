@@ -270,6 +270,15 @@ if (username=="thabangthutogidion@gmail.com"){
     
     }
 
+if (username=="Ompsmooki@gmail.com"){
+
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 359015631110090</font><br/>  Model: iPhone 12 Pro Max (A2342)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Search Term: 359015631110090 <br/>Brand: Apple <br/>Model: iPhone 12 Pro Max (A2342) <br/>Model Name: iPhone 12 Pro Max <br/>Carrier/SimLock Info: <a href=("#")>HERE</a> (FREE) <br/>Activation/Coverage Check: <a href=("#")>HERE</a> <br/>Find My iPhone: <font color=#ff0000>ON</font> <br/>iCloud Status: Clean");
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
+
+    
     
     
 }
