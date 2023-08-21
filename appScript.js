@@ -284,7 +284,15 @@ if (username=="mmasole92@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
-    
+if (username=="Lebogangmds@gmail.com"){
+
+        mainInfo.innerHTML=("Proper <font color=#00ee00>identification</font> required to reveal your device location and information");
+        moreInfo.innerHTML=("Please complete your account information on Settings");
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
+
+                            
     
     
 }
