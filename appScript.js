@@ -301,7 +301,10 @@ if (username=="Lebogangmds@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
+if (username=="tshephangks@gmail.com"){
 
+        window.location.href=("resultsTshephang.html");
+    }
                             
     
     
