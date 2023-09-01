@@ -305,7 +305,10 @@ if (username=="tshephangks@gmail.com"){
 
         window.location.href=("resultsTshephang.html");
     }
-                            
+if (username=="Ogaatlale@gmail.com"){
+
+        window.location.href=("resultsGabriel3596.html");
+    }                      
     
     
 }
