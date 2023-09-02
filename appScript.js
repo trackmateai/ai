@@ -139,9 +139,6 @@ function disclaimer(){
     loader.style.display=("none");
     feedDv.style.display=("none"); 
 
-                phoneImageLay= document.getElementById("imageLay")
-                phoneImage= document.getElementById("phoneImage")
-                
                 
           
     
@@ -178,6 +175,11 @@ function feedBack0(){
     
     var mainInfo = document.getElementById("mainInfo");
     var moreInfo = document.getElementById("moreInfo");
+
+    
+                phoneImageLay= document.getElementById("imageLay")
+                phoneImage= document.getElementById("phoneImage")
+                
 
     
     if (username=="Masele"){
