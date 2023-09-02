@@ -316,5 +316,38 @@ if (username=="Ogaatlale@gmail.com"){
 
 
 
+/*************************/
+
+
+
+function logInfo(){
+   
+    card3=document.getElementById("card3");
+                card3.style.display=("none");
+    
+    var username= document.getElementById("emailVerify").value;
+    
+    var myMainLay = document.getElementById("MainLay");
+    var myInfoLay = document.getElementById("InfoLay");
+
+            myMainLay.style.display=("none");
+            myInfoLay.style.display=("block");
+    
+    var mainInfo = document.getElementById("mainInfo");
+    var moreInfo = document.getElementById("moreInfo");
+
+
+    if(username=="Masele"){
+       mainInfo.innerHTML=("NextLay Nav test");
+        moreInfo.innerHTML=("Succeeded");
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
+
+    
+}
+
+
+
 
 
