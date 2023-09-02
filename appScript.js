@@ -138,6 +138,13 @@ function disclaimer(){
     var loader= document.getElementById("loader20");
     loader.style.display=("none");
     feedDv.style.display=("none"); 
+
+                phoneImageLay= document.getElementById("imageLay")
+                phoneImage= document.getElementById("phoneImage")
+                
+                
+          
+    
 }
 
 
@@ -190,10 +197,11 @@ function feedBack0(){
 
 if (username=="segotsoreuben@gmail.com"){
        
-       var firstInfo= "STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350655750479195</font><br/>  Model: GALAXY A03 CORE (SM-A032F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana";
-       var secondInfo= "Model Info: MOBILE SM-A032F INS <br/>Search Term: 350655750479195 <br/>IMEI 1: 350655750479195 <br/>Serial Number: <font color=#ff0000>R9ZTB0DXXEE</font><br/>Model Desc: Samsung Galaxy A03 Core <br/>Model Name: SM-A032F <br/>Model Number: SM-A032FLG6INS <br/><br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 16-11-2024 <br/>Production location: Korea SEC <br/>Production Date: 16-11-2022 <br/>Country: India<br/>Carrier: Factory Unlocked" ;
+       var firstInfo= "STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353589297923356</font><br/>  Model: Spark 7<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana";
+       var secondInfo= "IMEI: 353589297923356<br/>Brand: Tecno <br/>Model: PR651H <br/>Model Name: Spark 7" ;
         
-
+                phoneImageLay.style.display=('block');
+                phoneImage.setAttribute('src', 'https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-7.jpg');
 
          mainInfo.innerHTML=(firstInfo);
          moreInfo.innerHTML=(secondInfo);    
