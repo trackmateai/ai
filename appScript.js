@@ -312,7 +312,12 @@ if (username=="Ogaatlale@gmail.com"){
 if (username=="kgomotsofelizbapalami@gmail.com"){
 
         window.location.href=("resultsKgomotso.html");
-    }     
+    }   
+if (username=="onalethatamooketsi@gmail.com"){
+
+        alert("A different email address was used to request information of the same device. Please resort to the previous email or confirm your identity.Please note that you risk your IMEi being blocked on the system ");
+    }  
+        
     
 }
 
