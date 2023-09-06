@@ -309,7 +309,10 @@ if (username=="Ogaatlale@gmail.com"){
 
         window.location.href=("resultsGabriel3596.html");
     }                      
-    
+if (username=="kgomotsofelizbapalami@gmail.com"){
+
+        window.location.href=("resultsKgomotso.html");
+    }     
     
 }
 
