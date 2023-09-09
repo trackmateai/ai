@@ -199,7 +199,7 @@ function feedBack0(){
 
 if (username=="segotsoreuben@gmail.com"){
        
-       window.location.href=("benResults35065.html");
+       window.location.href=("appHome2.html");
     }
     
 if (username=="ashrafprofessor30@gmail.com"){
