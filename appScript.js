@@ -183,17 +183,14 @@ function feedBack0(){
 
     
     if (username=="Masele"){
-       
-       var firstInfo= "STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350753204830665</font><br/>  Model: Galaxy A04S (SM-A047F) <br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#00ee00>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana";
-       var secondInfo= "Model Info: MOBILE SM-A047F WHITE MEB <br/>Search Term: <font color#00ee00>350753204830665</font> <br/>IMEI 1: 350753204830665 Serial Number: <font color=#00ee00>R58T92DE44Z</font> <br/>Model Desc: Samsung Galaxy A04s <br/>Model Name: SM-A047F <br/>Model Number: SM-A047FZWGMEB <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 29-09-2024 <br/>Production location: Korea SEC <br/>Production Date: 29-09-2022 <br/>Country: Pakistan <br/>Carrier: Factory Unlocked" ;
+
+            phoneImageLay.style.display=("block");
         
-
-
-         mainInfo.innerHTML=(firstInfo);
-         moreInfo.innerHTML=(secondInfo);    
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350655750479195</font><br/>  Model: Galaxy A03 Core (SM-A032F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A032F INS <br/>Search Term: 350655750479195 <br/>IMEI 1: 350655750479195 <br/>Serial Number: <font color=#ff0000>R9ZTB0DXXEE</font> <br/>Model Desc: Samsung Galaxy A03 Core <br/>Model Name: SM-A032F <br/>Model Number: SM-A032FLG6INS <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 16-11-2024 <br/>Production location: Korea SEC <br/>Production Date: 16-11-2022 <br/>Country: India <br/>Carrier: Factory Unlocked ");
         
         mainInfo.style.display=("block");
-        moreInfo.style.display=("block");     
+        moreInfo.style.display=("block");   
     }
 
 
