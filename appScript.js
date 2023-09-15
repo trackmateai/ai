@@ -305,7 +305,7 @@ if (username=="tshephangks@gmail.com"){
     }
 if (username=="Ogaatlale@gmail.com"){
 
-        window.location.href=("resultsGabriel3596.html");
+        window.location.href=("appHome2.html");
     }                      
 if (username=="kgomotsofelizbapalami@gmail.com"){
         alert('Dear User,you have exhausted your usage limit.Please consider payment to proceed ');
@@ -326,7 +326,13 @@ if (username=="thabochizwe81@gmail.com"){
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
+    }  
+if (username=="muzadziwillarda@gmail.com"){
+
+        window.location.href=("resultsMuzadzi.html");
     }   
+
+    
     
 }
 
