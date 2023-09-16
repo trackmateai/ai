@@ -318,15 +318,8 @@ if (username=="onalethatamooketsi@gmail.com"){
      
 if (username=="thabochizwe81@gmail.com"){
 
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/D/j/q3Ovgs-d/huawei-p30-lite.jpg";
-    
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 860607043843755</font><br/>  Model: P30 LITEbr/>Brand: Huawei<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Description Full: HUAWEI P30 lite 6GB+128GB <br/>Color: Midnight Black <br/>Dual Card Open Market Ver. MEA-British plug 6GB <br/>Model Code: <br/>IMEI: 860607043843755<br/>S/N:<font color=#ff0000> QTC4C20629001506 </font><br/>Item Code: 51094KNC <br/>Offer Code: OFFE00111786 <br/>Country Code: AE <br/>Country Name: United Arab Emirates <br/>Warranty Status: Out of Warranty <br/>Warranty Start: <br/>Warranty Expire: 2022/12/26");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
-    }  
+       window.location.href=("results77919.html");        
+   }  
 if (username=="muzadziwillarda@gmail.com"){
 
         window.location.href=("resultsMuzadzi.html");
