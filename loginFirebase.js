@@ -54,11 +54,11 @@ function signInFirebase(){
         .then(function(user) {
           
           window.location.href=("https://trackmateai.github.io/ai/appHome2.html");
-          alert("Login failed,make sure you have an active Account");
+          
         })
         .catch(function(error) {
           console.log(error.message);
-            
+            alert("Login failed,make sure you have an active Account");
         });
     
     
