@@ -303,7 +303,7 @@ if (username=="tshephangks@gmail.com"){
 
         window.location.href=("resultsTshephang.html");
     }
-if (username=="Ogaatlale@gmail.com"){
+if (username=="ogaatlale@gmail.com"){
 
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://www.imei.info/media/t/gsm-cache/J/b/Cky5Wt-d/tecno-pop-7.jpg";
