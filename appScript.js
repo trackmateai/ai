@@ -305,7 +305,10 @@ if (username=="tshephangks@gmail.com"){
     }
 if (username=="Ogaatlale@gmail.com"){
 
-        window.location.href=("appHome2.html");
+       mainInfo.innerHTML=("Awaiting query...");
+        moreInfo.innerHTML=("");
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
     }                      
 if (username=="kgomotsofelizbapalami@gmail.com"){
         alert('Dear User,you have exhausted your usage limit.Please consider payment to proceed ');
