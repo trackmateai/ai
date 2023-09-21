@@ -306,10 +306,10 @@ if (username=="tshephangks@gmail.com"){
 if (username=="ogaatlale@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/J/b/Cky5Wt-d/tecno-pop-7.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a13.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 357777960206284</font><br/>  Model: POP 7<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("IMEI: 357777960206284 <br/>Brand: Tecno <br/>Model: BF6 <br/>Model Name: Pop 7 <br/>Release Year: 2023  Operating System	Android 12<br/>Chipset	Unisoc SC9863A1 <br/>Number of CPU Cores	4 <br/>RAM	2 GB <br/>Internal Memory	64 GB <br/>Memory Card Type	microSDXC <br/>GPU Name	PowerVR GE832 <br/>  Width	75.5 mm<br/>Height	163.9 mm <br/>Thickness	8.9 mm <br/><b>Contectivity</b> <br/>USB Conector Type	USB Type-C <br/>USB Version	2.0 <br/>Built-in WiFi	yes <br/>WiFi Version	802.11 b/g/n Display<br/>Type	LCD_IPS <br/>Diagonal	6.6 inches <br/>Resolution	720x1612 px <br/>Screen-to-body ratio	84.6 % <br/>Pixel density	267 ppi <br/>Colors	16M <br/>Other display Features	Capacitive, Multi-touch, 2.5D curved glass screen "  );
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 357950543152990</font><br/>  Model: Galaxy A13 5G (SM-A137F)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A137F BLACK MEA <br/>Search Term: 357950543152990 <br/>IMEI 1: 357950543152990 <br/>Serial Number: <font color=#ff0000>RF8TB0X6H6B </font><br/>Model Desc: Samsung Galaxy A13 <br/>Model Name: SM-A137F <br/>Model Number: SM-A137FZKGMEA <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 22-11-2024 <br/>Production location: Vietnam SEV <br/>Production Date: 22-11-2022 <br/>Country: United Arab Emirates <br/>Carrier: Factory UnlockedOperating System	Android 11 <br/>Chipset	MediaTek MT6833 Dimensity 700 5G <br/>Number of CPU Cores	2 <br/>RAM	4 GB <br/>Memory Card Type	microSDXC <br/>GPU Name	ARM Mali-G57 MC2 <br/>GPU Cores	2 <br/>GPU Clock	955.0 MHz"  );
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
