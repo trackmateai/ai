@@ -305,14 +305,7 @@ if (username=="tshephangks@gmail.com"){
     }
 if (username=="ogaatlale@gmail.com"){
 
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a13.jpg";
-        
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 357950543152990</font><br/>  Model: Galaxy A13 5G (SM-A137F)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A137F BLACK MEA <br/>Search Term: 357950543152990 <br/>IMEI 1: 357950543152990 <br/>Serial Number: <font color=#ff0000>RF8TB0X6H6B </font><br/>Model Desc: Samsung Galaxy A13 <br/>Model Name: SM-A137F <br/>Model Number: SM-A137FZKGMEA <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 22-11-2024 <br/>Production location: Vietnam SEV <br/>Production Date: 22-11-2022 <br/>Country: United Arab Emirates <br/>Carrier: Factory UnlockedOperating System	Android 11 <br/>Chipset	MediaTek MT6833 Dimensity 700 5G <br/>Number of CPU Cores	2 <br/>RAM	4 GB <br/>Memory Card Type	microSDXC <br/>GPU Name	ARM Mali-G57 MC2 <br/>GPU Cores	2 <br/>GPU Clock	955.0 MHz"  );
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+            window.location.href=("resultsGabriel.html");
     }                      
 if (username=="kgomotsofelizbapalami@gmail.com"){
         alert('Dear User,you have exhausted your usage limit.Please consider payment to proceed ');
