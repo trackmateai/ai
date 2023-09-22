@@ -357,6 +357,17 @@ if (username=="nthagame@gmail.com"){
         moreInfo.style.display=("block");
     }           
 
+if (username=="moxbont@gmail.com"){
+
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/5/Y/rPlNlt-d/huawei-p-smart-pro.jpg";
+        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867679045318246</font><br/>  Model:  P smart Pro (STK-L21)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Description Full: HUAWEI Y9s 6GB+128GB Breathing Crystal Dual Card Open Market Ver. EU Charger <br/>Model Code: <br/>IMEI: 867679045318246 <br/>S/N: <font color=#ff0000>78KVB19C25021623 </font><br/>Item Code: 51094UMW <br/>Offer Code: OFFE00121221 <br/>Country Code: NA <br/>Country Name: Botswana <br/>Warranty Status: Out of Warranty <br/> Operating System	Android 9.0 Pie <br/>Chipset	Huawei HiSilicon KIRIN 710F <br/>Number of CPU Cores	4 <br/>RAM	6 GB <br/>Internal Memory	128 GB <br/>Memory Card Type	microSDXC <br/>GPU Name	ARM Mali-G51 MP4 <br/>GPU Cores	4 Width	77.2 mm <br/>Height	163.1 mm <br/>Thickness	8.8 mm <br/>Weight	206.0 g");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }       
 
     
 
