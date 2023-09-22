@@ -117,53 +117,7 @@
 
       function createAcc(){
 
-
-        var name = document.getElementById("name").value;
-        var email = document.getElementById("email").value;
-        var number = document.getElementById("number").value;
-        var username = document.getElementById("username").value;
-        var password = document.getElementById("password").value;
-        
-        
-        const secretKey = '$2b$10$5.GD5IWqNSL2RsbiNWZdbeQGJ3wkUk/t3ZxfbbLn2ddvAPibpWpr.';
-        const binName= 'myBin';
-
-
-
-      
-        const data = {
-        Name: name,
-        Email: email,
-        Number: number,
-        Username: username,
-        Password: password
-      };
-
-      
-       fetch('https://api.jsonbin.io/v3/b', {
-            method: 'POST',
-            headers: {
-              'Content-Type': 'application/json',
-              "X-Master-Key": secretKey,
-              "X-Bin-Private": true,
-              'X-Bin-Name': email
-            },
-            body: JSON.stringify(data)
-          })
-         .then(response => response.json())
-         .then(jsonData => console.log(jsonData))
-         .catch(error => console.error(error));
-      
-
-
-
-
-            alert("Processing,your login details will appear in your email after some minutes");
-
-
-
-
-
+                 alert("Account creation no longer supported on the webstite.Please download the Mobile App and proceed with it");
          }
 
 
