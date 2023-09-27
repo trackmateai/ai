@@ -241,11 +241,7 @@ if (username=="vusatshegofatso@gmail.com"){
         moreInfo.style.display=("block");
     }
 if (username=="bamerakolanyane@gmail.com"){
-
-        mainInfo.innerHTML=(" <font color=#00ee00>Awaiting query... ");
-        moreInfo.innerHTML=(" ");
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+      window.location.href=("resultsBame359384.html");
     }
 if (username=="sengwekelediyakgotla@gmail.com"){
 
