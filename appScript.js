@@ -242,8 +242,10 @@ if (username=="vusatshegofatso@gmail.com"){
     }
 if (username=="bamerakolanyane@gmail.com"){
 
-        window.location.href=("resultsBame.html");
-    
+        mainInfo.innerHTML=(" <font color=#00ee00>Awaiting query... ");
+        moreInfo.innerHTML=(" ");
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
     }
 if (username=="sengwekelediyakgotla@gmail.com"){
 
