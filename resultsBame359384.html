@@ -9,6 +9,13 @@
      </style>
         
         
+     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+     
+     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
     
 </head>
 	
@@ -28,32 +35,35 @@
 	
     <div class="mapDiv" id="mapDiv">
     
-         <div id="demo" class="demoDiv" ></div>   
+         <div id="demo" class="demoDiv" ></div>
+         
+         
+         <div id="map" class="map"></div>
+
           
         <script type="text/javascript">
                  
                  
                  
-               function myMap() {
-                   var mapProp= {
-                   center:new google.maps.LatLng(-23.103798264798257, 26.817997810833326),
-                   zoom:12,
-               };
-                 var map = new google.maps.Map(document.getElementById("demo"),mapProp);
- 
-                 var marker = new google.maps.Marker({
-                 position: {lat: -23.103798264798257, lng: 26.817997810833326},
-                 map: map,
-                 title: 'Marker'
-                 });
-               }
+
+     var map = L.map('map').setView([-23.103798264798257, 26.817997810833326], 10);
+     
+         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+         maxZoom: 19,
+         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+         }).addTo(map);
+
+         var marker = L.marker([-23.103798264798257, 26.817997810833326]).addTo(map);
+
+
+         marker.bindPopup("<b> Nola Fun Orange</b> <br/> <font size=0.5px color=grey> -23.10379... ").openPopup();
+     
+                 
                  
                  
                  
         </script>   
          
-         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHKNOhdIDuZaCBWkSMEnKWlpqcpaL3zyc&callback=myMap"></script>
-
          
     </div>
 	
@@ -195,3 +205,8 @@ City/Village: Letlhakane
 	
 </body>
 </html>
+
+
+
+
+
