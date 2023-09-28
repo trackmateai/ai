@@ -304,10 +304,10 @@ if (username=="tshephangks@gmail.com"){
 if (username=="ogaatlale@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/g/x/5CelVP-d/tecno-spark-10c.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a13.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354743659506742</font><br/>  Model: SPARK 10C<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" IMEI: 354743659506742 <br/>Brand: Tecno <br/>Model: KI5k <br/>Model Name: Spark 10C <br/>Release Year	2023<br/>Operating System	Android 13 <br/>Chipset	Unisoc Tiger T606 <br/>Number of CPU Cores	2 <br/>RAM	8 GB <br/>GPU Name	ARM Mali-G57 MP1 <br/>GPU Cores	1 <br/>  Width	75.5 mm <br/>Height	163.9 mm <br/>Thickness	8.5 mm <br/>Weight	192.0 g  <br/>   Type	LCD_IPS <br/>Diagonal	6.6 inches <br/>Resolution	720x1612 px <br/>Screen-to-body ratio	84.6 % <br/>Pixel density	267 ppi <br/>Colors	16M <br/>Other display Features	Capacitive, Multi-touch, Display refresh rate: 90 Hz   " );
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 357950543152990</font><br/>  Model:  Galaxy A13 5G (SM-A137F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A137F BLACK MEA <br/>Search Term: 357950543152990 <br/>IMEI 1: 357950543152990 <br/>Serial Number:<font color=#ff0000> RF8TB0X6H6B </font> <br/>Model Desc: Samsung Galaxy A13 <br/>Model Name: SM-A137F <br/>Model Number: SM-A137FZKGMEA <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 22-11-2024 <br/>Production location: Vietnam SEV <br/>Production Date: 22-11-2022 <br/>Country: United Arab Emirates <br/>Carrier: Factory Unlocked   " );
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");  
