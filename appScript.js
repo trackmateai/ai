@@ -241,7 +241,7 @@ if (username=="vusatshegofatso@gmail.com"){
         moreInfo.style.display=("block");
     }
 if (username=="bamerakolanyane@gmail.com"){
-      window.location.href=("resultsBame359384.html");
+      window.location.href=("resultsBame353855.html");
     }
 if (username=="sengwekelediyakgotla@gmail.com"){
 
