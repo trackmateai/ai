@@ -304,10 +304,10 @@ if (username=="tshephangks@gmail.com"){
 if (username=="ogaatlale@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a13.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/Q/9/B5fkgh-d/samsung-galaxy-a04e.jpg";
         
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 357950543152990</font><br/>  Model:  Galaxy A13 5G (SM-A137F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A137F BLACK MEA <br/>Search Term: 357950543152990 <br/>IMEI 1: 357950543152990 <br/>Serial Number:<font color=#ff0000> RF8TB0X6H6B </font> <br/>Model Desc: Samsung Galaxy A13 <br/>Model Name: SM-A137F <br/>Model Number: SM-A137FZKGMEA <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 22-11-2024 <br/>Production location: Vietnam SEV <br/>Production Date: 22-11-2022 <br/>Country: United Arab Emirates <br/>Carrier: Factory Unlocked   " );
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351610268727584</font><br/>  Model: Galaxy A04e (SM-A042F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A042F/DS BLACK AFA <br/>Search Term: 351610268727584 <br/>IMEI 1: 351610268727584 <br/>Serial Number: <font color=#ff0000>R83W303914F </font><br/>Model Desc: Samsung A04e <br/>Model Name: SM-A042F/DS <br/>Model Number: SM-A042FZKDAFA <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 17-03-2025 <br/>Production location: Korea SEC <br/>Production Date: 17-03-2023 <br/>Country: South Africa <br/>Carrier: Factory Unlocked   " );
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");  
