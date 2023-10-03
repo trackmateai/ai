@@ -196,15 +196,7 @@ function feedBack0(){
 
 
 if (username=="segotsoreuben@gmail.com"){
-
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/oppo-a55-4g-1.jpg";
-        
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867143060984671</font><br/>  Model: A55 (CPH2325) <br/>Brand: OPPO <br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana <br/>  ");
-        moreInfo.innerHTML=("Brand: Oppo <br/>Model: CPH2325 <br/>Model Name: A55 <br/> Operating System	Android 11 <br/>Chipset	MediaTek MT6765G Helio G35 <br/>Number of CPU Cores	4 <br/>RAM	4 GB <br/>Memory Card Type	microSDXC <br/>GPU Name	PowerVR GE8320 <br/>GPU Clock	680.0 MHz Width	75.7 mm <br/>Height	163.6 mm <br/>Thickness	8.4 mm <br/>Weight	193.0 g Resolution	720x1600 px<br/>Screen-to-body ratio	82.6 % <br/>Pixel density	270 ppi <br/>Colors	16M <br/>Other display Features: Capacitive, Multi-touch, Scratch resistant, 2.5D curved glass screen, AGC Dragontrail Glass - NEG T2X-1, 70% NTSC, 480 cd/m², 1500:1 "   );
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+       window.location.href=("benResults86714.html");
     }
     
 if (username=="ashrafprofessor30@gmail.com"){
