@@ -324,11 +324,8 @@ if (username=="muzadziwillarda@gmail.com"){
     
 if (username=="boimatome2@gmail.com"){
 
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a53-5g-.jpg";
-        
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 51062770891989</font><br/>  Model: Galaxy A53 5G (SM-A536E)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A536E/DS LIGHT BLUE AFA <br/>Search Term: 351062770891989 <br/>IMEI 1: 351062770891989 <br/>Serial Number: <font color=#ff0000>RZCW10JHL8W</font> <br/>Model Desc: Samsung Galaxy A53 5G <br/>Model Name: SM-A536E/DS <br/>Model Number: SM-A536ELBDAFA <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 07-01-2025 <br/>Production location: Brazil SEDA<br/>Production Date: 07-01-2023 <br/>Country: South Africa<br/>Carrier: Factory Unlocked");
+        mainInfo.innerHTML=(" Argumented parameters [<font color=#ff0000>37798/R1ZW10034</font>] do not exist");
+        moreInfo.innerHTML=("");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");  
