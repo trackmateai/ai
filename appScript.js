@@ -364,7 +364,7 @@ if (username=="dicemodiagane@gmail.com"){
             phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg";
         
         mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 357218090012839</font><br/>  Model: : iPhone Xs (A2097)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("IMEI: 357218090012839 <br/>Brand: Apple <br/>Model: iPhone XS (A2097) <br/>Model Name: iPhone XS <br/>Carrier/SimLock Info:<a href=('#')> HERE (FREE)</a> <br/>Activation/Coverage Check: <a href='#'>HERE</a> <br/>Find My iPhone: <font color=#00ee00>ON</font> <br/>iCloud Status: Clean <br/>Free Blacklist Check: <a href='#'>HERE</a> ");
+        moreInfo.innerHTML=("IMEI: 357218090012839 <br/>Brand: Apple <br/>Model: iPhone XS (A2097) <br/>Model Name: iPhone XS <br/>Carrier/SimLock Info:<a href=('#')> HERE </a> <br/>Activation/Coverage Check: <a href='#'>HERE</a> <br/>Find My iPhone: <font color=#00ee00>ON</font> <br/>iCloud Status: Clean <br/>Free Blacklist Check: <a href='#'>HERE</a> <br/>Operating System iOS <br/>Chipset	Apple A12 Bionic <br/>Number of CPU Cores	6 <br/>RAM	4 GB  <br/>Width	70.9 mm <br/>Height	143.6 mm <br/>Thickness	7.7 mm <br/>Weight	177.0 g <br/> Type	OLED <br/>Diagonal	5.8 inches <br/>Resolution	1125x2436 px <br/>Screen-to-body ratio	81.1 % <br/>Pixel density	459 ppi <br/>Colors	16M");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");  
