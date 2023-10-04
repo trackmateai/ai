@@ -196,11 +196,7 @@ function feedBack0(){
 
 
 if (username=="segotsoreuben@gmail.com"){
-        mainInfo.innerHTML=("Argumented parameters[<font color=#ff0000>355786376148800</font>] do not exist");
-        moreInfo.innerHTML=(" ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+        window.location.href=("resultsBen86714.html");
     }
     
 if (username=="ashrafprofessor30@gmail.com"){
