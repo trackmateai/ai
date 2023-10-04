@@ -361,10 +361,10 @@ if (username=="moxbont@gmail.com"){
 if (username=="dicemodiagane@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg";
+            phoneImage.src = "https://imei.net/phone-images/t/gsm-cache/C/k/hIfMrI-d.jpg";
         
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 357218090012839</font><br/>  Model: : iPhone Xs (A2097)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("IMEI: 357218090012839 <br/>Brand: Apple <br/>Model: iPhone XS (A2097) <br/>Model Name: iPhone XS  <br/>Find My iPhone: <font color=#00ee00>ON</font> <br/>iCloud Status: Clean <br/>Free Blacklist Check: Not Blacklisted <br/>Operating System iOS <br/>Chipset	Apple A12 Bionic <br/>Number of CPU Cores	6 <br/>RAM	4 GB  <br/>Width	70.9 mm <br/>Height	143.6 mm <br/>Thickness	7.7 mm <br/>Weight	177.0 g <br/> Type	OLED <br/>Diagonal	5.8 inches <br/>Resolution	1125x2436 px <br/>Screen-to-body ratio	81.1 % <br/>Pixel density	459 ppi <br/>Colors	16M");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 860295043834246</font><br/>  Model: Note 9 Pro (M2003J6B2G) <br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Description: Redmi Note 9 Pro Tropical Green 6G RAM 64G ROM <br/>IMEI: 860295043834246 <br/>Brand: Redmi <br/>Model: M2003J6B2G <br/>Name: Note 9 Pro <br/>Purchase Country: Nigeria <br/>Operating System	Android 10<br/>Chipset	Qualcomm Snapdragon 720G <br/>Number of CPU Cores	2 <br/>RAM	4 GB<br/> Memory Card Type	microSDXC <br/>GPU Name	Qualcomm Adreno 618 <br/>GPU Clock	750.0 MHz <br/>Width	76.68 mm <br/>Height	165.75 mm <br/>Thickness	8.8 mm <br/>Weight	209.0 g <br/>  USB Conector Type	USB Type-C <br/>USB Version	2.0 <br/>Built-in WiFi	yes <br/>WiFi Version	802.11 a/b/g/n/ac " );
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");  
