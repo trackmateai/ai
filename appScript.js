@@ -367,6 +367,17 @@ if (username=="dicemodiagane@gmail.com"){
         moreInfo.style.display=("block");  
     }
     
+if (username=="tumedigilbert@gmail.com"){
+
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro-max-.jpg";
+        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353233104687785</font><br/>  Model:  iPhone 11 Pro (A2160)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Code name	A2160 <br/>Release Year	2019 <br/> Operating System	iOS <br/>Chipset	Apple A13 Bionic <br/>Number of CPU Cores	6 <br/>RAM	6 GB <br/> GPU Cores	4 <br/> Width	71.4 mm<br/>Height	144.0 mm <br/>Thickness	8.1 mm <br/>Weight	188.0 g <br/>   Type	OLED<br/>Diagonal	5.8 inches <br/>Resolution	1125x2436 px <br/>Screen-to-body ratio	80.4 % <br/>Pixel density	463 ppi <br/>Colors	16M"  );
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");  
+    }
 
     
     
