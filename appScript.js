@@ -314,7 +314,7 @@ if (username=="onalethatamooketsi@gmail.com"){
      
 if (username=="thabochizwe81@gmail.com"){
 
-       window.location.href=("results77919.html");        
+       window.location.href=("resultsThabo35257.html");        
    }  
 if (username=="muzadziwillarda@gmail.com"){
 
