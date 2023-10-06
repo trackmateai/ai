@@ -124,12 +124,14 @@ body{
      color: #ffffff;
      font-family: 'Changa', sans-serif;
      display: block;
+     text-align: center;
  }
 
  .numberInfo{
      color: #ffffff;
      font-family: 'Changa', sans-serif;
      display: block;
+     text-align: center;
  }
 
 .btn {
