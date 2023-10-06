@@ -358,10 +358,10 @@ if (username=="moxbont@gmail.com"){
 if (username=="dicemodiagane@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://imei.net/phone-images/t/gsm-cache/C/k/hIfMrI-d.jpg";
+            phoneImage.src = "https://imei.net/phone-images/t/gsm-cache/5/Y/rPlNlt-d.jpg";
         
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 860295043834246</font><br/>  Model: Note 9 Pro (M2003J6B2G) <br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Description: Redmi Note 9 Pro Tropical Green 6G RAM 64G ROM <br/>IMEI: 860295043834246 <br/>Brand: Redmi <br/>Model: M2003J6B2G <br/>Name: Note 9 Pro <br/>Purchase Country: Nigeria <br/>Operating System	Android 10<br/>Chipset	Qualcomm Snapdragon 720G <br/>Number of CPU Cores	2 <br/>RAM	4 GB<br/> Memory Card Type	microSDXC <br/>GPU Name	Qualcomm Adreno 618 <br/>GPU Clock	750.0 MHz <br/>Width	76.68 mm <br/>Height	165.75 mm <br/>Thickness	8.8 mm <br/>Weight	209.0 g <br/>  USB Conector Type	USB Type-C <br/>USB Version	2.0 <br/>Built-in WiFi	yes <br/>WiFi Version	802.11 a/b/g/n/ac " );
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 862974040383567</font><br/>  Model: P smart Pro (STK-L21)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Description Full: HUAWEI Y9 Prime 2019 4GB+128GB Sapphire Blue Dual Card Open Market Ver. EU Charger <br/>Model Code: <br/>IMEI: 862974040383567 <br/>Serial Number: XMJ4C19B15018222 <br/>Item Code: 51094PKA <br/>Offer Code: OFFE00121215 <br/>Country Code: BW <br/>Country Name: Botswana <br/>Warranty Status: Out of Warranty <br/>Width	77.2 mm <br/>Height	163.1 mm <br/>Thickness	8.8 mm <br/>Weight	206.0 g" );
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");  
