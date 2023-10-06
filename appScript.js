@@ -380,15 +380,7 @@ if (username=="tumedigilbert@gmail.com"){
     }
 
 if (username=="deeztwinsbookings@gmail.com"){
-
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a01core-sm-a013.jpg";
-        
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353993239702128</font><br/>  Model:  Galaxy A01 Core (SM-A013G)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A013G/DS BLUE XFA <br/>Search Term: 353993239702128 <br/>IMEI 1: 353993239702128 <br/>Serial Number: R58R54TAGSY <br/>Model Desc: Samsung Galaxy A01 Core <br/>Model Name: SM-A013G/DS <br/>Model Number: SM-A013GZBDXFA <br/>Warranty Status: Out of Warranty <br/>Estimated Warranty End Date: 27-05-2023 <br/>Production location: Korea SEC <br/>Production Date: 27-05-2021 <br/>Country: South Africa <br/>Carrier: Factory Unlocked "  );
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");  
+       window.location.href=("resultsDeez.html");
     }
 
 
