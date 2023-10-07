@@ -301,7 +301,15 @@ if (username=="tshephangks@gmail.com"){
         window.location.href=("resultsTshephang.html");
     }
 if (username=="ogaatlale@gmail.com"){
-     window.location.href=("resultsGabriel.html");
+     
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://imei.net/phone-images/t/gsm-cache/s/U/tQpKOi-d.jpg";
+        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356080123265417</font><br/>  Model: Galaxy A54 (SM-A546E)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A546E/DS BLACK AFA <br/>Search Term: 356080123265417 <br/>IMEI 1: 356080123265417 <br/>Serial Number: <font color=#ff0000>RZCW514DW5L</font> <br/>Model Desc: Samsung Korea Galaxy A54 5g <br/>Model Name: SM-A546E/DS <br/>Model Number: SM-A546EZKDAFA <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 19-05-2025 <br/>Production location: Brazil SEDA <br/>Production Date: 19-05-2023 <br/>Country: South Africa <br/>Carrier: Factory Unlocked"  );
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");  
 }                      
 if (username=="kgomotsofelizbapalami@gmail.com"){
         alert('Dear User,you have exhausted your usage limit.Please consider payment to proceed ');
