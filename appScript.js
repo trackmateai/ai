@@ -391,6 +391,23 @@ if (username=="deeztwinsbookings@gmail.com"){
        window.location.href=("resultsDeez.html");
     }
 
+if (username=="kangprinters909@gmail.com"){
+       alert("The IMEi you entered(355962610436676) is incorrect.Please check and try again");
+    }
+if (username=="ralefalajulius@gmail.com"){
+
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a12-sm-a125.jpg";
+        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354875894627758</font><br/>  Model:  Galaxy A12 (SM-A127F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A127F BLUE THL <br/>Search Term: 354875894627758 <br/>IMEI 1: 352277224627750 <br/>Serial Number: <font color=#ff0000>RZ8T302YRTP </font><br/>Model Desc: Samsung Galaxy A12 <br/>Model Name: SM-A127F <br/>Model Number: SM-A127FZBHTHL <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 01-03-2024 <br/>Production location: Brazil SEDA <br/>Production Date: 01-03-2022 <br/>Country: Thailand <br/>Carrier: Factory Unlocked<br/> Operating System	Android 10 <br/>Chipset	MediaTek Helio P35 MT6765 <br/>Number of CPU Cores	4 <br/>RAM	3 GB <br/> Width	75.8 mm <br/>Height	164.0 mm <br/>Thickness	8.9 mm <br/>Weight	205.0 g " );
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");  
+    }
+
+    
+
 
     
     
