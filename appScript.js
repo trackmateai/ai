@@ -366,10 +366,10 @@ if (username=="moxbont@gmail.com"){
 if (username=="dicemodiagane@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://imei.net/phone-images/t/gsm-cache/5/Y/rPlNlt-d.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/s/6/1vPqnH-d/redmi-note-10-pro.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 862974040383567</font><br/>  Model: P smart Pro (STK-L21)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Description Full: HUAWEI Y9 Prime 2019 4GB+128GB Sapphire Blue Dual Card Open Market Ver. EU Charger <br/>Model Code: <br/>IMEI: 862974040383567 <br/>Serial Number: XMJ4C19B15018222 <br/>Item Code: 51094PKA <br/>Offer Code: OFFE00121215 <br/>Country Code: BW <br/>Country Name: Botswana <br/>Warranty Status: Out of Warranty <br/>Width	77.2 mm <br/>Height	163.1 mm <br/>Thickness	8.8 mm <br/>Weight	206.0 g" );
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 865455058446725</font><br/>  Model: Note 10 Pro (M2101K6P)<br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Description: Redmi Note 10 Pro Dark Nebula 6GB RAM 128GB ROM <br/>IMEI: 865455058446725 <br/>Brand: Redmi <br/>Model: M2101K6P <br/>Name: Note 10 Pro <br/>Purchase Country: India <br/>Code name	M2101K6P <br/>Release Year	2021 <br/>Operating System	Android 11 <br/>Chipset	Qualcomm SM7150 Snapdragon 732G <br/>Number of CPU Cores	2 <br/>RAM	6 GB<br/>Width	76.5 mm <br/>Height	164.0 mm <br/>Thickness	8.1 mm <br/>Weight	193.0 g  " );
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");  
