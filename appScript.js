@@ -368,8 +368,8 @@ if (username=="dicemodiagane@gmail.com"){
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://www.imei.info/media/t/gsm-cache/s/6/1vPqnH-d/redmi-note-10-pro.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 865455058446725</font><br/>  Model: Note 10 Pro (M2101K6P)<br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Description: Redmi Note 10 Pro Dark Nebula 6GB RAM 128GB ROM <br/>IMEI: 865455058446725 <br/>Brand: Redmi <br/>Model: M2101K6P <br/>Name: Note 10 Pro <br/>Purchase Country: India <br/>Code name	M2101K6P <br/>Release Year	2021 <br/>Operating System	Android 11 <br/>Chipset	Qualcomm SM7150 Snapdragon 732G <br/>Number of CPU Cores	2 <br/>RAM	6 GB<br/>Width	76.5 mm <br/>Height	164.0 mm <br/>Thickness	8.1 mm <br/>Weight	193.0 g  " );
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 865455058446733</font><br/>  Model: Note 10 Pro (M2101K6P)<br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Description: Redmi Note 10 Pro Dark Nebula 6GB RAM 128GB ROM <br/>IMEI: 865455058446733 <br/>Brand: Redmi <br/>Model: M2101K6P <br/>Name: Note 10 Pro <br/>Purchase Country: India<br/> Code name	M2101K6P<br/>Release Year	2021 <br>Operating System	Android 11 <br/>Chipset	Qualcomm SM7150 Snapdragon 732G <br/>Number of CPU Cores	2 <br/>RAM	6 GB <br/>Width	76.5 mm <br/>Height	164.0 mm <br/>Thickness	8.1 mm <br/>Weight	193.0 g <br/> Resolution	1080x2400 px <br/>Screen-to-body ratio	85.6 % <br/>Pixel density	395 ppi <br/>Colors	16M "  );
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");  
