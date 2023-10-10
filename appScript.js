@@ -418,6 +418,10 @@ if (username=="thuto2018th@gmail.com"){
         moreInfo.style.display=("block");  
     }
     
+if (username=="mosimanegapekgausa@gmail.com"){
+
+       window.location.href=("resultsMosimane.html");        
+   }  
 
 
     
