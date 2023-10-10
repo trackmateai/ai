@@ -35,7 +35,6 @@ function signUpFirebase(){
 
 function signInFirebase(){
 
-    alert('Logging In');
     
     var firebaseConfig = {
       apiKey: "AIzaSyD09GeejzBofXCWBs_GBj8rDtIEDHd0O98",
