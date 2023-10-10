@@ -303,10 +303,10 @@ if (username=="tshephangks@gmail.com"){
 if (username=="ogaatlale@gmail.com"){
      
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://imei.net/phone-images/t/gsm-cache/s/U/tQpKOi-d.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a20.jpg";
         
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356080123265417</font><br/>  Model: Galaxy A54 (SM-A546E)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A546E/DS BLACK AFA <br/>Search Term: 356080123265417 <br/>IMEI 1: 356080123265417 <br/>Serial Number: <font color=#ff0000>RZCW514DW5L</font> <br/>Model Desc: Samsung Korea Galaxy A54 5g <br/>Model Name: SM-A546E/DS <br/>Model Number: SM-A546EZKDAFA <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 19-05-2025 <br/>Production location: Brazil SEDA <br/>Production Date: 19-05-2023 <br/>Country: South Africa <br/>Carrier: Factory Unlocked"  );
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355710108308623</font><br/>  Model: Galaxy A20 (SM-A205FN)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A205F BLACK CAC <br/>Search Term: 355710108308623 <br/>IMEI 1: 355710108308623 <br/>Serial Number: <font color=#ff0000>R58N231WHWB </font><br/>Model Desc: Samsung Galaxy A20 <br/>Model Name: SM-A205F <br/>Model Number: SM-A205FZKVCAC <br/>Warranty Status: Out of Warranty <br/>Estimated Warranty End Date: 25-02-2022 <br/>Production location: Korea SEC <br/>Production Date: 25-02-2020 <br/>Country: Uzbekistan "  );
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");  
