@@ -301,15 +301,7 @@ if (username=="tshephangks@gmail.com"){
         window.location.href=("resultsTshephang.html");
     }
 if (username=="ogaatlale@gmail.com"){
-     
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-8c.jpg";
-        
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352949270159140</font><br/>  Model: Spark 8C<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Operating System	Android 11 Go Edition <br/>Chipset	Unisoc Tiger T606 <br/>Number of CPU Cores	2 <br/>RAM	2 GB <br/>Internal Memory	64 GB <br/>Memory Card Type	microSDXC <br/>GPU Name	Mali-G57 MC2<br/>Width	76.0 mm <br/>Height	164.57 mm<br/>Thickness	8.95 mm<br/>Resolution	720x1600 px <br/>Screen-to-body ratio	82.6 % <br/>Pixel density	266 ppi <br/>Colors	16M <br/>Other display Features	Capacitive, Multi-touch, 2.5D curved glass screen, 90 Hz refresh rate <br/>"   );
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");  
+     window.location.href("resultsGabriel35571.html");
 }                      
 if (username=="kgomotsofelizbapalami@gmail.com"){
         alert('Dear User,you have exhausted your usage limit.Please consider payment to proceed ');
