@@ -366,10 +366,10 @@ if (username=="moxbont@gmail.com"){
 if (username=="dicemodiagane@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-9-.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/2/V/4lyvlH-d/oppo-a96-4g.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352528511080719</font><br/>  Model: Spark 9<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Operating System	Android 12<br/>Chipset	Mediatek MT6765V/CB Helio G37 <br/>Number of CPU Cores	4 <br/>RAM	3 GB<br/>  Width	76.0 mm <br/>Height	164.6 mm <br/>Thickness	9.0 mm<br/>Resolution	720x1600 px <br/>Screen-to-body ratio	84.1 % <br/>Pixel density	266 ppi <br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, 2.5D curved glass screen, 90 Hz refresh rate "   );
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867908050443155</font><br/>  Model: A96 4G (CPH2333) <br/>Brand: OPPO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Operating System	Android 11<br/>Chipset	Qualcomm Snapdragon 680 <br/>Number of CPU Cores	8 <br/>RAM	8 GB <br/>Internal Memory	256 GB <br/>Memory Card Type	microSDXC <br/>GPU Name	Adreno 610<br/> Width	75.7 mm <br/>Height	164.4 mm <br/>Thickness	8.4 mm <br/>Weight	191.0 g<br/>Resolution	1080x2412 px <br/>Screen-to-body ratio	84.0 % <br/>Pixel density	401 ppi <br/>Colors	16M " );
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");  
