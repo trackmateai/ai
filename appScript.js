@@ -301,7 +301,15 @@ if (username=="tshephangks@gmail.com"){
         window.location.href=("resultsTshephang.html");
     }
 if (username=="ogaatlale@gmail.com"){
-     window.location.href=("resultsGabriel35571.html");
+     
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/nokia-g20.jpg";
+        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 359506961625764</font><br/>  Model: G20 (G20)<br/>Brand: NOKIA <br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Operating System	Android 11 <br/>Chipset	MediaTek Helio G35 <br/>Number of CPU Cores	4<br/>RAM	4 GB <br/>Width	76.0 mm<br/>Height	164.9 mm <br/>Thickness	9.2 mm <br/>Weight	197.0 g <br/>Resolution	720x1600 px <br/>Screen-to-body ratio	81.6 % <br/>Pixel density	269 ppi <br/>Colors	16M <br/>Other display Features	Capacitive, Multi-touch, 2D curved glass screen, Panda Glass, 70% NTSC, 400 cd/m²"   );
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
 }                      
 if (username=="kgomotsofelizbapalami@gmail.com"){
         alert('Dear User,you have exhausted your usage limit.Please consider payment to proceed ');
