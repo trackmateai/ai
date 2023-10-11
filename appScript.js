@@ -434,7 +434,17 @@ if (username=="90pilaneva@gmail"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");  
     }
-
+if (username=="mosimanegapekgausa@gmail.com"){
+     
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go-2022.jpg";
+        
+        mainInfo.innerHTML=(" Device inactive.Please note that a device can only be tracked when its active.");
+        moreInfo.innerHTML=(" ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+}                      
     
     
 }
