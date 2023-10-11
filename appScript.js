@@ -366,10 +366,10 @@ if (username=="moxbont@gmail.com"){
 if (username=="dicemodiagane@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/5/Y/rPlNlt-d/huawei-p-smart-pro.jpg";
+            phoneImage.src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.indivstock.com%2Fstatic33%2Fpreview2%2Fstock-vector-invalid-sign-or-stamp-481866.jpg&tbnid=Da4Tyc4nFVPEEM&vet=12ahUKEwjU2Jb92-2BAxUhpycCHfIhA5sQMygRegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.indivstock.com%2Fstock-vector%2Finvalid-sign-or-stamp-481866.html&docid=qaerNzAIl5ikAM&w=780&h=485&q=invalid%20icon&hl=en&ved=2ahUKEwjU2Jb92-2BAxUhpycCHfIhA5sQMygRegQIARB_";
         
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 862974040383567</font><br/>  Model: P smart Pro (STK-L21)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Description Full: HUAWEI Y9 Prime 2019 4GB+128GB Sapphire Blue Dual Card Open Market Ver. EU Charger <br/>IMEI: 862974040383567 <br/>S/N: <font color=#ff000>XMJ4C19B15018222 </font><br/>Item Code: 51094PKA <br/>Offer Code: OFFE00121215 <br/>Country Code: BW <br/>Country Name: Botswana <br/>Warranty Status: Out of Warranty <br/> Width	77.2 mm <br/>Height	163.1 mm <br/>Thickness	8.8 mm <br/>Weight	206.0 g"  );
+        mainInfo.innerHTML=("<font color=#ff0000> Invalid</font>IMEi(35258511080719) number,please recheck and try again.");
+        moreInfo.innerHTML=("An IMEi number should contain 15 digits. "  );
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");  
