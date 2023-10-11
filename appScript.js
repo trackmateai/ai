@@ -358,10 +358,10 @@ if (username=="moxbont@gmail.com"){
 if (username=="dicemodiagane@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://icons.veryicon.com/png/o/miscellaneous/daily-icon-8/invalid-3.png";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-9-.jpg";
         
-        mainInfo.innerHTML=("<font color=#ff0000> Invalid</font>IMEi(35258511080719) number,please recheck and try again.");
-        moreInfo.innerHTML=("An IMEi number should contain 15 digits. "  );
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352528511080719</font><br/>  Model: Spark 9<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Operating System	Android 12<br/>Chipset	Mediatek MT6765V/CB Helio G37 <br/>Number of CPU Cores	4 <br/>RAM	3 GB<br/>  Width	76.0 mm <br/>Height	164.6 mm <br/>Thickness	9.0 mm<br/>Resolution	720x1600 px <br/>Screen-to-body ratio	84.1 % <br/>Pixel density	266 ppi <br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, 2.5D curved glass screen, 90 Hz refresh rate "   );
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");  
