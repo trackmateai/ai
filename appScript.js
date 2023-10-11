@@ -418,11 +418,6 @@ if (username=="thuto2018th@gmail.com"){
         moreInfo.style.display=("block");  
     }
     
-if (username=="mosimanegapekgausa@gmail.com"){
-
-       window.location.href=("resultsMosimane.html");        
-   }  
-
 if (username=="90pilaneva@gmail"){
 
             phoneImageLay.style.display=("block");
