@@ -310,7 +310,7 @@ if (username=="ogaatlale@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }           
-}                      
+                      
 if (username=="kgomotsofelizbapalami@gmail.com"){
         alert('Dear User,you have exhausted your usage limit.Please consider payment to proceed ');
         window.location.href=("resultsKgomotso.html");
