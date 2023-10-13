@@ -441,6 +441,17 @@ if (username=="mosimanegapekgausa@gmail.com"){
         moreInfo.style.display=("block");
 }                      
     
+if (username=="mauntma13@gmail.com"){
+     
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg";
+        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353730395299949</font><br/>  Model: iPhone 12 Pro Max (A2342) <br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Code name	A2342<br/>Release Year	2020 <br/>Operating System	iOS<br/>Chipset	Apple A14 Bionic<br/>RAM	6 GB<br/> Width	78.09 mm<br/>Height	160.84 mm<br/>Thickness	7.39 mm<br/>Weight	228.0 g<br/>Diagonal	6.7 inches<br/>Resolution	1824x2778 px <br/>Pixel density	496 ppi <br/>Colors	16M  " );
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+}                      
     
 }
 
