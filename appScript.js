@@ -451,7 +451,21 @@ if (username=="mauntma13@gmail.com"){
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
+}   
+
+if (username=="nthobelang83@gmail.com"){
+     
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg";
+        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351606647323145</font><br/>  Model:  iPhone 13 (A2633) <br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Release Year	2021<br/>Operating System	iOS 15<br/>Chipset	Apple A15 Bionic<br/>Number of CPU Cores	6<br/>RAM	6 GB <br/>Width	71.5 mm<br/>Height	146.7 mm<br/>Thickness	7.7 mm<br/>Weight	174.0 g<br/>Display<br/>Type	RETINA<br/>Diagonal	6.1 inches<br/>Resolution	1170x2532 px<br/><br/>Pixel density	457 ppi<br/>Colors	16M<br/>Built-in WiFi	yes<br/>WiFi Version	802.11 a/b/g/n/ac/6<br/>WiFi Features	Wi-Fi Hotspot, Dual band<br/>Built-in bluetooth	yes" );
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
 }                      
+
+    
     
 }
 
