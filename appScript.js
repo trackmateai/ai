@@ -448,7 +448,7 @@ if (username=="mauntma13@gmail.com"){
 
 if (username=="nthobelang83@gmail.com"){
     
-           window.location.href=("resultsNthobelang35765.html");
+           window.location.href=("resultsNthobelang.html");
 }                      
 
     
