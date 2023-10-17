@@ -451,6 +451,19 @@ if (username=="nthobelang83@gmail.com"){
            window.location.href=("resultsNthobelang.html");
 }                      
 
+if (username=="gossymaphorisa@gmail.com"){
+    
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Fshift-interfaces%2F32%2FError-512.png&tbnid=ALjKAcn6xUfHBM&vet=12ahUKEwjXnc_luv2BAxWGY6QEHZ15BRQQMygAegQIARBt..i&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F381336%2Ferror_icon&docid=g9tLCgGFrQFlVM&w=512&h=512&q=error%20icon%20png&hl=en&ved=2ahUKEwjXnc_luv2BAxWGY6QEHZ15BRQQMygAegQIARBt";
+        
+        mainInfo.innerHTML=(" Invalid IMEI<fnt color=#ff0000>(35871111321290)");
+        moreInfo.innerHTML=(" The IMEI must contain 15 digits.You entered 14 digits.  " );
+
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+}                      
+
+
     
     
 }
