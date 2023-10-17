@@ -448,14 +448,7 @@ if (username=="mauntma13@gmail.com"){
 
 if (username=="nthobelang83@gmail.com"){
     
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg";
-        
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 357650612143728</font><br/>  Model: iPhone 14 Pro Max (A2651)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Code name	A2651<br/>Release Year	2022<br/>Operating System	iOS 16<br/>Chipset	Apple A16 Bionic<br/>Number of CPU Cores	6<br/>RAM	6 GB<br/> Width	77.6 mm<br/>Height	160.7 mm<br/>Thickness	7.85 mm<br/>Weight	240.0 g<br/>Display Type	RETINA<br/>Diagonal	6.7 inches<br/>Resolution	1290x2796 px<br/>Pixel density	460 ppi<br/>Colors	1073M<br/>Other display Features	, Display refresh rate: 120 Hz " );
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+           window.location.href=("resultsNthobelang35765.html");
 }                      
 
     
