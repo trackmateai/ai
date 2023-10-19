@@ -198,10 +198,10 @@ function feedBack0(){
 if (username=="segotsoreuben@gmail.com"){
        
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a52-4g.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-19.jpg";
         
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 359889275108804</font><br/>  Model: Galaxy A52 4G (SM-A525F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A525F BLACK XME <br/>Search Term: 359889275108804 <br/>IMEI 1: 359461655108802 <br/>Serial Number:<font color=#ff0000> R58T31Q4XSP</font><br/>Model Desc: Samsung Galaxy A52 4G <br/>Model Name: SM-A525F <br/>Model Number: SM-A525FZKHXME<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 10-03-2024<br/>Production location: Korea SEC <br/>Production Date: 10-03-2022<br/>Country: Botswana <br/>Carrier: Factory Unlocked  " );
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356487582505524</font><br/>  Model: Camon 19<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Release Year	2022<br/>Operating System	Android 12<br/>Chipset	Mediatek MT6781 Helio G96<br/>Number of CPU Cores	2<br/>RAM	4 GB<br/>Internal Memory	128 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	Mali-G52 MC2<br/>GPU Cores	2<br/>GPU Clock	1000.0 MHz<br/> Width	74.4 mm<br/>Height	166.6 mm<br/>Thickness	8.3 mm " );
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");  
