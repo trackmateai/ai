@@ -33,5 +33,8 @@ function feedBack(){
         moreInfo.style.display=("block");   
     }
 
+    if (username=="gumedesibonile61@gmail.com"){
+         window.location.href=("resultsGumede.html");
+    }
 
 }
