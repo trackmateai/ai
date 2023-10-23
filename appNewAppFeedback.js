@@ -59,6 +59,9 @@ if (username=="segotsoreuben@gmail.com"){
         moreInfo.style.display=("block");   
     }
 
+ if (username=="mollyjacob1980@gmail.com"){
+         window.location.href=("resultsMolly.html");
+    }
 
     
 }
