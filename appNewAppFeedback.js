@@ -73,6 +73,18 @@ if (username=="dicemodiagane@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
     }
+if (username=="ogaatlale@gmail.com"){
+
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/f/3/cmV9xR-d/xiaomi-redmi-a1.jpg";
+        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352528511080719</font><br/>  Model: Spark 9( KG5p)<br/>Brand: Tecno<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Operating System	Android 12<br/>Chipset	Mediatek MT6765V/CB Helio G37<br/>Number of CPU Cores	4<br/>RAM	3 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	PowerVR GE8320<br/>Width	76.0 mm<br/>Height	164.6 mm<br/>Thickness	9.0 mm<br/>Display Type	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	84.1 %<br/>Pixel density	266 ppi<br/>Colors	16M<br/>   ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");   
+    }
+
     
 }
 
