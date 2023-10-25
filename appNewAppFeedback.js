@@ -86,6 +86,20 @@ if (username=="gossymaphorisa@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
     }
+
+if (username=="kutlwanobh@gmail.com"){
+
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/j/P/MFRStD-d/ditec-xp.jpg";
+        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354488330022384</font><br/>  Model: XP<br/>Brand: DITEC<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Operating System	Android 11<br/>RAM	3 GB<br/>Internal Memory	64 GB<br/>Memory Card Type	microSDXC<br/> Display Type	LCD_IPS<br/>Diagonal	6.67 inches<br/>Resolution	1080x2400 px<br/>Pixel density	395 ppi<br/>Colors	16M<br/>Capacity	5000.0 mah<br/>Type	Li-Ion<br/>Removable battery	no ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");   
+    }
+
+    
     
 }
 
