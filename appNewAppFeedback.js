@@ -39,10 +39,10 @@ function feedBack(){
  if (username=="dicemodiagane@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/F/9/jsKlk5-d/redmi-note-10-pro-max.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go-2023.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867930052141835</font><br/>  Model: Note 10 Pro Max (M2101K6I) <br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Operating System	Android 11<br/>Chipset	Qualcomm SM7150 Snapdragon 732G<br/>Number of CPU Cores	2<br/>RAM	6 GB <br/>Width	76.2 mm<br/>Height	164.0 mm<br/>Thickness	8.1 mm<br/>Weight	192.0 g<br/>Type	SUPER_AMOLED<br/>Diagonal	6.67 inches<br/>Resolution	1080x2400 px<br/>Screen-to-body ratio	85.7 %<br/>Pixel density	395 ppi<br/>Colors	16M   ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354341958121030</font><br/>  Model: TE<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Search Term: 354341958121030<br/>Brand: Tecno<br/>Model: BF7<br/>Model Name: Spark Go 2023  ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
