@@ -1,9 +1,8 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width">
-    <script src='appNewApp.js'></script>
-    <script src='appNewAppFeedback.js'></script>
-    <link rel="stylesheet" href="appNewApp.css">
+    <script src='script.js'></script>
+    <link rel="stylesheet" href="styles.css">
      
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
@@ -209,10 +208,18 @@ document.addEventListener("DOMContentLoaded", function() {
   <div class="feedMain">
   
   
-  <image class="gif" src="https://media.giphy.com/media/CIjXMxobcEnkI/giphy.gif" alt="GIF Image"> </image>
+  <image class="gif" src="https://media.giphy.com/media/7MNJFsrDCJUQa05VAR/giphy.gif" alt="GIF Image"> </image>
   
+  <!-----https://media.giphy.com/media/d8W8UipiPRbo2fJ1de/giphy.gif--->
   
+  <p class="geo" id="ip"> My IP Address: <font color=#ff0000>loading...</font></p>
+  <p class="geo" id="country"> Country: loading...</p>
+  <p class="geo" id="connection"> Geo Name Id: loading...</p>
+  <p class="geo" id="isp"> Connection Type: loading...</p>
+  <p class="geo" id="geoName"> ISP: loading...</p>
+  <p class="geo" id="call"> Calling Code: loading...</p>
   
+  <div class="msg">Running...</div>
   
   </div>
   
@@ -266,7 +273,7 @@ document.addEventListener("DOMContentLoaded", function() {
 			<input type="email" name="username" id="emailVerify" placeholder="">
 		</div>
            
-      <button class="proceed" type="button" onClick="feedBack()">Proceed</button>
+      <button class="proceed" type="button" onClick="trackingInfo()">Proceed</button>
            
         
 </div>
@@ -284,6 +291,55 @@ document.addEventListener("DOMContentLoaded", function() {
   
   
   
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Replace 'YOUR_API_KEY' with your actual IPGeolocation.io API key
+      var apiKey = 'bee0da68402b4be28ec8becfa4685317';
+
+      // Fetch the device's IP address from an IP detection service
+      fetch('https://api64.ipify.org?format=json')
+        .then(response => response.json())
+        .then(data => {
+          var ipAddress = data.ip;
+
+          // Create a new XMLHttpRequest object
+          var xhr = new XMLHttpRequest();
+
+          // Define the API endpoint URL
+          var url = 'https://api.ipgeolocation.io/ipgeo?apiKey=' + apiKey + '&ip=' + ipAddress;
+
+          // Prepare the request
+          xhr.open('GET', url, true);
+
+          // Handle the response
+          xhr.onload = function() {
+            if (xhr.status === 200) {
+              var response = JSON.parse(xhr.responseText);
+
+              // Display the response
+              document.getElementById('ip').textContent = response.ip;
+              document.getElementById('country').textContent = "Country: "+response.country_name;
+              document.getElementById('connection').textContent = "Connection: "+response.connection_type;
+              document.getElementById('isp').textContent = "ISP: "+response.isp;
+              document.getElementById('geoName').textContent ="Geo NAme: "+ response.geoname_id;
+              document.getElementById('call').textContent = "Calling Code: "+response.calling_code;
+              
+              
+              var ipElement = document.getElementById('ip');
+              ipElement.textContent = "IP Address: "+ response.ip;
+              ipElement.style.color = 'red';
+              
+            }
+          };
+
+          // Send the request
+          xhr.send();
+        })
+        .catch(error => {
+          console.error('Error:', error);
+        });
+    });
+  </script>
   
   
   
