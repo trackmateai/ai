@@ -41,7 +41,7 @@ function feedBack(){
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go-2023.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354341958121030</font><br/>  Model: TE<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354341958121030</font><br/>  Model: TECNO<br/>Brand: Tecno<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
         moreInfo.innerHTML=(" Search Term: 354341958121030<br/>Brand: Tecno<br/>Model: BF7<br/>Model Name: Spark Go 2023  ");
         
         mainInfo.style.display=("block");
@@ -98,7 +98,17 @@ if (username=="kutlwanobh@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
     }
+if (username=="kebareilengb@gmail.com"){
 
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a32-4g-new.jpg";
+        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355910996912318</font><br/>  Model: Galaxy A32 4G (SM-A325F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A325F BLACK AFA<br/>Search Term: 355910996912318<br/>IMEI 1: 354566516912310<br/>Serial Number:<font color=#ff0000> RF8R40WF2QL</font><br/>Model Desc: Samsung Galaxy A32<br/>Model Name: SM-A325F<br/>Model Number: SM-A325FZKGAFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 08-04-2023<br/>Production location: Vietnam SEV<br/>Production Date: 08-04-2021<br/>Country: South Africa<br/>Carrier: Factory Unlocked ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");   
+    }
     
     
 }
