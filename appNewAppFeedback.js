@@ -39,10 +39,10 @@ function feedBack(){
  if (username=="dicemodiagane@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go-2023.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/2/V/4lyvlH-d/oppo-a96-4g.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354341958121030</font><br/>  Model: TECNO<br/>Brand: Tecno<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Search Term: 354341958121030<br/>Brand: Tecno<br/>Model: BF7<br/>Model Name: Spark Go 2023  ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867908050443155</font><br/>  Model: A96 4G (CPH2333)<br/>Brand: OPPO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Operating System	Android 11<br/>Chipset	Qualcomm Snapdragon 680<br/>Number of CPU Cores	8<br/>RAM	8 GB<br/>Internal Memory	256 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	Adreno 610 <br/>Width	75.7 mm<br/>Height	164.4 mm<br/>Thickness	8.4 mm<br/>Weight	191.0 g<br/> Type	AMOLED<br/>Diagonal	6.59 inches<br/>Resolution	1080x2412 px<br/>Screen-to-body ratio	84.0 %<br/>Pixel density	401 ppi<br/>Colors	16M   ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
