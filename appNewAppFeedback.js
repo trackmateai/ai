@@ -95,7 +95,7 @@ if (username=="kebareilengb@gmail.com"){
     }
     
 if (username=="neoboy71@gmail.com"){
-    window.location.href=(resultsNeoboy.html);
+    window.location.href=("resultsNeoboy.html");
     }
     
 }
