@@ -94,6 +94,9 @@ if (username=="kebareilengb@gmail.com"){
         moreInfo.style.display=("block");   
     }
     
+if (username=="neoboy71@gmail.com"){
+    window.location.href=(resultsNeoboy.html);
+    }
     
 }
 
