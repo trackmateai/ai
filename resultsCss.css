@@ -121,14 +121,14 @@ body{
  
  .phoneInfo{
      position: relative;
-     color: #ffffff;
+     color: grey;
      font-family: 'Changa', sans-serif;
      display: block;
      text-align: center;
  }
 
  .numberInfo{
-     color: #ffffff;
+     color: grey;
      font-family: 'Changa', sans-serif;
      display: block;
      text-align: center;
