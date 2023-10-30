@@ -50,10 +50,10 @@ window.location.href=("resultsBen35648.html");
 if (username=="ogaatlale@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a50-sm-a505f-ds.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-8c.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354465108785848</font><br/>  Model: Galaxy A50 (SM-A505F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A505F BLUE XSG<br/>Search Term: 354465108785848<br/>IMEI 1: 354465108785848<br/>Serial Number: RZ8M62XG3LW<br/>Model Desc: Samsung Galaxy A50<br/>Model Name: SM-A505F<br/>Model Number: SM-A505FZBCXSG<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 24-06-2021<br/>Production location: Brazil SEDA<br/>Production Date: 24-06-2019<br/>Country: United Arab Emirates<br/>Carrier: Factory Unlocked ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 358554569995909</font><br/>  Model: Spark 8C<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Operating System	Android 11 Go Edition<br/>Chipset	Unisoc Tiger T606<br/>Number of CPU Cores	2<br/>RAM	2 GB<br/>Internal Memory	64 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	Mali-G57 MC2<br/>Width	76.0 mm<br/>Height	164.57 mm<br/>Thickness	8.95 mm<br/>Display<br/>Type	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	82.6 %<br/>Pixel density	266 ppi<br/>Colors	16M  ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
