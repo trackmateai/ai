@@ -37,15 +37,7 @@ function feedBack(){
          window.location.href=("resultsGumede.html");
     }
  if (username=="dicemodiagane@gmail.com"){
-           
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/F/9/jsKlk5-d/redmi-note-10-pro-max.jpg";
-        
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867930052141835</font><br/>  Model: Note 10 Pro Max (M2101K6I)<br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Description: Redmi Note 10 Pro Max Dark Night 6GB RAM 128GB ROM<br/>IMEI: 867930052141835<br/>Brand: Redmi<br/>Model: M2101K6I<br/>Name: Note 10 Pro Max<br/>Purchase Country: India<br/> Width	76.2 mm<br/>Height	164.0 mm<br/>Thickness	8.1 mm<br/>Weight	192.0 g<br/>Type	SUPER_AMOLED<br/>Diagonal	6.67 inches<br/>Resolution	1080x2400 px<br/>Screen-to-body ratio	85.7 %<br/>Pixel density	395 ppi<br/>Colors	16M  ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");   
+           window.location.href=("resultsDice86793.html");  
     }
 if (username=="segotsoreuben@gmail.com"){
 window.location.href=("resultsBen35648.html"); 
