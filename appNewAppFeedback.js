@@ -98,6 +98,20 @@ if (username=="neoboy71@gmail.com"){
     window.location.href=("resultsNeoboy.html");
     }
     
+if (username=="letsopelaelo3@gmail.com"){
+
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a50-sm-a505f-ds.jpg";
+        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354465108785848</font><br/>  Model:  Galaxy A50 (SM-A505F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A505F BLUE XSG<br/>Search Term: 354465108785848<br/>IMEI 1: 354465108785848<br/>Serial Number: <font color=#ff0000>RZ8M62XG3LW</font><br/>Model Desc: Samsung Galaxy A50<br/>Model Name: SM-A505F<br/>Model Number: SM-A505FZBCXSG<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 24-06-2021<br/>Production location: Brazil SEDA<br/>Production Date: 24-06-2019<br/>Country: United Arab Emirates<br/>Carrier: Factory Unlocked ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");   
+    }
+
+
+    
 }
 
 
