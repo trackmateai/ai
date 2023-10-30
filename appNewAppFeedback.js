@@ -50,10 +50,10 @@ window.location.href=("resultsBen35648.html");
 if (username=="ogaatlale@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-8c.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-5.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 358554569995909</font><br/>  Model: Spark 8C<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Operating System	Android 11 Go Edition<br/>Chipset	Unisoc Tiger T606<br/>Number of CPU Cores	2<br/>RAM	2 GB<br/>Internal Memory	64 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	Mali-G57 MC2<br/>Width	76.0 mm<br/>Height	164.57 mm<br/>Thickness	8.95 mm<br/>Display<br/>Type	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	82.6 %<br/>Pixel density	266 ppi<br/>Colors	16M  ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353212446833588</font><br/>  Model:  Spark 5 Pro<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Operating System	Android 10<br/>Chipset	MediaTek Helio A22 MT6761<br/>Number of CPU Cores	4<br/>RAM	4 GB<br/>Internal Memory	64 GB<br/>GPU Name	PowerVR GE8300<br/>GPU Clock	660.0 MHz<br/> Width	76.3 mm<br/>Height	164.7 mm<br/>Thickness	8.75 mm<br/> Display Type	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	90.2 %<br/>Pixel density	266 ppi<br/>Colors	16M <br/>");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
