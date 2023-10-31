@@ -50,10 +50,10 @@ window.location.href=("resultsBen35648.html");
 if (username=="ogaatlale@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-5.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a04s.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353212446833588</font><br/>  Model:  Spark 5 Pro<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Operating System	Android 10<br/>Chipset	MediaTek Helio A22 MT6761<br/>Number of CPU Cores	4<br/>RAM	4 GB<br/>Internal Memory	64 GB<br/>GPU Name	PowerVR GE8300<br/>GPU Clock	660.0 MHz<br/> Width	76.3 mm<br/>Height	164.7 mm<br/>Thickness	8.75 mm<br/> Display Type	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	90.2 %<br/>Pixel density	266 ppi<br/>Colors	16M <br/>");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350753201756657</font><br/>  Model: Galaxy A04S (SM-A047F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A047F GREEN MYM<br/>Search Term: 350753201756657<br/>IMEI 1: 350753201756657<br/>Serial Number:<font color=#ff0000> R58T90PX8AN</font><br/>Model Desc: Samsung Galaxy A04s<br/>Model Name: SM-A047F<br/>Model Number: SM-A047FZGGMYM<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 13-09-2024<br/>Production location: Korea SEC<br/>Production Date: 13-09-2022<br/>Country: Myanmar<br/>Carrier: Factory Unlocked");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
