@@ -84,7 +84,15 @@ body
     margin-left: 3%;
     padding-top: 1px;
     font-family: 'Aboreto', cursive;
+    display: none;
 }
+.support{
+    position:relative;
+    color: #7D7C7C;
+    font-size: 13px;
+    margin-left: 3%;
+    padding-top: 1px;
+    font-family: 'Righteous', cursive;
 /******************************************************************************/
 
 
