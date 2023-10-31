@@ -110,6 +110,17 @@ if (username=="letsopelaelo3@gmail.com"){
         moreInfo.style.display=("block");   
     }
 
+if (username=="neoboy71@gmail.com"){
+
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/c/v/4Rdm1n-d/samsung-galaxy-a52-4g.jpg";
+        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355595473250199</font><br/>  Model: Galaxy A52 4G (SM-A525F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A525F/DS BLUE AFA<br/>Search Term: 355595473250199<br/>IMEI 1: 355595473250199<br/>Serial Number:<font color=#ff0000> R58R75TMMBT</font><br/>Model Desc: Samsung Galaxy A52 4G<br/>Model Name: SM-A525F/DS<br/>Model Number: SM-A525FZBDAFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 24-07-2023<br/>Production location: Korea SEC<br/>Production Date: 24-07-2021<br/>Country: South Africa<br/>Carrier: Factory Unlocked ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");   
+    }
 
     
 }
