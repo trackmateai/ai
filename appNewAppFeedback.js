@@ -57,10 +57,10 @@ if (username=="segotsoreuben@gmail.com"){
 if (username=="ogaatlale@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/G/S/jbddTA-d/huawei-nova-11i.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a32-4g-new.jpg";
         
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 860273061790731</font><br/>  Model: Nova 11i (MAO-LX9)) <br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Description Full: HUAWEI nova 11i 8GB+128GB Starry Black Dual Card Open Market Ver. UK CHARGER<br/>Model Code: Mario-L29E<br/>IMEI: 860273061790731<br/>S/N: <font color=#ff0000>Q4DYD23508004807</font><br/>Item Code: 51097LYA<br/>Offer Code: OFFE00899775<br/>Width	75.6 mm<br/>Height	164.6 mm<br/>Thickness	8.6 mm<br/>Weight	193.0 g  ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350857486384430</font><br/>  Model: Galaxy A32 4G (SM-A325F)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A325F BLACK MEA<br/>Search Term: 350857486384430<br/>IMEI 1: 350857486384430<br/>Serial Number: <font color=#ff0000>RZ8T81NTPYE</font><br/>Model Desc: Samsung Galaxy A32<br/>Model Name: SM-A325F<br/>Model Number: SM-A325FZKHMEA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 31-08-2024<br/>Production location: Brazil SEDA<br/>Production Date: 31-08-2022<br/>Country: United Arab Emirates<br/>Carrier: Factory Unlocked ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
