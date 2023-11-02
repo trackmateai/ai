@@ -37,7 +37,7 @@ function feedBack(){
          window.location.href=("resultsGumede.html");
     }
  if (username=="dicemodiagane@gmail.com"){
-            window.location.href=("resultsDice86739.html");
+            window.location.href=("resultsDice86793.html");
     }
 if (username=="segotsoreuben@gmail.com"){
             phoneImageLay.style.display=("block");
