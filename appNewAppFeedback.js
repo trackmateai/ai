@@ -57,10 +57,10 @@ if (username=="segotsoreuben@gmail.com"){
 if (username=="ogaatlale@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a32-4g-new.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/g/5/puLfNi-d/tecno-spark-9t.jpg";
         
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350857486384430</font><br/>  Model: Galaxy A32 4G (SM-A325F)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A325F BLACK MEA<br/>Search Term: 350857486384430<br/>IMEI 1: 350857486384430<br/>Serial Number: <font color=#ff0000>RZ8T81NTPYE</font><br/>Model Desc: Samsung Galaxy A32<br/>Model Name: SM-A325F<br/>Model Number: SM-A325FZKHMEA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 31-08-2024<br/>Production location: Brazil SEDA<br/>Production Date: 31-08-2022<br/>Country: United Arab Emirates<br/>Carrier: Factory Unlocked ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352577602074743</font><br/>  Model: Spark 9T<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Operating System	Android 12<br/>Chipset	MediaTek Helio G37<br/>Number of CPU Cores	4<br/>RAM	4 GB<br/> Width	75.55 mm<br/>Height	164.27 mm<br/>Thickness	8.65 mm<br/> Type	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	84.2 %<br/>Pixel density	267 ppi<br/>Colors	16M  ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
