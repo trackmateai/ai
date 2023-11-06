@@ -47,14 +47,7 @@ function feedBack(){
         moreInfo.style.display=("block"); 
     }
 if (username=="segotsoreuben@gmail.com"){
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a04.jpg";
-        
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>L.S</font><br/>IMEI: <font color=#00ee00> 350970303124986</font><br/>  Model: Galaxy A04 (SM-A045F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A045F/DS XME<br/>Search Term: 350970303124986<br/>IMEI 1: 350970303124986<br/>Serial Number: <font color=#ff0000>R9DTA0EBELY</font><br/>Model Desc: Samsung Galaxy A04<br/>Model Name: SM-A045F/DS<br/>Model Number: SM-A045FZCDXME<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 31-10-2024<br/>Production location: Korea SEC<br/>Production Date: 31-10-2022<br/>Country: Malaysia<br/>Carrier: Factory Unlocked ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");  
+            window.location.href=("resultsBen35097.html");
     }
 
  if (username=="mollyjacob1980@gmail.com"){
