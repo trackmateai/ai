@@ -37,7 +37,14 @@ function feedBack(){
          window.location.href=("resultsGumede.html");
     }
  if (username=="dicemodiagane@gmail.com"){
-            window.location.href=("resultsDice86793.html");
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F128%2F4497%2F4497622.png&tbnid=ZaRSbTWXYH9jIM&vet=12ahUKEwiMr_ToiK-CAxUZWaQEHaloAqQQMygCegQIARBX..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icons%2Flimit&docid=y8sjLblb4SixlM&w=128&h=128&q=limit%20reachedicon%20%20png&hl=en&ved=2ahUKEwiMr_ToiK-CAxUZWaQEHaloAqQQMygCegQIARBX";
+        
+        mainInfo.innerHTML=("Free check limit reached ");
+        moreInfo.innerHTML=(" ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block"); 
     }
 if (username=="segotsoreuben@gmail.com"){
             phoneImageLay.style.display=("block");
