@@ -151,7 +151,15 @@ if (username=="thamanghakeemmbaiwa@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
     }
+if (username=="ranchobololone441@gmail.com"){
 
+              
+        mainInfo.innerHTML=("Invalid request! IMEi field cannot be empty ");
+        moreInfo.innerHTML=("Please input a valid IMEi number to start tracking ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");   
+    }
     
     
     
