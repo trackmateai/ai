@@ -57,10 +57,10 @@ if (username=="segotsoreuben@gmail.com"){
 if (username=="ogaatlale@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a53-5g-.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/X/H/BpkjP1-d/tecno-pop-7-pro.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353881484261298</font><br/>  Model: Galaxy A53 5G (SM-A536E)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A536E/DS LIGHT BLUE MEA<br/>Search Term: 353881484261298<br/>IMEI 1: 353881484261298<br/>Serial Number: <font color=#ff0000>RZCT70GNL2H</font><br/>Model Desc: Samsung Galaxy A53 5G<br/>Model Name: SM-A536E/DS<br/>Model Number: SM-A536ELBDMEA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 14-07-2024<br/>Production location: Brazil SEDA<br/>Production Date: 14-07-2022<br/>Country: United Arab Emirates<br/>Carrier: Factory Unlocked ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356983901231578</font><br/>  Model: Pop 7 Pro<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Operating System	Android 12<br/>Chipset	Mediatek MT6761V Helio A22<br/>Number of CPU Cores	4<br/>RAM	3 GB<br/>Width	75.5 mm<br/>Height	163.9 mm<br/>Thickness	8.9 mm<br/>Weight	191.0 g<br/> ype	LCD_IPS<br/>Diagonal	6.56 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	83.5 %<br/>Pixel density	267 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
