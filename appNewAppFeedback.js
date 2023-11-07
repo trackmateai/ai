@@ -57,10 +57,10 @@ if (username=="segotsoreuben@gmail.com"){
 if (username=="ogaatlale@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03-core.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a53-5g-.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351389785644677</font><br/>  Model: Galaxy A03 Core (SM-A032F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A032F/DS BLACK AFC<br/>Search Term: 351389785644677<br/>IMEI 1: 351389785644677<br/>Serial Number: <font color=#ff0000>R7ST40C1Y7W</font><br/>Model Desc: Samsung Galaxy A03 Core<br/>Model Name: SM-A032F/DS<br/>Model Number: SM-A032FZKDAFC<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 21-04-2024<br/>Production location: Korea SEC<br/>Production Date: 21-04-2022  ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353881484261298</font><br/>  Model: Galaxy A53 5G (SM-A536E)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A536E/DS LIGHT BLUE MEA<br/>Search Term: 353881484261298<br/>IMEI 1: 353881484261298<br/>Serial Number: <font color=#ff0000>RZCT70GNL2H</font><br/>Model Desc: Samsung Galaxy A53 5G<br/>Model Name: SM-A536E/DS<br/>Model Number: SM-A536ELBDMEA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 14-07-2024<br/>Production location: Brazil SEDA<br/>Production Date: 14-07-2022<br/>Country: United Arab Emirates<br/>Carrier: Factory Unlocked ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
