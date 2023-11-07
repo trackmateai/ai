@@ -160,7 +160,15 @@ if (username=="ranchobololone441@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
     }
-    
+if (username=="ranchobololone441@gmail.com"){
+
+              
+        mainInfo.innerHTML=("353809111556324 is an invalid IMEi ");
+        moreInfo.innerHTML=("Please enter the correct IMEi number ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");   
+    }
     
     
 }
