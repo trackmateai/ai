@@ -180,7 +180,9 @@ if (username=="thabochizwe81@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
     }
-    
+if (username=="onaletsheposhuma@gmail.com"){
+            window.location.href=("resultsOnaletshepo.html");
+    }
     
     
 }
