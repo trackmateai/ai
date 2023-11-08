@@ -169,6 +169,18 @@ if (username=="ranchobololone441@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
     }
+if (username=="thabochizwe81@gmail.com"){
+            
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a14-4g.jpg";
+        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 357294304396490</font><br/>  Model: Galaxy A14 5G (SM-A145F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A145F/DS AFA<br/>Search Term: 357294304396490<br/>IMEI 1: 357294304396490<br/>Serial Number: <font color=#ff0000>RF8W60T59VK</font><br/>Model Desc: Samsung Korea Galaxy A14<br/>Model Name: SM-A145F/DS<br/>Model Number: SM-A145FLGDAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 29-06-2025<br/>Production location: Vietnam SEV<br/>Production Date: 29-06-2023Country: South Africa<br/>Carrier: Factory Unlocked");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");   
+    }
+    
     
     
 }
