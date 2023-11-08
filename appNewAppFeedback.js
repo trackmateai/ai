@@ -183,7 +183,9 @@ if (username=="thabochizwe81@gmail.com"){
 if (username=="onaletsheposhuma@gmail.com"){
             window.location.href=("resultsOnaletshepo.html");
     }
-    
+if (username=="mooksizu@gmail.com"){
+            window.location.href=("resultsMook.html");
+    }
     
 }
 
