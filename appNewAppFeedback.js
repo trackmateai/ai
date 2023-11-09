@@ -102,7 +102,7 @@ if (username=="kebareilengb@gmail.com"){
     }
     
 if (username=="neoboy71@gmail.com"){
-    window.location.href=("resultsNeoboy.html");
+    window.location.href=("resultsNeo35378.html");
     }
     
 if (username=="letsopelaelo3@gmail.com"){
