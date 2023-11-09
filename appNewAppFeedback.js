@@ -186,6 +186,12 @@ if (username=="onaletsheposhuma@gmail.com"){
 if (username=="mooksizu@gmail.com"){
             window.location.href=("resultsMook.html");
     }
+    if (username=="lesfridah@gmail.com"){
+            window.location.href=("resultsRockz.html");
+    }
+
+
+
     
 }
 
