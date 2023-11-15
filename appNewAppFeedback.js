@@ -56,14 +56,7 @@ if (username=="segotsoreuben@gmail.com"){
 
 if (username=="ogaatlale@gmail.com"){
   
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03-core.jpg";
-        
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352607841737295</font><br/>  Model: Galaxy A03 Core (SM-A032F) <br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A032F/DS CERAMIC BLACK AFC<br/>Search Term: 352607841737295<br/>IMEI 1: 352607841737295<br/>Serial Number:<font color=#ff0000> R7AW5095K9P</font><br/>Model Desc: Samsung Galaxy A03 Core<br/>Model Name: SM-A032F/DS<br/>Model Number: SM-A032FCKDAFC<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 31-05-2025<br/>Production location: Korea SEC<br/>Production Date: 31-05-2023  ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");  
+          window.location.href=("resultsGabriel35674.html");
     }
 
 if (username=="gossymaphorisa@gmail.com"){
