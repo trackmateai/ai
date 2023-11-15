@@ -24,10 +24,10 @@ function feedBack(){
  if (username=="Masele"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03-core.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/9/f/Sc581x-d/tecno-pop-2f.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350655750479195</font><br/>  Model: Galaxy A03 Core (SM-A032F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A032F INS <br/>Search Term: 350655750479195 <br/>IMEI 1: 350655750479195 <br/>Serial Number: <font color=#5F264A>R9ZTB0DXXEE</font> <br/>Model Desc: Samsung Galaxy A03 Core <br/>Model Name: SM-A032F <br/>Model Number: SM-A032FLG6INS <br/>Warranty Status: Warranty Active <br/>Estimated Warranty End Date: 16-11-2024 <br/>Production location: Korea SEC <br/>Production Date: 16-11-2022 <br/>Country: India <br/>Carrier: Factory Unlocked ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351678467786487</font><br/>  Model: Pop 2F<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Operating System	Android 8.1 Oreo<br/>Chipset	MediaTek MT6580<br/>Number of CPU Cores	4<br/>RAM	1 GB<br/>Internal Memory	16 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	ARM<br/>Width	72.8 mm<br/>Height	149.76 mm<br/>Thickness	9.35 mm<br/>Thickness	9.35 mm");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
