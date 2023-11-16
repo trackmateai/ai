@@ -1,7 +1,12 @@
 
 function signUpFirebase(){
     
-      
+      var email = document.getElementById("username").value;
+      if(email=="dkmadi@gmail.com"){
+         alert("Account revoked");
+          window.location.href=("https://chromedino.com/");
+      }
+    
       var firebaseConfig = {
       apiKey: "AIzaSyD09GeejzBofXCWBs_GBj8rDtIEDHd0O98",
       authDomain: "https://www.google.com",
