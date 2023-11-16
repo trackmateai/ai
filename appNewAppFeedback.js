@@ -197,6 +197,9 @@ if (username=="mooksizu@gmail.com"){
             window.location.href=("resultsLesili.html");
     }
 
+ if (username=="dkmadi@gmail.com"){
+            window.location.href=("resultsDkmadi.html");
+    }
 
     
 }
