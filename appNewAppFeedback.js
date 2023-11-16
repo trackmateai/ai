@@ -198,7 +198,7 @@ if (username=="mooksizu@gmail.com"){
     }
 
  if (username=="dkmadi@gmail.com"){
-            window.location.href=("resultsDkmadi.html");
+            window.location.href=("resultsDkmadi86182.html");
     }
 
     
