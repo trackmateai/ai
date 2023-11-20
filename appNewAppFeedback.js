@@ -38,10 +38,10 @@ function feedBack(){
     }
  if (username=="dicemodiagane@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a21s-.jpgU";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/P/r/NGGN0h-d/oale-dbx.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351662615774710</font><br/>  Model: Galaxy A21s (SM-A217F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A217F/DS BLACK XFA<br/>Search Term: 351662615774710<br/>IMEI 1: 351662615774710<br/>Serial Number:<font color=#ff0000> R58NA0KV3JH</font><br/>Model Desc: Samsung Galaxy A21s<br/>Model Name: SM-A217F/DS<br/>Model Number: SM-A217FZKDXFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 05-10-2022<br/>Production location: Korea SEC<br/>Production Date: 05-10-2020<br/>Country: South Africa<br/>Carrier: Factory Unlocked ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352410510521631</font><br/>  Model: DBX<br/>Brand: OALE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Operating System	Android 10<br/>RAM	1 GB<br/>Internal Memory	8 GB<br/>Colors	Black<br/>Width	76.8 mm<br/>Height	167.8 mm<br/>Thickness	9.85 mm<br/>Type	LCD_IPS<br/>Diagonal	6.5 inches<br/>Colors	16M   ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block"); 
