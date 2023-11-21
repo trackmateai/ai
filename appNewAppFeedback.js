@@ -37,14 +37,7 @@ function feedBack(){
          window.location.href=("resultsGumede.html");
     }
  if (username=="dicemodiagane@gmail.com"){
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/P/r/NGGN0h-d/oale-dbx.jpg";
-        
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352410510521631</font><br/>  Model: DBX<br/>Brand: OALE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Operating System	Android 10<br/>RAM	1 GB<br/>Internal Memory	8 GB<br/>Colors	Black<br/>Width	76.8 mm<br/>Height	167.8 mm<br/>Thickness	9.85 mm<br/>Type	LCD_IPS<br/>Diagonal	6.5 inches<br/>Colors	16M   ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block"); 
+            window.location.href=("resultsDice35241.html");
     }
 if (username=="segotsoreuben@gmail.com"){
            window.location.href=("resultsBen35604.html");
