@@ -48,6 +48,18 @@ function feedBack(){
         moreInfo.style.display=("block");   
 
     }
+ if (username=="ashrafprofessor30@gmail.com"){
+            
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/l/f/CDk4p1-d/huawei-p10-lite.jpg";
+        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867974030370009</font><br/>  Model: P10 Lite (WAS-LX1A)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Description Full: HUAWEI P10 lite 4GB+32GB Midnight Black Dual Card Open Market Ver.<br/>Model Code: Warsaw-L21A<br/>IMEI: 867974030370009<br/>S/N: <font color=#ff0000>2XJDU18117001859</font><br/>Item Code: 51091LJM<br/>Offer Code: OFFE00036432<br/>Country Code:<br/>Country Name:<br/>Warranty Status: Out of Warranty<br/>Warranty Start:<br/>Warranty Expire: 2021/7/31  ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");   
+
+    }
 if (username=="segotsoreuben@gmail.com"){
            window.location.href=("resultsBen35604.html");
     }
@@ -158,15 +170,6 @@ if (username=="ranchobololone441@gmail.com"){
               
         mainInfo.innerHTML=("Invalid request! IMEi field cannot be empty ");
         moreInfo.innerHTML=("Please input a valid IMEi number to start tracking ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");   
-    }
-if (username=="ranchobololone441@gmail.com"){
-
-              
-        mainInfo.innerHTML=("353809111556324 is an invalid IMEi ");
-        moreInfo.innerHTML=("Please enter the correct IMEi number ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
