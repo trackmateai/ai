@@ -197,7 +197,7 @@ if (username=="thabochizwe81@gmail.com"){
         moreInfo.style.display=("block");   
     }
     
-    if (username=="rapelangpaulo@gmail.com"){
+    if (username=="seizsoka5694@gmail.com"){
             
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a14-4g.jpg";
