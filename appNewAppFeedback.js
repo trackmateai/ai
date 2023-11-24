@@ -37,15 +37,15 @@ function feedBack(){
          window.location.href=("resultsGumede.html");
     }
  if (username=="dicemodiagane@gmail.com"){
-            
+           
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/t/O/jNMWHQ-d/tecno-camon-19.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/F/9/jsKlk5-d/redmi-note-10-pro-max.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 357464318652127</font><br/>  Model: Camon 19<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Operating System	Android 12<br/>Chipset	Mediatek MT6781 Helio G96<br/>Number of CPU Cores	2<br/>RAM	4 GB<br/>Internal Memory	128 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	Mali-G52 MC2<br/>GPU Cores	2<br/>GPU Clock	1000.0 MHz <br/> Width	74.4 mm<br/>Height	166.6 mm<br/>Thickness	8.3 mm<br/> Type	LCD_IPS<br/>Diagonal	6.8 inches<br/>Resolution	1080x2460 px<br/>Screen-to-body ratio	88.6 %<br/>Pixel density	395 ppi<br/>Colors	16M   ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867930052141835</font><br/>  Model: Note 10 Pro Max (M2101K6I)<br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Description: Redmi Note 10 Pro Max Dark Night 6GB RAM 128GB ROMIMEI: 867930052141835<br/>Brand: Redmi<br/>Model: M2101K6I<br/>Name: Note 10 Pro Max<br/>Purchase Country: India<br/>MI Activation Lock: ");
         
         mainInfo.style.display=("block");
-        moreInfo.style.display=("block");   
+        moreInfo.style.display=("block");
 
     }
  if (username=="ashrafprofessor30@gmail.com"){
