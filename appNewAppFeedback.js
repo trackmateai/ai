@@ -215,23 +215,17 @@ if (username=="thabochizwe81@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
     }
-if (username=="onaletsheposhuma@gmail.com"){
-            window.location.href=("resultsOnaletshepo.html");
+if (username=="ofentsematakata211@gmail.com	"){
+            
+            phoneImageLay.style.display=("none");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a14-4g.jpg";
+        
+        mainInfo.innerHTML=("<font color=#ff0000>2355710680914665</font> is an invalid IMEi.  ");
+        moreInfo.innerHTML=("Please try again with a valid IMEi number ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");   
     }
-if (username=="mooksizu@gmail.com"){
-            window.location.href=("resultsMook.html");
-    }
-    if (username=="lesfridah@gmail.com"){
-            window.location.href=("resultsRockz.html");
-    }
- if (username=="leselihuizen@gmail.com"){
-            window.location.href=("resultsLesili.html");
-    }
-
- if (username=="dkmadi@gmail.com"){
-            window.location.href=("resultsDkmadi86182.html");
-    }
-
     
 }
 
