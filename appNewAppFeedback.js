@@ -70,11 +70,11 @@ if (username=="segotsoreuben@gmail.com"){
 
 if (username=="ogaatlale@gmail.com"){
   
-            phoneImageLay.style.display=("block");
+            phoneImageLay.style.display=("none");
             phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop5-lte.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350873073525863</font><br/>  Model: Pop 5 LTE<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Operating System	Android 11<br/>Chipset	Unisoc SC9863A<br/>Number of CPU Cores	4<br/>RAM	2 GB<br/>Internal Memory	32 GB<br/>Memory Card Type	MicroSD<br/>GPU Name	IMG8322<br/>Width	76.1 mm<br/>Height	164.9 mm<br/>Thickness	8.8 mm<br/>Type	LCD_IPS<br/>Diagonal	6.52 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	81.8 %<br/>Pixel density	269 ppi<br/>Colors	16M ");
+        mainInfo.innerHTML=("Invalid IMEi(<font color=#ff0000>354259521444414</font>) ");
+        moreInfo.innerHTML=("Please check if the IMEI number you entered is correct, as it has not passed our validation check.  ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
