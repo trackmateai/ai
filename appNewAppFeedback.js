@@ -228,6 +228,28 @@ if (username=="moxbont@gmail.com"){
         moreInfo.style.display=("block");   
     }
 
+if (username=="Seabootsile@gmail.com"){
+            
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a04s.jpg";
+        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352044981756655</font><br/>  Model: Galaxy A04S (SM-A047F) <br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A047F GREEN MYM<br/>Search Term: 352044981756655<br/>IMEI 1: 350753201756657<br/>Serial Number: <font color=#ff0000>R58T90PX8AN</font><br/>Model Desc: Samsung Galaxy A04s<br/>Model Name: SM-A047F<br/>Model Number: SM-A047FZGGMYM<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 13-09-2024<br/>Production location: Korea SEC<br/>Production Date: 13-09-2022<br/>Country: Myanmar<br/>Carrier: Factory Unlocked ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");   
+    }
+if (username=="moxbont@gmail.com"){
+            
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a32-4g-new.jpg";
+        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355910996912318</font><br/>  Model: Galaxy A32 4G (SM-A325F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A325F BLACK AFA<br/>Search Term: 355910996912318<br/>IMEI 1: 354566516912310<br/>Serial Number: <font color=#ff000000>RF8R40WF2QL</font><br/>Model Desc: Samsung Galaxy A32<br/>Model Name: SM-A325F<br/>Model Number: SM-A325FZKGAFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 08-04-2023<br/>Production location: Vietnam SEV<br/>Production Date: 08-04-2021<br/>Country: South Africa<br/>Carrier: Factory Unlocked ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");   
+    }
 
 
     
