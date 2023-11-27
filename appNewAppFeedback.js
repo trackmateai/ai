@@ -39,10 +39,10 @@ function feedBack(){
  if (username=="dicemodiagane@gmail.com"){
            
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/F/9/jsKlk5-d/redmi-note-10-pro-max.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a12-sm-a125.jpg";
         
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867930052141835</font><br/>  Model: Note 10 Pro Max (M2101K6I)<br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Description: Redmi Note 10 Pro Max Dark Night 6GB RAM 128GB ROMIMEI: 867930052141835<br/>Brand: Redmi<br/>Model: M2101K6I<br/>Name: Note 10 Pro Max<br/>Purchase Country: India<br/>MI Activation Lock: ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352399914236187</font><br/>  Model: Galaxy A12 (SM-A125F) <br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A125F BLACK MEB<br/>Search Term: 352399914236187<br/>IMEI 1: 352399914236187<br/>Serial Number: <font color=#ff0000>RZ8R70B303X</font><br/>Model Desc: Samsung Galaxy A12<br/>Model Name: SM-A125F<br/>Model Number: SM-A125FZKGMEB<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 05-07-2023<br/>Production location: Brazil SEDA<br/>Production Date: 05-07-2021<br/>Country: Pakistan<br/>Carrier: Factory Unlocked ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
