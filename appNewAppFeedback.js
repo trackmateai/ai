@@ -70,11 +70,11 @@ if (username=="segotsoreuben@gmail.com"){
 
 if (username=="ogaatlale@gmail.com"){
   
-            phoneImageLay.style.display=("none");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop5-lte.jpg";
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03-core.jpg";
         
-        mainInfo.innerHTML=("Invalid IMEi(<font color=#ff0000>354259521444414</font>) ");
-        moreInfo.innerHTML=("Please check if the IMEI number you entered is correct, as it has not passed our validation check.  ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356298774494538</font><br/>  Model: Galaxy A03 Core (SM-A032F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A032F/DS CERAMIC BLACK AFC<br/>Search Term: 356298774494538<br/>IMEI 1: 356298774494538<br/>Serial Number: <font color=#ff0000>R7AT72GB1BT</font><br/>Model Desc: Samsung Galaxy A03 Core<br/>Model Name: SM-A032F/DS<br/>Model Number: SM-A032FCKDAFC<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 28-07-2024<br/>Production location: Korea SEC<br/>Production Date: 28-07-2022 ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
@@ -215,19 +215,6 @@ if (username=="ofentsematakata211@gmail.com	"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
     }
-
-if (username=="moxbont@gmail.com"){
-            
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a32-4g-new.jpg";
-        
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355910996912318</font><br/>  Model: Galaxy A32 4G (SM-A325F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A325F BLACK AFA<br/>Search Term: 355910996912318<br/>IMEI 1: 354566516912310<br/>Serial Number: <font color=#ff0000>RF8R40WF2QL </font><br/>Model Desc: Samsung Galaxy A32<br/>Model Name: SM-A325F<br/>Model Number: SM-A325FZKGAFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 08-04-2023<br/>Production location: Vietnam SEV<br/>Production Date: 08-04-2021<br/>Country: South Africa<br/>Carrier: Factory Unlocked");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");   
-    }
-
 if (username=="Seabootsile@gmail.com"){
             
             phoneImageLay.style.display=("block");
