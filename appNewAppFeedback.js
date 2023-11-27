@@ -196,10 +196,10 @@ if (username=="thabochizwe81@gmail.com"){
     if (username=="seizsoka5694@gmail.com"){
             
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a14-4g.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/l/f/CDk4p1-d/huawei-p10-lite.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352539365262782</font><br/>  Model: Galaxy A14 5G (SM-A145F)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A145F/DS BLACK AFA<br/>Search Term: 352539365262782<br/>IMEI 1: 352539365262782<br/>Serial Number: <font color=#ff0000>RF8WA04LENL</font><br/>Model Desc: Samsung Galaxy A14<br/>Model Name: SM-A145F/DS<br/>Model Number: SM-A145FZKDAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 05-10-2025<br/>Production location: Vietnam SEV<br/>Production Date: 05-10-2023<br/>Country: South Africa<br/>Carrier: Factory Unlocked ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867974030358996</font><br/>  Model: P10 Lite (WAS-LX1A) <br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Description Full: HUAWEI P10 lite 4GB+32GB Midnight Black Dual Card Open Market Ver.<br/>Model Code: Warsaw-L21A<br/>IMEI: 867974030358996<br/>S/N:<font color=#ff0000> 2XJDU18117001859</font><br/>Item Code: 51091LJM<br/>Offer Code: OFFE00036432<br/>Country Code: +267<br/>Country Name: Botswana<br/>Warranty Status: Out of Warranty<br/>Warranty Start:<br/>Warranty Expire: 2021/7/31 ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
