@@ -136,15 +136,7 @@ if (username=="letsopelaelo3@gmail.com"){
     }
 
 if (username=="neoboy71@gmail.com"){
-
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-7-pro.jpg";
-        
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350597410882295</font><br/>  Model: Spark 7 Pro<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Operating System	Android 11<br/>Chipset	Mediatek Helio G80<br/>Number of CPU Cores	2<br/>RAM	4 GB<br/>Width	76.2 mm<br/>Height	164.9 mm<br/>Thickness	8.8 mm<br/>Type	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	83.8 %<br/>Pixel density	266 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, Display refresh rate: 90 Hz ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");   
+          window.location.href=("resultsNeoboy35059.htm");
     }
 
 if (username=="jaysonjacob701@gmail.com"){
