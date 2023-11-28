@@ -81,8 +81,8 @@ if (username=="ogaatlale@gmail.com"){
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03-core.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356298774494538</font><br/>  Model: Galaxy A03 Core (SM-A032F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A032F/DS CERAMIC BLACK AFC<br/>Search Term: 356298774494538<br/>IMEI 1: 356298774494538<br/>Serial Number: <font color=#ff0000>R7AT72GB1BT</font><br/>Model Desc: Samsung Galaxy A03 Core<br/>Model Name: SM-A032F/DS<br/>Model Number: SM-A032FCKDAFC<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 28-07-2024<br/>Production location: Korea SEC<br/>Production Date: 28-07-2022 ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352607840300301</font><br/>  Model: Galaxy A03 Core (SM-A032F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("  Model Info: MOBILE SM-A032F/DS AFC<br/>Search Term: 352607840300301<br/>IMEI 1: 352607840300301<br/>Serial Number: <font color=#ff0000>R7AW508L1DF</font><br/>Model Desc: Samsung Galaxy A03 Core<br/>Model Name: SM-A032F/DS<br/>Model Number: SM-A032FZCDAFC<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 25-05-2025<br/>Production location: Korea SEC<br/>Production Date: 25-05-2023");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
