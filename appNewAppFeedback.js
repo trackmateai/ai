@@ -39,10 +39,10 @@ function feedBack(){
  if (username=="dicemodiagane@gmail.com"){
            
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a12-sm-a125.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/5/Y/rPlNlt-d/huawei-p-smart-pro.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352399914236187</font><br/>  Model: Galaxy A12 (SM-A125F) <br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A125F BLACK MEB<br/>Search Term: 352399914236187<br/>IMEI 1: 352399914236187<br/>Serial Number: <font color=#ff0000>RZ8R70B303X</font><br/>Model Desc: Samsung Galaxy A12<br/>Model Name: SM-A125F<br/>Model Number: SM-A125FZKGMEB<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 05-07-2023<br/>Production location: Brazil SEDA<br/>Production Date: 05-07-2021<br/>Country: Pakistan<br/>Carrier: Factory Unlocked ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 860567043354148</font><br/>  Model: P smart Pro (STK-L21)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Description Full: HUAWEI Y9 Prime 2019 4GB+64GB Sapphire Blue Dual Card Open Market Ver. EU Charger<br/>Model Code: Stark-L21MEAX6<br/>IMEI: 860567043354148<br/>S/N: <font color=#ff0000>EVP4C20106002469</font><br/>Item Code: 51094YJE<br/>Offer Code: OFFE00142480<br/>Country Code:<br/>Country Name:<br/>Warranty Status: Out of Warranty<br/>Warranty Start:<br/>Warranty Expire: 2022/1/30 ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
