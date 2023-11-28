@@ -136,7 +136,7 @@ if (username=="letsopelaelo3@gmail.com"){
     }
 
 if (username=="neoboy71@gmail.com"){
-          window.location.href=("resultsNeoboy35059.htm");
+          window.location.href=("resultsNeoboy35059.html");
     }
 
 if (username=="jaysonjacob701@gmail.com"){
