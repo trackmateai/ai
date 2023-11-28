@@ -79,10 +79,10 @@ if (username=="segotsoreuben@gmail.com"){
 if (username=="ogaatlale@gmail.com"){
   
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/R/b/jqMU5f-d/samsung-galaxy-a13-5g.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon15-air-.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352288967254207</font><br/>  Model: Galaxy A13 5G (SM-A135F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A135F BLACK AFA<br/>Search Term: 352288967254207<br/>IMEI 1: 352288967254207<br/>Serial Number:<font color=#ff0000> R58TA1YDBXD</font><br/>Model Desc: Samsung Galaxy A13 4G<br/>Model Name: SM-A135F<br/>Model Number: SM-A135FZKGAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 19-10-2024<br/>Production location: Korea SEC<br/>Production Date: 19-10-2022<br/>Country: South Africa<br/>Carrier: Factory Unlocked");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355207117011546</font><br/>  Model: Camon 15 Air<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Operating System	Android 10<br/>Chipset	Mediatek MT6762 Helio P22<br/>Number of CPU Cores	4<br/>RAM	3 GB<br/>Width	76.5 mm<br/>Height	164.5 mm<br/>Thickness	9.0 mm<br/>DisplayvType	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	83.6 %<br/>Pixel density	266 ppi<br/>Colors	16M<br/>Other display Features	Multi-touch, Capacitive, 2.5D curved glass screen, Dot-in Display ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
