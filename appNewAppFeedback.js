@@ -130,10 +130,10 @@ if (username=="letsopelaelo3@gmail.com"){
 if (username=="neoboy71@gmail.com"){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a32-4g-new.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-7-pro.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350839823289530</font><br/>  Model: Galaxy A32 4G (SM-A325F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A325F BLACK AFA<br/>Search Term: 350839823289530<br/>IMEI 1: 350839823289530<br/>Serial Number: <font color=#ff0000>RZ8RC15HJXY</font><br/>Model Desc: Samsung Galaxy A32<br/>Model Name: SM-A325F<br/>Model Number: SM-A325FZKGAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 15-12-2023<br/>Production location: Brazil SEDA<br/>Production Date: 15-12-2021<br/>Country: South Africa<br/>Carrier: Factory Unlocked  ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350597410882295</font><br/>  Model: Spark 7 Pro<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Operating System	Android 11<br/>Chipset	Mediatek Helio G80<br/>Number of CPU Cores	2<br/>RAM	4 GB<br/>Width	76.2 mm<br/>Height	164.9 mm<br/>Thickness	8.8 mm<br/>Type	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	83.8 %<br/>Pixel density	266 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, Display refresh rate: 90 Hz ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");   
