@@ -39,10 +39,10 @@ function feedBack(){
  if (username=="dicemodiagane@gmail.com"){
            
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/5/Y/rPlNlt-d/huawei-p-smart-pro.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a32-4g-new.jpg";
         
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 860567043354148</font><br/>  Model: P smart Pro (STK-L21)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Description Full: HUAWEI Y9 Prime 2019 4GB+64GB Sapphire Blue Dual Card Open Market Ver. EU Charger<br/>Model Code: Stark-L21MEAX6<br/>IMEI: 860567043354148<br/>S/N: <font color=#ff0000>EVP4C20106002469</font><br/>Item Code: 51094YJE<br/>Offer Code: OFFE00142480<br/>Country Code:<br/>Country Name:<br/>Warranty Status: Out of Warranty<br/>Warranty Start:<br/>Warranty Expire: 2022/1/30 ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354566514524075</font><br/>  Model: Galaxy A32 4G (SM-A325F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A325F BLACK AFA<br/>Search Term: 354566514524075<br/>IMEI 1: 354566514524075<br/>Serial Number: <font color=#ff0000>RF8R3252JNH</font><br/>Model Desc: Samsung Galaxy A32<br/>Model Name: SM-A325F<br/>Model Number: SM-A325FZKGAFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 24-03-2023<br/>Production location: Vietnam SEV<br/>Production Date: 24-03-2021<br/>Country: Botswana<br/>Carrier: Factory Unlocked");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
