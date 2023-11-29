@@ -41,10 +41,10 @@ function feedBack(){
  if (username=="ashrafprofessor30@gmail.com"){
             
             phoneImageLay.style.display=("none");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03-core.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/J/b/Cky5Wt-d/tecno-pop-7.jpg";
         
-        mainInfo.innerHTML=("Invalid IMEi number(<font color=#ff0000>357786473625087</font>)  ");
-        moreInfo.innerHTML=("Please check the IMEI number you entered is correct, as it has not passed our validation check. ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353877804389280</font><br/>  Model: Pop 7br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Operating System	Android 12<br/>Chipset	Unisoc SC9863A1<br/>Number of CPU Cores	4<br/>RAM	2 GB<br/>Internal Memory	64 GB<br/>Memory Card Type	microSDXC<br/>GPU Name PowerVR GE832<br/>Width	75.5 mm<br/>Height	163.9 mm<br/>Thickness	8.9 mm<br/> Display Type	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	720x1612 px<br/>Screen-to-body ratio	84.6 %<br/>Pixel density	267 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, 2.5D curved glass screen ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
