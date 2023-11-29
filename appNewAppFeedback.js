@@ -29,17 +29,8 @@ function feedBack(){
          window.location.href=("resultsGumede.html");
     }
  if (username=="dicemodiagane@gmail.com"){
-           
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a32-4g-new.jpg";
-        
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354566514524075</font><br/>  Model: Galaxy A32 4G (SM-A325F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A325F BLACK AFA<br/>Search Term: 354566514524075<br/>IMEI 1: 354566514524075<br/>Serial Number: <font color=#ff0000>RF8R3252JNH</font><br/>Model Desc: Samsung Galaxy A32<br/>Model Name: SM-A325F<br/>Model Number: SM-A325FZKGAFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 24-03-2023<br/>Production location: Vietnam SEV<br/>Production Date: 24-03-2021<br/>Country: Botswana<br/>Carrier: Factory Unlocked");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
-
-    }
+           window.location.href=("resultsDice35456.html");
+ }
  if (username=="ashrafprofessor30@gmail.com"){
             
             window.location.href=("paymentRequired.html");  
