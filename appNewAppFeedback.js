@@ -33,7 +33,14 @@ function feedBack(){
  }
  if (username=="ashrafprofessor30@gmail.com"){
             
-            window.location.href=("paymentRequired.html");  
+            phoneImageLay.style.display=("none");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03-core.jpg";
+        
+        mainInfo.innerHTML=("Invalid IMEi number(<font color=#ff0000>357786473625087</font>)  ");
+        moreInfo.innerHTML=("Please check the IMEI number you entered is correct, as it has not passed our validation check. ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
 
     }
 if (username=="segotsoreuben@gmail.com"){
