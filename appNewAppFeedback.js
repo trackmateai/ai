@@ -26,14 +26,7 @@ function feedBack(){
     }
 
  if (username=="dicemodiagane@gmail.com"){
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/5/Y/rPlNlt-d/huawei-p-smart-pro.jpg";
-        
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 860567043354148</font><br/>  Model: P smart Pro (STK-L21)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
-        moreInfo.innerHTML=(" Description Full: HUAWEI Y9 Prime 2019 4GB+64GB Sapphire Blue Dual Card Open Market Ver. EU Charger<br/>Model Code: Stark-L21MEAX6<br/>IMEI: 860567043354148<br/>S/N: <font color=#ff0000>EVP4C20106002469</font><br/>Item Code: 51094YJE<br/>Offer Code: OFFE00142480<br/>Country Code:<br/>Country Name:<br/>Warranty Status: Out of Warranty<br/>Warranty Start:<br/>Warranty Expire: 2022/1/30 ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+      window.location.href=("resultsDice86056.html");
  }
  if (username=="ashrafprofessor30@gmail.com"){
             
