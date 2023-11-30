@@ -22,7 +22,7 @@ function feedBack(){
 
     
  if (username=="Masele"){
-       window.location.href=("paymentRequired.html");
+       window.location.href=("resultsProfessor35027.html");
     }
 
  if (username=="dicemodiagane@gmail.com"){
