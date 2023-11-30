@@ -55,10 +55,10 @@ if (username=="segotsoreuben@gmail.com"){
 if (username=="ogaatlale@gmail.com"){
   
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon15-air-.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03-core.jpg";
         
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355207117011546</font><br/>  Model: Camon 15 Air<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Operating System	Android 10<br/>Chipset	Mediatek MT6762 Helio P22<br/>Number of CPU Cores	4<br/>RAM	3 GB<br/>Width	76.5 mm<br/>Height	164.5 mm<br/>Thickness	9.0 mm<br/>DisplayvType	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	83.6 %<br/>Pixel density	266 ppi<br/>Colors	16M<br/>Other display Features	Multi-touch, Capacitive, 2.5D curved glass screen, Dot-in Display ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354459739912442</font><br/>  Model: Galaxy A03 Core (SM-A032F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A032F/DS AFC<br/>Search Term: 354459739912442<br/>IMEI 1: 352607840300301<br/>Serial Number:<font color=#ff0000> R7AW508L1DF</font><br/>Model Desc: Samsung Galaxy A03 Core<br/>Model Name: SM-A032F/DS<br/>Model Number: SM-A032FZCDAFC<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 25-05-2025<br/>Production location: Korea SEC<br/>Production Date: 25-05-2023 ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
