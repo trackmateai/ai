@@ -29,15 +29,7 @@ function feedBack(){
       window.location.href=("resultsDice86056.html");
  }
  if (username=="ashrafprofessor30@gmail.com"){
-            
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-ultra-5g.jpg";
-        
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350272252766275</font><br/>  Model: Galaxy S22 Ultra 5G (SM-S908E)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-S908E GREEN AFA<br/>Search Term: 350272252766275<br/>IMEI 1: 350272252766275<br/>Serial Number:<font color=#ff0000> R5CT30NYZ0T</font><br/>Model Desc: Samsung Galaxy S22 Ultra 5G<br/>Model Name: SM-S908E<br/>Model Number: SM-S908EZGGAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 05-03-2024<br/>Production location: Korea SEC<br/>Production Date: 05-03-2022<br/>Country: South Africa<br/>Carrier: Factory Unlocked ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+            window.location.href=("resultsProfessor35027.html");
 
     }
 if (username=="segotsoreuben@gmail.com"){
