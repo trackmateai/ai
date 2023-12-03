@@ -4,10 +4,10 @@ function startTracking(){
      window.location.href=("appNewAppTracking.html");
 }
 function goHome(){
-    window.location.href=("appNewApp.html");
+    window.location.href=("appNewAppMain.html");
 }
 function back(){
-    window.location.href=("appNewApp.html");
+    window.location.href=("appNewAppMain.html");
 }
 function showCard(){
     card33=document.getElementById("card3");
