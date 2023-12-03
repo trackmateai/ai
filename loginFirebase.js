@@ -53,7 +53,7 @@ function signInFirebase(){
       firebase.auth().signInWithEmailAndPassword(email, password)
         .then(function(user) {
           
-          window.location.href=("https://trackmateai.github.io/ai/appNewApp.html");
+          window.location.href=("https://trackmateai.github.io/ai/appNewAppMain.html");
           
         })
         .catch(function(error) {
