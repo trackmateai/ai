@@ -16,6 +16,9 @@ function showCard(){
 function disclaimer(){
     window.location.href=("disclaimer.html");
 }
+function privacyPolicy(){
+    window.location.href=("privacyPolicy.html");
+}
 
 
 
