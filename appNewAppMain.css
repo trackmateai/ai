@@ -195,6 +195,15 @@ margin-left: calc(100% - 50px);
     font-family: 'Righteous', cursive;
 }
 
+
+.date{
+    position:relative;
+    color: #7D7C7C;
+    font-size: 10px;
+    margin-left: 0%;
+    margin-top: 10px;
+}
+
 /******************************************************************************/
 
 
