@@ -48,7 +48,20 @@ if (username=="dicemodiagane@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
-    
+   
+if (username=="rthapelo@ymail.com"){
+  
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-6s-plus.jpg";
+        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354988075247831</font><br/>  Model: iPhone 6S Plus (A1699)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Operating System	iOS<br/>Chipset	Apple A9 APL1022<br/>Number of CPU Cores	2<br/>RAM	2 GB<br/>Internal Memory	64 GB / 64 GB / 128 GB<br/>GPU Name	PowerVR GT7600<br/>GPU Cores	6<br/>Type	RETINA<br/>Diagonal	5.5 inches<br/>Resolution	1080x1920 px<br/>Screen-to-body ratio	67.7 %<br/>Pixel density	401 ppi<br/>Colors	16M  ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    } 
+
+
 
     
 }
