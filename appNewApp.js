@@ -19,9 +19,6 @@ function disclaimer(){
 function privacyPolicy(){
     window.location.href=("privacyPolicy.html");
 }
-function nextInfo(){
-   alert("Processing...");
-}
 
 
 
