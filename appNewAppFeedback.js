@@ -62,7 +62,9 @@ if (username=="rthapelo@ymail.com"){
     } 
 
 if (username=="neoboy71@gmail.com"){
-  
+
+       alert('Failed to initiate consecutive checks!');
+    
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-7-plus-r2.jpg";
         
