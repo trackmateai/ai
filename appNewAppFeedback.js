@@ -73,6 +73,10 @@ if (username=="neoboy71@gmail.com"){
         moreInfo.style.display=("block");
     }
 
+if (username=="segotsoreuben@gmail.com"){
+        alert('Possible spam detected! Contact Support to continue');
+    }
+
 
 
 
