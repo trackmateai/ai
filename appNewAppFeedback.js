@@ -64,10 +64,10 @@ if (username=="rthapelo@ymail.com"){
 if (username=="neoboy71@gmail.com"){
   
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a23.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-7-plus-r2.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350867772422554</font><br/>  Model: Galaxy A23 (SM-A235F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A235F LIGHT BLUE AFA<br/>Search Term: 350867772422554<br/>IMEI 1: 350867772422554<br/>Serial Number: <font color=#ff0000>R58TA0YBDHM</font><br/>Model Desc: Samsung Galaxy A23<br/>Model Name: SM-A235F<br/>Model Number: SM-A235FLBUAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 07-10-2024<br/>Production location: Korea SEC<br/>Production Date: 07-10-2022<br/>Country: South Africa<br/>Carrier: Factory Unlocked ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 359128078541980</font><br/>  Model: iPhone 7 Plus (A1661)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Operating System	iOS<br/>Chipset	Apple A10 Fusion APL1W24<br/>Number of CPU Cores	4<br/>RAM	2 GB<br/> Width	77.9 mm<br/>Height	158.2 mm<br/>Thickness	7.3 mm<br/>Weight	188.0 g<br/>Display Type	RETINA<br/>Diagonal	5.5 inches<br/>Resolution	1080x1920 px<br/>Screen-to-body ratio	67.7 %<br/>Pixel density	401 ppi<br/>Colors	16M ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
