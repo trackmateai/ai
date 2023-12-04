@@ -74,6 +74,21 @@ if (username=="neoboy71@gmail.com"){
     }
 
 
+
+
+
+
+
+function handleClick() {
+        // Your code logic here
+        alert("Awaiting Query!");
+      }
+      window.addEventListener("DOMContentLoaded", function() {
+        var button = document.getElementById("nextInfo");
+        button.addEventListener("click", handleClick);
+      });
+
+    
     
 }
 
