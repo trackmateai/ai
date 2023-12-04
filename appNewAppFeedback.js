@@ -25,25 +25,6 @@ function feedBack(){
        window.location.href=("resultsProfessor35027.html");
     }
 
- if (username=="dicemodiagane@gmail.com"){
-      window.location.href=("resultsDice86056.html");
- }
- if (username=="ashrafprofessor30@gmail.com"){
-            window.location.href=("resultsProfessor35027.html");
-
-    }
-if (username=="segotsoreuben@gmail.com"){
-           
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03-core.jpg";
-        
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356710800479192</font><br/>  Model: Galaxy A03 Core (SM-A032F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A032F INS<br/>Search Term: 356710800479192<br/>IMEI 1: 350655750479195<br/>Serial Number: <font color=#ff0000>R9ZTB0DXXEE</font><br/>Model Desc: Samsung Galaxy A03 Core<br/>Model Name: SM-A032F<br/>Model Number: SM-A032FLG6INS<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 16-11-2024<br/>Production location: Korea SEC<br/>Production Date: 16-11-2022<br/>Country: India<br/>Carrier: Factory Unlocked ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
-    }
-
 if (username=="ogaatlale@gmail.com"){
   
             phoneImageLay.style.display=("block");
@@ -59,20 +40,15 @@ if (username=="ogaatlale@gmail.com"){
 if (username=="dicemodiagane@gmail.com"){
   
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/g/x/5CelVP-d/tecno-spark-10c.jpgg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/J/t/XTgJTQ-d/tecno-spark-9-pro.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356730180254908</font><br/>  Model: Spark 10C<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Operating System	Android 13<br/>Chipset	Unisoc Tiger T606<br/>Number of CPU Cores	2<br/>RAM	8 GB<br/>Width	75.5 mm<br/>Height	163.9 mm<br/>Thickness	8.5 mm<br/>Weight	192.0 g<br/>Type	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	720x1612 px<br/>Screen-to-body ratio	84.6 %<br/>Pixel density	267 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, Display refresh rate: 90 Hz  ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353149490700539</font><br/>  Model: Spark 9 Pro<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Operating System	Android 12<br/>Chipset	MediaTek Helio G85<br/>Number of CPU Cores	2<br/>RAM	4 GB<br/>Type	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	1080x2408 px<br/>Screen-to-body ratio	84.2 %<br/>Pixel density	400 ppi<br/>Colors	16M<br/>Other display Features	, 2.5D curved glass screen, 90 Hz refresh rate");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
-
     
-
-if (username=="neoboy71@gmail.com"){
-          window.location.href=("resultsNeoboy35083.html");
-    }
 
     
 }
