@@ -53,6 +53,19 @@ if (username=="rthapelo@ymail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     } 
+ 
+if (username=="mooketsi215@gmail.com"){
+  
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-6-plus2.jpg";
+        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356999065029210</font><br/>  Model: iPhone 6 Plus (A1524)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana,Mosomane ");
+        moreInfo.innerHTML=(" Operating System	iOS<br/>Chipset	Apple A8 APL1011<br/>Number of CPU Cores	2<br/>RAM	1 GB<br/> Width	77.8 mm<br/>Height	158.1 mm<br/>Thickness	7.1 mm<br/>Weight	172.0 g<br/>DisplayType	RETINA<br/>Diagonal	5.5 inches<br/>Resolution	1080x1920 px<br/>Screen-to-body ratio	67.8 %<br/>Pixel density	401 ppi<br/>Colors	16M");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    } 
+    
 
 if (username=="neoboy71@gmail.com"){
        window.location.href=("resultsNeoboy35912.html");
