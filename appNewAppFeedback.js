@@ -62,15 +62,7 @@ if (username=="rthapelo@ymail.com"){
     } 
 
 if (username=="neoboy71@gmail.com"){
-
-            phoneImageLay.style.display=("none");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go-2023.jpg";
-        
-        mainInfo.innerHTML=("Invalid IMEi[<font color=#ff0000>395128078541980</font>]. Please verify the IMEi number and continue");
-        moreInfo.innerHTML=(" ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+       window.location.href=("resultsNeoboy35912.html");
     }
 
 if (username=="segotsoreuben@gmail.com"){
