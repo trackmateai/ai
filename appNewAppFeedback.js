@@ -63,10 +63,10 @@ if (username=="rthapelo@ymail.com"){
 
 if (username=="neoboy71@gmail.com"){
 
-            phoneImageLay.style.display=("block");
+            phoneImageLay.style.display=("none");
             phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go-2023.jpg";
         
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354341950349324</font><br/>  Model: SPARK GO 2023 <br/>Brand: Tecno<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        mainInfo.innerHTML=("Invalid IMEi[<font color=#ff0000>395128078541980</font>]. Please verify the IMEi number and continue");
         moreInfo.innerHTML=(" ");
         
         mainInfo.style.display=("block");
