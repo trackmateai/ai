@@ -39,14 +39,7 @@ if (username=="ogaatlale@gmail.com"){
 
 if (username=="dicemodiagane@gmail.com"){
   
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/J/t/XTgJTQ-d/tecno-spark-9-pro.jpg";
-        
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353149490700539</font><br/>  Model: Spark 9 Pro<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Operating System	Android 12<br/>Chipset	MediaTek Helio G85<br/>Number of CPU Cores	2<br/>RAM	4 GB<br/>Type	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	1080x2408 px<br/>Screen-to-body ratio	84.2 %<br/>Pixel density	400 ppi<br/>Colors	16M<br/>Other display Features	, 2.5D curved glass screen, 90 Hz refresh rate");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+            window.location.href("resultsDice35456.html");
     }
    
 if (username=="rthapelo@ymail.com"){
