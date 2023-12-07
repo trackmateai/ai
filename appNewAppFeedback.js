@@ -71,9 +71,6 @@ if (username=="neoboy71@gmail.com"){
        window.location.href=("resultsNeoboy35912.html");
     }
 
-if (username=="segotsoreuben@gmail.com"){
-        alert('Possible spam detected! Contact Support to continue');
-    }
 
 
 
