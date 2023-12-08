@@ -67,7 +67,7 @@ if (username=="mooketsi215@gmail.com"){
     } 
     
 if (username=="calvinatordoc@gmail.com"){
-       window.location.href=("resultsCalvin.html"):
+       window.location.href=("resultsCalvin.html");
     } 
 
 if (username=="neoboy71@gmail.com"){
