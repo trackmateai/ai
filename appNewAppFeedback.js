@@ -66,6 +66,17 @@ if (username=="mooketsi215@gmail.com"){
         moreInfo.style.display=("block");
     } 
     
+if (username=="calvinatordoc@gmail.com"){
+  
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/g/x/5CelVP-d/tecno-spark-10c.jpg";
+        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354743654694261</font><br/>  Model: Spark 10C<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Operating System	Android 13<br/>Chipset	Unisoc Tiger T606<br/>Number of CPU Cores	2<br/>RAM	8 GB<br/>Width	75.5 mm<br/>Height	163.9 mm<br/>Thickness	8.5 mm<br/>Weight	192.0 g<br/>Type	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	720x1612 px<br/>Screen-to-body ratio	84.6 %<br/>Pixel density	267 ppi<br/>Colors	16M ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    } 
 
 if (username=="neoboy71@gmail.com"){
        alert("Suspicious spam detected! Contact support");
