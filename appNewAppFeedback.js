@@ -64,7 +64,14 @@ if (username=="calvinatordoc@gmail.com"){
     } 
 
 if (username=="neoboy71@gmail.com"){
-       alert("Suspicious spam detected! Contact support");
+            phoneImageLay.style.display=("none");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a12-sm-a125.jpg";
+        
+        mainInfo.innerHTML=("Invalid IMEi number <font color=#ff0000> 395128078541980 ");
+        moreInfo.innerHTML=("Please try again with a valid IMEi number   ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
     }
 
 
