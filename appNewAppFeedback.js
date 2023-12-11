@@ -68,6 +68,17 @@ if (username=="neoboy71@gmail.com"){
     }
 
 
+if (username=="dicemodiagane@gmail.com"){
+  
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a12-sm-a125.jpg";
+        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352307137355577</font><br/>  Model: Galaxy A12 (SM-A125F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A125F BLACK SKZ<br/>Search Term: 352307137355577<br/>IMEI 1: 352307137355577<br/>IMEI 2: 356449147355571<br/>Serial Number: R58R75D0SFM<br/>Model Desc: Samsung Galaxy A12<br/>Model Name: SM-A125F<br/>Model Number: SM-A125FZKUSKZ<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 23-07-2023<br/>Production location: Korea SEC<br/>Production Date: 23-07-2021   ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
 
 
 
