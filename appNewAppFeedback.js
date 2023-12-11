@@ -81,6 +81,9 @@ if (username=="dicemodiagane@gmail.com"){
     }
 
 
+if (username=="d.lesetedi.salani@gmail.com"){
+       window.location.href=("resultsLesetedi.html");
+    }
 
 
 
