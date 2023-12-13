@@ -75,32 +75,6 @@ if (username=="neoboy71@gmail.com"){
         moreInfo.style.display=("block");
     }
 
-
-if (username=="dicemodiagane@gmail.com"){
-  
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a12-sm-a125.jpg";
-        
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352307137355577</font><br/>  Model: Galaxy A12 (SM-A125F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A125F BLACK SKZ<br/>Search Term: 352307137355577<br/>IMEI 1: 352307137355577<br/>IMEI 2: 356449147355571<br/>Serial Number: R58R75D0SFM<br/>Model Desc: Samsung Galaxy A12<br/>Model Name: SM-A125F<br/>Model Number: SM-A125FZKUSKZ<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 23-07-2023<br/>Production location: Korea SEC<br/>Production Date: 23-07-2021   ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
-    }
-
-if (username=="seizsoka5694@gmail.com"){
-  
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/l/f/CDk4p1-d/huawei-p10-lite.jpg";
-        
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867974030358996</font><br/>  Model: P10 Lite (WAS-LX1A)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
-        moreInfo.innerHTML=(" Description Full: HUAWEI P10 lite 4GB+32GB Midnight Black Dual Card Open Market Ver.<br/>Model Code: Warsaw-L21A<br/>IMEI: 867974030358996<br/>S/N:<font color=#ff0000> 2XJDU18117001859</font><br/>Item Code: 51091LJM<br/>Offer Code: OFFE00036432<br/>Country Code: 267<br/>Country Name: Botswana<br/>Warranty Status: Out of Warranty<br/>Warranty Start:<br/>Warranty Expire: 2021/7/31 ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
-    }
-
-
 if (username=="juliachapi66@gmail.com"){
   
             phoneImageLay.style.display=("block");
@@ -114,15 +88,7 @@ if (username=="juliachapi66@gmail.com"){
     }
 
 if (username=="raseatlak@gmail.com"){
-  
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/I/7/TFJ6FD-d/huawei-y7-prime-2019.jpg";
-        
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 861356050549264</font><br/>  Model: Y7 Prime 2019 (DUB-LX1)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Description Full: HUAWEI Y7 Prime 2019 3GB+64GB Amber Brown Dual Card Open Market Ver. EU Charger<br/>Model Code: Dubai-L41B<br/>IMEI: 861356050549264<br/>S/N: <font color=#ff0000>BVK6R20519002956 </font><br/>Item Code: 51093WBE<br/>Offer Code: OFFE00092847<br/>Country Code: 267<br/>Country Name: Botswana<br/>Warranty Status: Out of Warranty<br/>Warranty Start: loading...<br/>Warranty Expire: loading... ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+      window.location.href=("resultsRaseatla.html");
     }
 
 
