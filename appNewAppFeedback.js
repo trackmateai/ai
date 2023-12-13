@@ -93,6 +93,17 @@ if (username=="seizsoka5694@gmail.com"){
     }
 
 
+if (username=="juliachapi66@gmail.com"){
+  
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/a/W/kPtLsr-d/samsung-galaxy-a03-core.jpg";
+        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354034701770456</font><br/>  Model: Galaxy A03 Core (SM-A032F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Operating System	Android 11<br/>Chipset	Unisoc SC9863A<br/>Number of CPU Cores	4<br/>RAM	2 GB<br/>Internal Memory	32 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	IMG8322<br/>GPU Clock	550.0 MHz<br/> Width	75.9 mm<br/>Height	164.2 mm<br/>Thickness	9.1 mm<br/>Type	LCD_IPS<br/>Diagonal	6.5 inches<br/>Resolution	720x1560 px<br/>Screen-to-body ratio	83.2 %<br/>Pixel density	264 ppi<br/>Colors	16.7M<br/>Other display Features	, Display refresh rate: 60 Hz  ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
 
 
 
