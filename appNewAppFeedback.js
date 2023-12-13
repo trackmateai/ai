@@ -64,7 +64,15 @@ if (username=="calvinatordoc@gmail.com"){
     } 
 
 if (username=="neoboy71@gmail.com"){
-           alert('Possible SPAM detected!Contact support');
+           
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/o/J/tDHpQW-d/huawei-nova-9-se.jpg";
+        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867722058313165</font><br/>  Model: nova 9 SE (JLN-LX1)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Description Full: HUAWEI nova 9 SE 8GB+128GB Midnight Black Dual Card Open Market Ver. UK Charger<br/>Model Code: JuliaQN-L21B<br/>IMEI: 867722058313165<br/>S/N:<font color=#ff0000> U4YYD22402501198</font><br/>Item Code: 51096XGH<br/>Offer Code: OFFE00462476<br/>Country Code: 267<br/>Country Name: Botswana<br/>Warranty Status: Out of Warranty<br/>Warranty Start: loading...<br/>Warranty Expire: loading...   ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
     }
 
 
