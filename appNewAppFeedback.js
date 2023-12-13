@@ -113,6 +113,17 @@ if (username=="juliachapi66@gmail.com"){
         moreInfo.style.display=("block");
     }
 
+if (username=="raseatlak@gmail.com"){
+  
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/I/7/TFJ6FD-d/huawei-y7-prime-2019.jpg";
+        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 861356050549264</font><br/>  Model: Y7 Prime 2019 (DUB-LX1)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Description Full: HUAWEI Y7 Prime 2019 3GB+64GB Amber Brown Dual Card Open Market Ver. EU Charger<br/>Model Code: Dubai-L41B<br/>IMEI: 861356050549264<br/>S/N: <font color=#ff0000>BVK6R20519002956 </font><br/>Item Code: 51093WBE<br/>Offer Code: OFFE00092847<br/>Country Code: 267<br/>Country Name: Botswana<br/>Warranty Status: Out of Warranty<br/>Warranty Start: loading...<br/>Warranty Expire: loading... ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
 
 
 
