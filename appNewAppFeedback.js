@@ -79,6 +79,18 @@ if (username=="juliachapi66@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
+    
+if (username=="maxmoilwa@gmail.com"){
+  
+            phoneImageLay.style.display=("none");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/a/W/kPtLsr-d/samsung-galaxy-a03-core.jpg";
+        
+        mainInfo.innerHTML=("Cannot ping device! ");
+        moreInfo.innerHTML=(" Device may be inActive or has poor GPS connection ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
 
 if (username=="raseatlak@gmail.com"){
       window.location.href=("resultsRaseatla.html");
