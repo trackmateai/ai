@@ -80,6 +80,18 @@ if (username=="juliachapi66@gmail.com"){
         moreInfo.style.display=("block");
     }
     
+if (username=="dicemodiagane@gmail.com"){
+  
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a21s-.jpg";
+        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351412190699308</font><br/>  Model: Galaxy A21s (SM-A217F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A217F BLACK SKZ<br/>Search Term: 351412190699308<br/>IMEI 1: 351412190699308<br/>IMEI 2: 355684120699303<br/>Serial Number: <font color=#ff0000>RZ8R40VAKNH</font><br/>Model Desc: Samsung Galaxy A21s<br/>Model Name: SM-A217F<br/>Model Number: SM-A217FZKNSKZ<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 20-04-2023<br/>Production location: Brazil SEDA<br/>Production Date: 20-04-2021 ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
+    
 if (username=="maxmoilwa@gmail.com"){
      window.location.href=("radius.html");
     }
