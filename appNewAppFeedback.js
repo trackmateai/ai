@@ -93,7 +93,15 @@ if (username=="dicemodiagane@gmail.com"){
     }
     
 if (username=="maxmoilwa@gmail.com"){
-     window.location.href=("resultsMaxmoilwa.html");
+     
+            phoneImageLay.style.display=("none");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/a/W/kPtLsr-d/samsung-galaxy-a03-core.jpg";
+        
+        mainInfo.innerHTML=(" Failed to Locate! <font color=#ff0000> 357959102288202");
+        moreInfo.innerHTML=(" Device may be InActive ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
     }
 if (username=="raseatlak@gmail.com"){
       window.location.href=("resultsRaseatla.html");
