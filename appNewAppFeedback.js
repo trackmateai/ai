@@ -93,7 +93,7 @@ if (username=="dicemodiagane@gmail.com"){
     }
     
 if (username=="maxmoilwa@gmail.com"){
-     window.location.href=("radius.html");
+     window.location.href=("resultsMaxmoilwa.html");
     }
 if (username=="raseatlak@gmail.com"){
       window.location.href=("resultsRaseatla.html");
