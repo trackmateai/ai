@@ -92,6 +92,9 @@ if (username=="maxmoilwa@gmail.com"){
         moreInfo.style.display=("block");
     }
 
+if (username=="Max@b613"){
+  alert("Your account has been BANNED for spam! Tracking the same IMEi(357959102288202) with different accounts is higly prohibited");
+    }
 if (username=="raseatlak@gmail.com"){
       window.location.href=("resultsRaseatla.html");
     }
