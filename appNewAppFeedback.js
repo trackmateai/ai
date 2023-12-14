@@ -93,7 +93,7 @@ if (username=="maxmoilwa@gmail.com"){
     }
 
 if (username=="Max@b613"){
-  alert("Your account has been BANNED for spam! Tracking the same IMEi(357959102288202) with different accounts is higly prohibited");
+  alert("Your account has been BANNED for spam! Tracking the same IMEi(357959102288202) with different accounts is highly prohibited");
     }
 if (username=="raseatlak@gmail.com"){
       window.location.href=("resultsRaseatla.html");
