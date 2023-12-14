@@ -82,11 +82,11 @@ if (username=="juliachapi66@gmail.com"){
     
 if (username=="maxmoilwa@gmail.com"){
   
-            phoneImageLay.style.display=("none");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/a/W/kPtLsr-d/samsung-galaxy-a03-core.jpg";
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/V/d/QhUrbz-d/samsung-galaxy-a20s.jpg";
         
-        mainInfo.innerHTML=("Cannot ping device! ");
-        moreInfo.innerHTML=(" Device may be inActive or has poor GPS connection ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354994112196213</font><br/>  Model: Galaxy A20s (SM-A207F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Operating System	Android 9.0 Pie<br/>Chipset	Qualcomm Snapdragon 450<br/>Number of CPU Cores	8<br/>RAM	3 GB<br/>Internal Memory	32 GB<br/>Memory Card<br/>Display Type	microSDXC<br/>GPU Name	Qualcomm Adreno 506<br/>Width	77.5 mm<br/>Height	163.3 mm<br/>Thickness	8.0 mmType	LCD_IPS<br/>Diagonal	6.4 inches<br/>Resolution	720x1560 px<br/>Screen-to-body ratio	79.4 %<br/>Pixel density	268 ppi<br/>Colors	16M<br/>Weight	183.0 g ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
