@@ -93,7 +93,8 @@ if (username=="dicemodiagane@gmail.com"){
     }
     
 if (username=="maxmoilwa@gmail.com"){
-     
+
+    alert("You have exploited your allowed check limit. Please consider payment to continue");
             phoneImageLay.style.display=("none");
             phoneImage.src = "https://www.imei.info/media/t/gsm-cache/a/W/kPtLsr-d/samsung-galaxy-a03-core.jpg";
         
