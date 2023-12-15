@@ -95,14 +95,7 @@ if (username=="dicemodiagane@gmail.com"){
 if (username=="maxmoilwa@gmail.com"){
 
     alert("You have exploited your allowed check limit. Please consider payment to continue");
-            phoneImageLay.style.display=("none");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/a/W/kPtLsr-d/samsung-galaxy-a03-core.jpg";
-        
-        mainInfo.innerHTML=(" Failed to Locate! <font color=#ff0000> 357959102288202");
-        moreInfo.innerHTML=(" Device may be InActive ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+           window.location.href=("resultsMaxmoilwa.html")
     }
 if (username=="raseatlak@gmail.com"){
       window.location.href=("resultsRaseatla.html");
