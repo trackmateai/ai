@@ -98,6 +98,7 @@ if (username=="maxmoilwa@gmail.com"){
            window.location.href=("resultsMaxmoilwa.html")
     }
 if (username=="raseatlak@gmail.com"){
+      alert("You have exploited your allowed check limit. Please consider payment to continue");
       window.location.href=("resultsRaseatla.html");
     }
 
