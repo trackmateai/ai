@@ -26,17 +26,6 @@ function feedBack(){
     }
 
 
-if (username=="dicemodiagane@gmail.com"){
-  
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a21s-.jpg";
-        
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351412190699308</font><br/>  Model: Galaxy A21s (SM-A217F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A217F BLACK SKZ<br/>Search Term: 351412190699308<br/>IMEI 1: 351412190699308<br/>IMEI 2: 355684120699303<br/>Serial Number: <font color=#ff0000>RZ8R40VAKNH</font><br/>Model Desc: Samsung Galaxy A21s<br/>Model Name: SM-A217F<br/>Model Number: SM-A217FZKNSKZ<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 20-04-2023<br/>Production location: Brazil SEDA<br/>Production Date: 20-04-2021 ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
-    }
     
 if (username=="maxmoilwa@gmail.com"){
 
@@ -49,17 +38,6 @@ if (username=="raseatlak@gmail.com"){
     }
 
 
-if (username=="thabochizwe81@gmail.com"){
-  
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/Q/9/B5fkgh-d/samsung-galaxy-a04e.jpg";
-        
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351610268809184</font><br/>  Model: Galaxy A04e (SM-A042F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A042F/DS BLACK AF<br/>Search Term: 351610268809184<br/>IMEI 1: 351610268809184<br/>Serial Number: <font color=#ff0000>R8YW30LMQ9T</font><br/>Model Desc: Samsung A04e<br/>Model Name: SM-A042F/DS<br/>Model Number: SM-A042FZKDAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 17-03-2025<br/>Production location: Korea SEC<br/>Production Date: 17-03-2023Country: Botswana<br/>Carrier: Factory Unlocked ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
-    }
 
     
 if (username=="segotsoreuben@gmail.com"){
@@ -73,6 +51,17 @@ if (username=="segotsoreuben@gmail.com"){
         moreInfo.style.display=("block");
     }
 
+if (username=="ashrafprofessor30@gmail.com"){
+  
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/5/Y/rPlNlt-d/huawei-p-smart-pro.jpg";
+    
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867679042593536</font><br/>  Model: P smart Pro (STK-L21)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Description Full: HUAWEI Y9s 6GB+128GB Midnight Black Dual Card Open Market Ver. EU Charger<br/>Model Code: Stark-L21MEDV5<br/>IMEI: 867679042593536<br/>S/N: <font color=#ff0000>78KVB19C17005981 </font><br/>Item Code: 51094UMY<br/>Offer Code: OFFE00121221<br/>Country Code: 267<br/>Country Name: Botswana<br/>Warranty Status: Out of Warranty<br/>Warranty Expired: true");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+    }
     
 }
 
