@@ -27,18 +27,9 @@ function feedBack(){
 
 
     
-if (username=="maxmoilwa@gmail.com"){
-
-    alert("You have exploited your allowed check limit. Please consider payment to continue");
-          
+if (username=="thabochizwe81@gmail.com"){
+      window.location.href=("resultsThabo35161.html");          
     }
-if (username=="raseatlak@gmail.com"){
-      alert("You have exploited your allowed check limit. Please consider payment to continue");
-      
-    }
-
-
-
     
 if (username=="segotsoreuben@gmail.com"){
   
