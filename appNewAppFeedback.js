@@ -55,7 +55,15 @@ if (username=="ashrafprofessor30@gmail.com"){
     }
 
 if (username=="neoboy71@gmail.com"){
-      window.location.href=("resultsNeoboy86639.html");
+      
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop5-lte.jpg";
+    
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350873073541225</font><br/>  Model: Pop 5 LTE <br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Operating System	Android 11<br/>Chipset	Unisoc SC9863A<br/>Number of CPU Cores	4<br/>RAM	2 GB<br/>Internal Memory	32 GB<br/>Memory Card Type	MicroSD<br/>GPU Name	IMG8322<br/> Width	76.1 mm<br/>Height	164.9 mm<br/>Thickness	8.8 mm<br/>Display Type	LCD_IPS<br/>Diagonal	6.52 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	81.8 %<br/>Pixel density	269 ppi<br/>Colors	16M ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
     }
     
     
