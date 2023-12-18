@@ -55,15 +55,7 @@ if (username=="ashrafprofessor30@gmail.com"){
     }
 
 if (username=="neoboy71@gmail.com"){
-  
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/5/Y/rPlNlt-d/huawei-p-smart-pro.jpg";
-    
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 866395044564554</font><br/>  Model: P smart Pro (STK-L22)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
-        moreInfo.innerHTML=("Description Full: HUAWEI Y9 Prime 2019 4GB+128GB Emerald Green Dual Card Open Market Ver. GB Charger<br/>Model Code: Stark-L22BX7<br/>IMEI: 866395044564554<br/>S/N: <font color=#ff0000>H9YNW20714008192</font><br/>Item Code: 51095LSJ<br/>Offer Code: OFFE00164849<br/>Country Code: 267<br/>Country Name:Botswana<br/>Warranty Status: Out of Warranty<br/>Warranty Expire: 2021/11/8 <br/>Operating System	Android 9.0 Pie<br/>Chipset	Huawei HiSilicon KIRIN 710F<br/>Number of CPU Cores	4<br/>RAM	6 GB<br/>Internal Memory	128 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	ARM Mali-G51 MP4<br/>GPU Cores	4");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+      window.location.href=("resultsNeoboy86639.html");
     }
     
     
