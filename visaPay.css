@@ -7,6 +7,22 @@ body{
 
 
 
+.gif{
+  width: 200px;
+  /*height: 100px;*/
+  /*border: 6px solid #000000;
+  border-radius: 100px;*/
+  padding-left: 20%;
+  padding-top: 15%;
+}
+
+
+
+
+
+
+/*************************************************************************************/
+
 .modal {
   position: relative;
   top: 60px;
