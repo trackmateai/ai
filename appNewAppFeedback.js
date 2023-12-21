@@ -41,10 +41,10 @@ if (username=="ashrafprofessor30@gmail.com"){
 if (username=="neoboy71@gmail.com"){
             
             phoneImageLay.style.display=("BLOCK");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/4/8/ew9Ykl-d/tecno-camon-18.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a32-4g-new.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356943545815053</font><br/>  Model: Camon 18<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Operating System	Android 11<br/>Chipset	MediaTek Helio G88<br/>Number of CPU Cores	2<br/>RAM	4 GB<br/>Internal Memory	128 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	ARM Mali-G52 2EEMC2<br/>GPU Cores	2<br/>GPU Clock	1000.0 MHz<br/>Width	76.67 mm<br/>Height	168.9 mm<br/>Thickness	8.8 mm<br/>Display Type	LCD_IPS<br/>Diagonal	6.8 inches<br/>Resolution	1080x2460 px<br/>Screen-to-body ratio	84.7 %<br/>Pixel density	395 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, 2.5D curved glass screen  ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352964363289530</font><br/>  Model: Galaxy A32 4G (SM-A325F)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A325F BLACK AFA<br/>Search Term: 352964363289530<br/>IMEI 1: 350839823289530<br/>IMEI 2: 352964363289530<br/>Serial Number: <font color=#ff0000>RZ8RC15HJXY</font><br/>Model Desc: Samsung Galaxy A32<br/>Model Name: SM-A325F<br/>Model Number: SM-A325FZKGAFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 14-12-2023<br/>Production location: Brazil SEDA<br/>Production Date: 14-12-2021<br/>Country: South Africa<br/>Carrier: Factory Unlocked  ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
