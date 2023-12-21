@@ -34,7 +34,7 @@ function signUpFirebase(){
 
 function signInFirebase(){
 
-   
+   alert("System down");
     
     var firebaseConfig = {
       apiKey: "AIzaSyD09GeejzBofXCWBs_GBj8rDtIEDHd0O98",
