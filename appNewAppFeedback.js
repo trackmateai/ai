@@ -65,7 +65,9 @@ if (username=="seizsoka5694@gmail.com"){
  if (username=="bancegaebolae@gmail.com"){
        window.location.href=("resultsBance.html");
     }
-    
+    if (username=="edwinsera8@gmail.com"){
+       window.location.href=("resultsEdwinsera.htmll");
+    }
        
 }
 
