@@ -49,6 +49,11 @@ if (username=="neoboy71@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
+
+ if (username=="bancegaebolae@gmail.com"){
+       window.location.href=("resultsBance.html");
+    }
+    
        
 }
 
