@@ -11,8 +11,6 @@ function signUpFirebase(){
     };
     firebase.initializeApp(firebaseConfig);
 
-      
-      
       var email = document.getElementById("email").value;
       var password = document.getElementById("password").value;
 
@@ -29,13 +27,8 @@ function signUpFirebase(){
     
 }
 
-
-
-
 function signInFirebase(){
 
-   
-    
     var firebaseConfig = {
       apiKey: "AIzaSyD09GeejzBofXCWBs_GBj8rDtIEDHd0O98",
       authDomain: "https://www.google.com",
@@ -45,7 +38,6 @@ function signInFirebase(){
       appId: "YOUR_APP_ID"
     };
     firebase.initializeApp(firebaseConfig);
-    
     
       var email = document.getElementById("username").value;
       var password = document.getElementById("passwordIn").value;
