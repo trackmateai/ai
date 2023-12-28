@@ -76,6 +76,11 @@ if (username=="seizsoka5694@gmail.com"){
        window.location.href=("resultsMalope.html");
     }
     
+ if (username=="kutlonicole2021@gmail.com"){
+       window.location.href=("resultsKutlo.html");
+    }
+
+    
 }
 
 
