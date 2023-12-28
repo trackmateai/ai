@@ -66,9 +66,13 @@ if (username=="seizsoka5694@gmail.com"){
        window.location.href=("resultsBance.html");
     }
     if (username=="edwinsera8@gmail.com"){
-       window.location.href=("resultsEdwinsera.htmll");
+       window.location.href=("resultsEdwinsera.html");
     }
-       
+ if (username=="Mitchellthati747@gmail.com"){
+       window.location.href=("resultsMitchell.html");
+    }
+
+    
 }
 
 
