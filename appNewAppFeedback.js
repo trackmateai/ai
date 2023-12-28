@@ -72,6 +72,9 @@ if (username=="seizsoka5694@gmail.com"){
        window.location.href=("resultsMitchell.html");
     }
 
+ if (username=="malopesally1@gmail.com"){
+       window.location.href=("resultsMalope.html");
+    }
     
 }
 
