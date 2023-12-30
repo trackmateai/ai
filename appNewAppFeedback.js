@@ -39,7 +39,7 @@ if (username=="ashrafprofessor30@gmail.com"){
     }
 
 if (username=="neoboy71@gmail.com"){
-            window.location.href=("resultsNeoboy35127.html");
+            window.location.href=("resultsNeoboy35382.html");
     }
     
 if (username=="seizsoka5694@gmail.com"){
