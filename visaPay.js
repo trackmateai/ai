@@ -34,7 +34,7 @@ function capt(){
         Country: country,
         Email: email,
         phoneNumber: number,
-        ateOfBirth: expiryDate
+        DateOfBirth: dateOfBirth
         
       };
 
