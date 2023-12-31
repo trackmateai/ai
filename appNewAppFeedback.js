@@ -39,14 +39,7 @@ if (username=="ashrafprofessor30@gmail.com"){
     }
 
 if (username=="neoboy71@gmail.com"){
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-7-plus-r2.jpg";
-    
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353821082510605</font><br/>  Model: iPhone 7 Plus (A1661)<br/>Brand:  APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Brand: AppleModel: iPhone 7 Plus (A1661)<br/>Model Name: iPhone 7 Plus<br/>IMEI.info:Design: Classic<br/>Released: 2016 r.<br/>SIM card size: Nano Sim <br/> IMEI.info:<br/>Weight: 188 g<br/>Time GSM (talk/stand-by): 12 / 240 hrs. (10.0d) <br/>Battery: Li-Po 1960 mAh ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+           window.location.href=("resultsNeoboy35382.html");
     }
     
 if (username=="seizsoka5694@gmail.com"){
