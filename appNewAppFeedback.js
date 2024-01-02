@@ -25,7 +25,6 @@ function feedBack(){
        window.location.href=("resultsMasele.html");
     }
 
-
 if (username=="ashrafprofessor30@gmail.com"){
   
             phoneImageLay.style.display=("block");
@@ -37,7 +36,9 @@ if (username=="ashrafprofessor30@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
     }
-
+if (username=="neoboy71@gmail.com"){
+         window.location.href=("resultsNeoboy35807.html");
+    )
     
 }
 
