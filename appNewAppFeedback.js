@@ -43,7 +43,14 @@ if (username=="goratamntande9@gmail.com"){
          window.location.href=("resultsGorata35260.html");
    }
 if (username=="jgaatlale@gmail.com"){
-         alert("8629720446673478 is an invalid IMEi");
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/h/D/c30ozb-d/huawei-y8s.jpg";
+    
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 862972046673478</font><br/>  Model: Y8s (JKM-LX1)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Description Full: HUAWEI Y9 2019 4GB+64GB Coral Red Dual Card Open Market Ver. EU Charger<br/>Model Code: Jackman-L21<br/>IMEI: 862972046673478<br/>S/N: <font color=#ff0000>DEF4C19924000462</font><br/>Item Code: 51093KJF<br/>Offer Code: OFFE00069040<br/>Country Code: 267<br/>Country Name: Botswana<br/>Warranty Status: Out of Warranty");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
    }
     
     
