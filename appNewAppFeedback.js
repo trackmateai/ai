@@ -42,7 +42,9 @@ if (username=="neoboy71@gmail.com"){
 if (username=="goratamntande9@gmail.com"){
          window.location.href=("resultsGorata35260.html");
    }
-
+if (username=="jgaatlale@gmail.com"){
+         alert("8629720446673478 is an invalid IMEi");
+   }
     
     
 }
