@@ -52,7 +52,16 @@ if (username=="jgaatlale@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
    }
+if (username=="deeztwinsbookings@gmail.com"){
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14.jpg";
     
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350654412223034</font><br/>  Model: iPhone 14 (A2882)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Operating System	iOS 16<br/>Chipset	Apple A15 Bionic<br/>Number of CPU Cores	2<br/>RAM	6 GB <br/> Width	71.5 mm<br/>Height	146.7 mm<br/>Thickness	7.8 mm<br/>Weight	172.0 g<br/>DisplayType	RETINA<br/>Diagonal	6.1 inches<br/>Resolution	1170x2532 px<br/>Screen-to-body ratio	86.0 %<br/>Pixel density	460 ppi<br/>Colors	1073M  ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+   } 
     
 }
 
