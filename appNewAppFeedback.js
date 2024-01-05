@@ -43,6 +43,18 @@ if (username=="deeztwinsbookings@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
    } 
+if (username=="dicemodiagane@gmail.com"){
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a02.jpg";
+    
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353683985174461</font><br/>  Model: Galaxy A02 (SM-A022G)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A022G BLUE SKZ<br/>Search Term: 353683985174461<br/>IMEI 1: 353683985174461<br/>IMEI 2: 357620845174469<br/>Serial Number:<font color=#ff0000> R58RB523PRZ</font><br/>Model Desc: Samsung Galaxy A02<br/>Model Name: SM-A022G<br/>Model Number: SM-A022GZBBSKZ<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 26-11-2023<br/>Production location: Korea SEC<br/>Production Date: 26-11-2021  ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+   } 
+
+
     
 }
 
