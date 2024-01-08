@@ -20,7 +20,7 @@ function feedBack(){
                 phoneImage= document.getElementById("phoneImage")
                 
 if (username=="neoboy71@gmail.com"){
-    window.location.href=("resultsNeoboy35491.html");
+    window.location.href=("resultsNeoboy35594.html");
 }
     
 if (username=="jgaatlale@gmail.com"){
