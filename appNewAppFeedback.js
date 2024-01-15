@@ -43,12 +43,12 @@ if (username=="deeztwinsbookings@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
    } 
-if (username=="dicemodiagane@gmail.com"){
+if (username=="segotsoreuben@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a02.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/6/C/ISX6FT-d/tecno-spark-10-pro.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353683985174461</font><br/>  Model: Galaxy A02 (SM-A022G)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A022G BLUE SKZ<br/>Search Term: 353683985174461<br/>IMEI 1: 353683985174461<br/>IMEI 2: 357620845174469<br/>Serial Number:<font color=#ff0000> R58RB523PRZ</font><br/>Model Desc: Samsung Galaxy A02<br/>Model Name: SM-A022G<br/>Model Number: SM-A022GZBBSKZ<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 26-11-2023<br/>Production location: Korea SEC<br/>Production Date: 26-11-2021  ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356893200355111</font><br/>  Model: Spark 10 Pro <br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=(" Operating System	Android 13<br/>Chipset	Mediatek Helio G88<br/>Number of CPU Cores	2<br/>RAM	8 GB<br/>Width	76.2 mm<br/>Height	168.4 mm<br/>Thickness	8.4 mm<br/>Weight	208.0 g<br/>Display<br/>Type	LCD_IPS<br/>Diagonal	6.8 inches<br/>Resolution	1080x2460 px<br/>Screen-to-body ratio	85.9 %<br/>Pixel density	395 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, 2.5D curved glass screen ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
