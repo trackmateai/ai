@@ -29,7 +29,7 @@ function signUpFirebase(){
 
 function signInFirebase(){
 
-    
+    alert("App under maintenance");
 
     var firebaseConfig = {
       apiKey: "AIzaSyD09GeejzBofXCWBs_GBj8rDtIEDHd0O98",
