@@ -35,10 +35,10 @@ if (username=="jgaatlale@gmail.com"){
    }
 if (username=="maselecybernetics@gmail.com"){
            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-plus.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a04s.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 358070201811081</font><br/>  Model: iPhone 14 Plus (A2886)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Operating System	iOS 16<br/>Chipset	Apple A15 Bionic<br/>Number of CPU Cores	6<br/>RAM	6 GB<br/>Width	78.1 mm<br/>Height	160.8 mm<br/>Thickness	7.8 mm<br/>Weight	203.0 g<br/>Type	OLED<br/>Diagonal	6.7 inches<br/>Resolution	1284x2778 px<br/>Pixel density	457 ppi<br/>Colors	1073M<br/>Other display Features	, Display refresh rate: 60 Hz<br/> ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356769546284738</font><br/>  Model: Galaxy A04S (SM-A047F)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A047F BLACK MEB<br/>Search Term: 356769546284738<br/>IMEI 1: 356769546284738<br/>Serial Number:<font color=#ff0000> RF8W6006ZHP</font><br/>Model Desc: Samsung Galaxy A04s<br/>Model Name: SM-A047F<br/>Model Number: SM-A047FZKGMEB<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 01-06-2025<br/>Production location: Vietnam SEV<br/>Production Date: 01-06-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
