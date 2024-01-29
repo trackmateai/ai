@@ -43,12 +43,12 @@ if (username=="deeztwinsbookings@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
    } 
-if (username=="seizsoka5694@gmail.com	"){
-            phoneImageLay.style.display=("block");
+if (username=="sophaniamadish@gmail.com"){
+            phoneImageLay.style.display=("none");
             phoneImage.src = "https://www.imei.info/media/t/gsm-cache/R/b/jqMU5f-d/samsung-galaxy-a13-5g.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352345598133646</font><br/>  Model: info: Galaxy A13 5G (SM-A135F) <br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A135F BLACK AFA<br/>Search Term: 352345598133646<br/>IMEI 1: 352288968133640<br/>IMEI 2: 352345598133646<br/>Serial Number: R58TB0LTP4H<br/>Model Desc: Samsung Galaxy A13 4G<br/>Model Name: SM-A135F<br/>Model Number: SM-A135FZKGAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 08-11-2024<br/>Production location: Korea SEC<br/>Production Date: 08-11-2022<br/>Country: South Africa<br/>Carrier: Factory Unlocked  ");
+        mainInfo.innerHTML=("8601160059284878 is an InValid IMEi number ");
+        moreInfo.innerHTML=("Please recheck and try again  ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
