@@ -34,14 +34,7 @@ if (username=="jgaatlale@gmail.com"){
         moreInfo.style.display=("block");
    }
 if (username=="maselecybernetics@gmail.com"){
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a23.jpg";
-    
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350867775785973</font><br/>  Model: Galaxy A23 (SM-A235F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A235F LIGHT BLUE MEB<br/>Search Term: 350867775785973<br/>IMEI 1: 350867775785973<br/>IMEI 2: 355350585785975<br/>Serial Number: <font color=#ff0000>R58W21HK7WK</font><br/>Model Desc: Samsung Galaxy A23<br/>Model Name: SM-A235F<br/>Model Number: SM-A235FLBUMEB<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 28-02-2025<br/>Production location: Korea SEC<br/>Production Date: 28-02-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+           window.location.href=("resultsMaselec.html");
    } 
 if (username=="sophaniamadish@gmail.com"){
             phoneImageLay.style.display=("block");
