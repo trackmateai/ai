@@ -53,7 +53,16 @@ if (username=="sophaniamadish@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
    } 
-
+if (username=="lesegolamelegolo@gmail.com"){
+            phoneImageLay.style.display=("none");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/R/b/jqMU5f-d/samsung-galaxy-a13-5g.jpg";
+    
+        mainInfo.innerHTML=("35253936486674 is an InValid IMEi number ");
+        moreInfo.innerHTML=("Please recheck and try again  ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+   }
 
     
 }
