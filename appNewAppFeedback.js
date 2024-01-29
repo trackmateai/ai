@@ -38,10 +38,10 @@ if (username=="maselecybernetics@gmail.com"){
    } 
 if (username=="sophaniamadish@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/S/S/kxJiQo-d/hisense-u605.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/i/g/nmxjgV-d/huawei-nova-9.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 863731058706058</font><br/>  Model: U605<br/>Brand: HISENSE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Operating System	Android 8.0 Oreo<br/>Number of CPU Cores	4<br/>RAM	1 GB<br/>Internal Memory	8 GB<br/>Memory Card Type	MicroSD<br/>Display<br/>Type	TN<br/>Diagonal	4.0 inches<br/>Resolution	480x854 px<br/>Pixel density	218 ppi<br/>Colors	16M<br/>Other display Features	Multi-touch, Capacitive  ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 860160059284878</font><br/>  Model: Nova 9 (NAM-LX9)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Operating System HarmonyOS 2.0<br/>Chipset	Qualcomm SM7325 Snapdragon 778G 4G<br/>Number of CPU Cores	1<br/>RAM	8 GB<br/> Width	73.7 mm<br/>Height	160.0 mm<br/>Thickness	7.8 mm<br/>Weight	175.0 g<br/>Display<br/>Type	OLED<br/>Diagonal	6.57 inches<br/>Resolution	1080x2340 px<br/>Screen-to-body ratio	89.9 %<br/>Pixel density	392 ppi<br/>Colors	1073M");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
