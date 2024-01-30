@@ -40,8 +40,8 @@ if (username=="maselecybernetics@gmail.com"){
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://www.imei.info/media/t/gsm-cache/u/Z/dd2mZE-d/huawei-p40-lite.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356298775128762</font><br/>  Model: Galaxy A03 Core (SM-A032F)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
-        moreInfo.innerHTML=("Operating System	Android 10<br/>Chipset	Huawei HiSilicon KIRIN 810<br/>Number of CPU Cores	2<br/>RAM	6 GB<br/>Internal Memory	128 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	ARM Mali-G52 MP6<br/>GPU Cores	6<br/>GPU Clock	820.0 MHz<br/>Width	76.3 mm<br/>Height	159.2 mm<br/>Thickness	8.7 mm<br/>Weight	183.0 g  ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867991052200948</font><br/>  Model: P40 lite (JNY-LX1)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Operating System	Android 10<br/>Chipset	Huawei HiSilicon KIRIN 810<br/>Number of CPU Cores	2<br/>RAM	6 GB<br/>Internal Memory	128 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	ARM Mali-G52 MP6<br/>GPU Cores	6<br/>GPU Clock	820.0 MHz<br/>Width	76.3 mm<br/>Height	159.2 mm<br/>Thickness	8.7 mm<br/>Weight	183.0 g<br/> DisplayType	LCD_IPS<br/>Diagonal	6.4 inches<br/>Resolution	1080x2310 px<br/>Screen-to-body ratio	83.5 %<br/>Pixel density	398 ppi<br/>Colors	16M");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
