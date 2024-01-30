@@ -19,8 +19,8 @@ function feedBack(){
                 phoneImageLay= document.getElementById("imageLay")
                 phoneImage= document.getElementById("phoneImage")
                 
-if (username=="neoboy71@gmail.com"){
-    window.location.href=("resultsNeoboy35594.html");
+if (username=="segotsoreuben@gmail.com"){
+    window.location.href=("resultsBen35648.html");
 }
     
 if (username=="jgaatlale@gmail.com"){
