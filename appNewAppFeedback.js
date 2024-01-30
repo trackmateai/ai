@@ -23,12 +23,12 @@ if (username=="segotsoreuben@gmail.com"){
     window.location.href=("resultsBen35648.html");
 }
     
-if (username=="jgaatlale@gmail.com"){
+if (username=="ashrafprofessor30@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/h/D/c30ozb-d/huawei-y8s.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/Q/m/vIp6iU-d/redmi-9-activ.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 862972046673478</font><br/>  Model: Y8s (JKM-LX1)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Description Full: HUAWEI Y9 2019 4GB+64GB Coral Red Dual Card Open Market Ver. EU Charger<br/>Model Code: Jackman-L21<br/>IMEI: 862972046673478<br/>S/N: <font color=#ff0000>DEF4C19924000462</font><br/>Item Code: 51093KJF<br/>Offer Code: OFFE00069040<br/>Country Code: 267<br/>Country Name: Botswana<br/>Warranty Status: Out of Warranty");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 868699050861525</font><br/>  Model: 9 Activ (M2004J19AG)<br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Operating System	Android 10<br/>Chipset	MediaTek Helio G35<br/>Number of CPU Cores	4<br/>RAM	4 GB<br/>Width	77.1 mm<br/>Height	164.9 mm<br/>Thickness	9.0 mm<br/>Weight	194.0 g<br/> DisplayType	LCD_IPS<br/>Diagonal	6.53 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	80.9 %<br/>Pixel density	269 ppi<br/>Colors	16M ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
