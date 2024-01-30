@@ -34,7 +34,14 @@ if (username=="jgaatlale@gmail.com"){
         moreInfo.style.display=("block");
    }
 if (username=="maselecybernetics@gmail.com"){
-          window.location.href=("resultsMasele3580.html");
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a32-4g-new.jpg";
+    
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352816977331449</font><br/>  Model: Galaxy A32 4G (SM-A325F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A325F BLACK MEA<br/>Search Term: 352816977331449<br/>IMEI 1: 350857487331448<br/>IMEI 2: 352816977331449<br/>Serial Number:<font color=#ff0000> RZ8T91449WP</font><br/>Model Desc: Samsung Galaxy A32<br/>Model Name: SM-A325F<br/>Model Number: SM-A325FZKHMEA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 20-09-2024<br/>Production location: Brazil SEDA<br/>Production Date: 20-09-2022<br/>Country: United Arab Emirates<br/>Carrier: Factory Unlocked");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
    } 
 if (username=="sophaniamadish@gmail.com"){
             phoneImageLay.style.display=("block");
