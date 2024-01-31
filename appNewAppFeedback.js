@@ -60,7 +60,7 @@ if (username=="wizzy.kellyink@gmail.com"){
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-e-sm-t561.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352690103365666</font><br/>  Model: T561 Galaxy Tab E 9.6" 3G (SM-T561)br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352690103365666</font><br/>  Model: T561 Galaxy Tab E 9.6inch 3G (SM-T561)br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
         moreInfo.innerHTML=("Model Info: MOBILE SM-T561N WHITE XFA<br/>Search Term: 352690103365666<br/>IMEI 1: 352690103365666<br/>Serial Number:<font color=#ff0000> R52M611PE7V</font><br/>Model Desc: Samsung Galaxy Tab E 9.6<br/>Model Name: SM-T561N<br/>Model Number: SM-T561NZWAXFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 26-06-2021<br/>Production location: Korea SEC<br/>Production Date: 26-06-2019<br/>Country: South Africa<br/>Carrier: Factory Unlocked  ");
         
         mainInfo.style.display=("block");
