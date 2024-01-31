@@ -38,10 +38,10 @@ if (username=="ashrafprofessor30@gmail.com"){
    }
 if (username=="maselecybernetics@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/u/Z/dd2mZE-d/huawei-p40-lite.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/R/b/jqMU5f-d/samsung-galaxy-a13-5g.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867991052200948</font><br/>  Model: P40 lite (JNY-LX1)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Operating System	Android 10<br/>Chipset	Huawei HiSilicon KIRIN 810<br/>Number of CPU Cores	2<br/>RAM	6 GB<br/>Internal Memory	128 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	ARM Mali-G52 MP6<br/>GPU Cores	6<br/>GPU Clock	820.0 MHz<br/>Width	76.3 mm<br/>Height	159.2 mm<br/>Thickness	8.7 mm<br/>Weight	183.0 g<br/> DisplayType	LCD_IPS<br/>Diagonal	6.4 inches<br/>Resolution	1080x2310 px<br/>Screen-to-body ratio	83.5 %<br/>Pixel density	398 ppi<br/>Colors	16M");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351270415380876</font><br/>  Model: Galaxy A13 5G (SM-A135F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A135F BLACK AFA<br/>Search Term: 351270415380876<br/>IMEI 1: 351270415380876<br/>IMEI 2: 355296505380878<br/>Serial Number:<font color=#ff0000> RZ8T61KJRJT</font><br/>Model Desc: Samsung Galaxy A13 4G<br/>Model Name: SM-A135F<br/>Model Number: SM-A135FZKGAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 28-06-2024<br/>Production location: Brazil SEDA<br/>Production Date: 28-06-2022<br/>Country: South Africa<br/>Carrier: Factory Unlocked  ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
