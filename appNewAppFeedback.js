@@ -44,7 +44,7 @@ if (username=="ashrafprofessor30@gmail.com"){
         moreInfo.style.display=("block");
    }
 if (username=="maselecybernetics@gmail.com"){
-           window.location.href=("resultsMasele35196.html");
+           window.location.href=("resultsMasele35217.html");
    } 
 if (username=="sophaniamadish@gmail.com"){
             phoneImageLay.style.display=("block");
