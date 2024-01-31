@@ -38,10 +38,10 @@ if (username=="ashrafprofessor30@gmail.com"){
    }
 if (username=="maselecybernetics@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/R/b/jqMU5f-d/samsung-galaxy-a13-5g.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a23.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351270415380876</font><br/>  Model: Galaxy A13 5G (SM-A135F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A135F BLACK AFA<br/>Search Term: 351270415380876<br/>IMEI 1: 351270415380876<br/>IMEI 2: 355296505380878<br/>Serial Number:<font color=#ff0000> RZ8T61KJRJT </font><br/>Model Desc: Samsung Galaxy A13 4G<br/>Model Name: SM-A135F<br/>Model Number: SM-A135FZKGAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 28-06-2024<br/>Production location: Brazil SEDA<br/>Production Date: 28-06-2022<br/>Country: South Africa<br/>Carrier: Factory Unlocked  ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353319908263616</font><br/>  Model: Galaxy A23 (SM-A235F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A235F LIGHT BLUE XME<br/>Search Term: 353319908263616<br/>IMEI 1: 353220828263613<br/>IMEI 2: 353319908263616<br/>Serial Number:<font color=#ff0000> RR8T8059CQD</font><br/>Model Desc: Samsung Galaxy A23<br/>Model Name: SM-A235F<br/>Model Number: SM-A235FLBGXME<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 22-08-2024<br/>Production location: China SEHZ<br/>Production Date: 22-08-2022<br/>Country: Malaysia<br/>Carrier: Factory Unlocked ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
