@@ -44,7 +44,14 @@ if (username=="ashrafprofessor30@gmail.com"){
         moreInfo.style.display=("block");
    }
 if (username=="maselecybernetics@gmail.com"){
-           window.location.href=("resultsMasele35534.html");
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/D/9/lhHodz-d/huawei-y3-2017-cro-u00.jpg";
+    
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 869597035134480</font><br/>  Model: Y3 2017 CRO-U00 (CRO-U00)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Operating System	Android 6.0 Marshmallow<br/>Chipset	MediaTek MT6580M<br/>Number of CPU Cores	4<br/>RAM	1 GB<br/>Internal Memory	8 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	ARM Mali-400 MP2<br/>GPU Cores	2<br/>GPU Clock	416.0 MHz<br/>Body<br/>Available Colors	White, Gray, Blue, Gold, Pink<br/>Width	73.7 mm<br/>Height	145.1 mm<br/>Thickness	9.45 mm<br/>Weight	180.0 g <br/>DisplayType	LCD_IPS<br/>Diagonal	5.0 inches<br/>Resolution	480x854 px<br/>Screen-to-body ratio	64.4 %<br/>Pixel density	196 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
    } 
 if (username=="sophaniamadish@gmail.com"){
             phoneImageLay.style.display=("block");
