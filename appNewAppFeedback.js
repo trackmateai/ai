@@ -83,7 +83,20 @@ if (username=="dicemodiagane@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
    }
+if (username=="molamukagiso@gmail.com"){
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/F/D/3mBupj-d/redmi-note-9.jpg";
     
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 865858055294750</font><br/>  Model: Note 9 (M2003J15SS)<br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Operating System	Android 10<br/>Chipset	MediaTek Helio G85<br/>Number of CPU Cores	2<br/>RAM	3 GB<br/> Width	77.2 mm<br/>Height	162.3 mm<br/>Thickness	8.9 mm<br/>Weight	199.0 g<br/>DisplayType	LCD_IPS<br/>Diagonal	6.53 inches<br/>Resolution	1080x2340 px<br/>Screen-to-body ratio	83.5 %<br/>Pixel density	395 ppi<br/>Colors	16M ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+   }
+
+
+
+            
 }
 
 
