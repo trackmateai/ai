@@ -54,11 +54,11 @@ if (username=="maselecybernetics@gmail.com"){
         moreInfo.style.display=("block");
    } 
 if (username=="sophaniamadish@gmail.com"){
-            phoneImageLay.style.display=("block");
+            phoneImageLay.style.display=("none");
             phoneImage.src = "https://www.imei.info/media/t/gsm-cache/i/g/nmxjgV-d/huawei-nova-9.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 860160059284878</font><br/>  Model: Nova 9 (NAM-LX9)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Operating System HarmonyOS 2.0<br/>Chipset	Qualcomm SM7325 Snapdragon 778G 4G<br/>Number of CPU Cores	1<br/>RAM	8 GB<br/> Width	73.7 mm<br/>Height	160.0 mm<br/>Thickness	7.8 mm<br/>Weight	175.0 g<br/>Display<br/>Type	OLED<br/>Diagonal	6.57 inches<br/>Resolution	1080x2340 px<br/>Screen-to-body ratio	89.9 %<br/>Pixel density	392 ppi<br/>Colors	1073M");
+        mainInfo.innerHTML=(" 862124067556708 is an INVALID IMEi");
+        moreInfo.innerHTML=(" Please recheck and try again");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
