@@ -18,10 +18,7 @@ function feedBack(){
     
                 phoneImageLay= document.getElementById("imageLay")
                 phoneImage= document.getElementById("phoneImage")
-                
-if (username=="neoboy71@gmail.com"){
-    window.location.href=("resultsBen35648.html");
-}
+      
   if (username=="wizzy.kellyink@gmail.com"){
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a31.jpg";
@@ -32,23 +29,13 @@ if (username=="neoboy71@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
 }  
-    
-if (username=="ashrafprofessor30@gmail.com"){
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/Q/m/vIp6iU-d/redmi-9-activ.jpg";
-    
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 868699050861525</font><br/>  Model: 9 Activ (M2004J19AG)<br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Operating System	Android 10<br/>Chipset	MediaTek Helio G35<br/>Number of CPU Cores	4<br/>RAM	4 GB<br/>Width	77.1 mm<br/>Height	164.9 mm<br/>Thickness	9.0 mm<br/>Weight	194.0 g<br/> DisplayType	LCD_IPS<br/>Diagonal	6.53 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	80.9 %<br/>Pixel density	269 ppi<br/>Colors	16M ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
-   }
+
 if (username=="maselecybernetics@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/D/9/lhHodz-d/huawei-y3-2017-cro-u00.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/Q/9/B5fkgh-d/samsung-galaxy-a04e.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 869597035134480</font><br/>  Model: Y3 2017 CRO-U00 (CRO-U00)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Operating System	Android 6.0 Marshmallow<br/>Chipset	MediaTek MT6580M<br/>Number of CPU Cores	4<br/>RAM	1 GB<br/>Internal Memory	8 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	ARM Mali-400 MP2<br/>GPU Cores	2<br/>GPU Clock	416.0 MHz<br/>Body<br/>Available Colors	White, Gray, Blue, Gold, Pink<br/>Width	73.7 mm<br/>Height	145.1 mm<br/>Thickness	9.45 mm<br/>Weight	180.0 g <br/>DisplayType	LCD_IPS<br/>Diagonal	5.0 inches<br/>Resolution	480x854 px<br/>Screen-to-body ratio	64.4 %<br/>Pixel density	196 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351778738622550</font><br/>  Model: Galaxy A04e (SM-A042F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A042F/DS BLACK MEA<br/>Search Term: 351778738622550<br/>IMEI 1: 351778738622550<br/>Serial Number:<font color=#ff0000> R8YTB1BRFYW</font><br/>Model Desc: Samsung A04e<br/>Model Name: SM-A042F/DS<br/>Model Number: SM-A042FZKDMEA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 30-11-2024<br/>Production location: Korea SEC<br/>Production Date: 30-11-2022<br/>Country: Botswana<br/>Carrier: Factory Unlocked ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
