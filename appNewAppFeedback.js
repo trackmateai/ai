@@ -19,12 +19,12 @@ function feedBack(){
                 phoneImageLay= document.getElementById("imageLay")
                 phoneImage= document.getElementById("phoneImage")
       
-  if (username=="wizzy.kellyink@gmail.com"){
+  if (username=="ashrafprofessor30@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a31.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356268119100983</font><br/>  Model: Galaxy A31 (SM-A315F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A315F BLACK XFA<br/>Search Term: 356268119100983<br/>IMEI 1: 356268119100983<br/>IMEI 2: 356269119100981<br/>Serial Number:<font color=#ff0000> RF8N82LMP5P</font><br/>Model Desc: Samsung Galaxy A31<br/>Model Name: SM-A315F<br/>Model Number: SM-A315FZKVXFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 24-08-2022<br/>Production location: Vietnam SEV<br/>Production Date: 24-08-2020<br/>Country: Botswana<br/>Carrier: Factory Unlocked  ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352922115177148</font><br/>  Model: iPhone 11 (A2221)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Operating System	iOS<br/>Chipset	Apple A13 Bionic<br/>Number of CPU Cores	6<br/>RAM	4 GB<br/>Width	75.7 mm<br/>Height	150.9 mm<br/>Thickness	8.3 mm<br/>Weight	194.0 g<br/>DisplayType	LCD_IPS<br/>Diagonal	6.1 inches<br/>Resolution	828x1792 px<br/>Screen-to-body ratio	80.1 %<br/>Pixel density	324 ppi<br/>Colors	16M  ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
@@ -43,42 +43,12 @@ if (username=="sophaniamadish@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
    } 
-if (username=="wizzy.kellyink@gmail.com"){
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-e-sm-t561.jpg";
-    
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352690103365666</font><br/>  Model: T561 Galaxy Tab E 9.6inch 3G (SM-T561)br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-T561N WHITE XFA<br/>Search Term: 352690103365666<br/>IMEI 1: 352690103365666<br/>Serial Number:<font color=#ff0000> R52M611PE7V</font><br/>Model Desc: Samsung Galaxy Tab E 9.6<br/>Model Name: SM-T561N<br/>Model Number: SM-T561NZWAXFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 26-06-2021<br/>Production location: Korea SEC<br/>Production Date: 26-06-2019<br/>Country: South Africa<br/>Carrier: Factory Unlocked  ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
-   }
 if (username=="flockie2002@gmail.com"){
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a31.jpg";
     
         mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356268119100983</font><br/>  Model: Galaxy A31 (SM-A315F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
         moreInfo.innerHTML=("Model Info: MOBILE SM-A315F BLACK XFA<br/>Search Term: 356268119100983<br/>IMEI 1: 356268119100983<br/>IMEI 2: 356269119100981<br/>Serial Number:<font color=#ff0000> RF8N82LMP5P</font><br/>Model Desc: Samsung Galaxy A31<br/>Model Name: SM-A315F<br/>Model Number: SM-A315FZKVXFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 24-08-2022<br/>Production location: Vietnam SEV<br/>Production Date: 24-08-2020<br/>Country: South Africa<br/>Carrier: Factory Unlocked   ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
-   }
-if (username=="molamukagiso@gmail.com"){
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/F/D/3mBupj-d/redmi-note-9.jpg";
-    
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 865858055294750</font><br/>  Model: Note 9 (M2003J15SS)<br/>Brand: REDMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Operating System	Android 10<br/>Chipset	MediaTek Helio G85<br/>Number of CPU Cores	2<br/>RAM	3 GB<br/> Width	77.2 mm<br/>Height	162.3 mm<br/>Thickness	8.9 mm<br/>Weight	199.0 g<br/>DisplayType	LCD_IPS<br/>Diagonal	6.53 inches<br/>Resolution	1080x2340 px<br/>Screen-to-body ratio	83.5 %<br/>Pixel density	395 ppi<br/>Colors	16M ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
-   }
-if (username=="sirkama32@gmail.com"){
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/P/r/tIM5C5-d/samsung-galaxy-a54.jpg";
-    
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352838656497689</font><br/>  Model: Galaxy A54 (SM-A546E)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A546E/DS BLACK AFA<br/>Search Term: 352838656497689<br/>IMEI 1: 352838656497689<br/>Serial Number: RZCWB00Y5AP<br/>Model Desc: Samsung Galaxy A54 5G<br/>Model Name: SM-A546E/DS<br/>Model Number: SM-A546EZKDAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 01-11-2025<br/>Production location: Brazil SEDA<br/>Production Date: 01-11-2023<br/>Country: South Africa<br/>Carrier: Factory Unlocked ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
