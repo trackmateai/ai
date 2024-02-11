@@ -224,22 +224,30 @@
     
     <div id="demo" class="demoDiv" ></div>
          
-    <div id="map" class="map"></div>
-
-        <script type="text/javascript">
+     <script type="text/javascript">
                  
-        var map = L.map('map').setView([-24.859503306437023, 25.792041053822025], 4);
-     
-         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-         maxZoom: 19,
-         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-         }).addTo(map);
-
+                 
+                 
+               function myMap() {
+                   var mapProp= {
+                   center:new google.maps.LatLng(-21.49358027363228, 24.15837467046585),
+                   zoom:4,
+               };
+                 var map = new google.maps.Map(document.getElementById("demo"),mapProp);
+ 
+               }
+                 
+                 
+                 
         </script>   
+         
+         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHKNOhdIDuZaCBWkSMEnKWlpqcpaL3zyc&callback=myMap"></script>
+
          
     </div>
 
 
+    <div class="spanLine"></div>
        
   <p class="date" id="dateTime"> Initializing...</p>
   <p class="support" id="dateTime"> Support: trackmateai@gmail.com</p>
