@@ -43,12 +43,12 @@ if (username=="neoboy71@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
    } 
-if (username=="flockie2002@gmail.com"){
+if (username=="77601835s@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a31.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/n/R/UxcXxI-d/tecno-camon-19-pro.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356268119100983</font><br/>  Model: Galaxy A31 (SM-A315F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A315F BLACK XFA<br/>Search Term: 356268119100983<br/>IMEI 1: 356268119100983<br/>IMEI 2: 356269119100981<br/>Serial Number:<font color=#ff0000> RF8N82LMP5P</font><br/>Model Desc: Samsung Galaxy A31<br/>Model Name: SM-A315F<br/>Model Number: SM-A315FZKVXFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 24-08-2022<br/>Production location: Vietnam SEV<br/>Production Date: 24-08-2020<br/>Country: South Africa<br/>Carrier: Factory Unlocked   ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352229802430727</font><br/>  Model: Camon 19 Pro <br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=("Operating System	Android 12<br/>Chipset	MediaTek Dimensity 810 MT6833V<br/>Number of CPU Cores	2<br/>RAM	8 GB<br/>Width	74.6 mm<br/>Height	166.8 mm<br/>Thickness	8.58 mm<br/> Display<br/>Type	LCD_IPS<br/>Diagonal	6.8 inches<br/>Resolution	1080x2460 px<br/>Screen-to-body ratio	88.2 %<br/>Pixel density	395 ppi<br/>Colors	16M  ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
