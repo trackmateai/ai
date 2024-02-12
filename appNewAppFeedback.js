@@ -31,7 +31,7 @@ function feedBack(){
 }  
 
 if (username=="maselecybernetics@gmail.com"){
-          alert("Account temporarily suspended");
+          window.location.href=("resultsMasele35328.html");
    } 
 if (username=="neoboy71@gmail.com"){
             phoneImageLay.style.display=("block");
