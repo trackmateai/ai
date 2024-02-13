@@ -19,12 +19,12 @@ function feedBack(){
                 phoneImageLay= document.getElementById("imageLay")
                 phoneImage= document.getElementById("phoneImage")
       
-  if (username=="ashrafprofessor30@gmail.com"){
+  if (username=="nboikaego@yahoo.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352922115177148</font><br/>  Model: iPhone 11 (A2221)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Operating System	iOS<br/>Chipset	Apple A13 Bionic<br/>Number of CPU Cores	6<br/>RAM	4 GB<br/>Width	75.7 mm<br/>Height	150.9 mm<br/>Thickness	8.3 mm<br/>Weight	194.0 g<br/>DisplayType	LCD_IPS<br/>Diagonal	6.1 inches<br/>Resolution	828x1792 px<br/>Screen-to-body ratio	80.1 %<br/>Pixel density	324 ppi<br/>Colors	16M  ");
+        mainInfo.innerHTML=("  STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 359056817410797</font><br/>  Model: iPhone 14 Pro Max (A2894)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Operating System	iOS 16<br/>Chipset	Apple A16 Bionic<br/>Number of CPU Cores	6<br/>RAM	6 GB<br/> Width	77.6 mm<br/>Height	160.7 mm<br/>Thickness	7.85 mm<br/>Weight	240.0 g<br/>DisplayType	RETINA<br/>Diagonal	6.7 inches<br/>Resolution	1290x2796 px<br/>Pixel density	460 ppi<br/>Colors	1073M<br/>Other display Features	, Display refresh rate: 120 Hz ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
