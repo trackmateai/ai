@@ -33,12 +33,12 @@ function feedBack(){
 if (username=="maselecybernetics@gmail.com"){
           window.location.href=("resultsMasele35863.html");
    } 
-if (username=="neoboy71@gmail.com"){
+if (username=="ramapulanakb@GMAIL.COM"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://imei.net/phone-images/t/gsm-cache/S/v/CJAcGC-d.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a30.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 863930041272380</font><br/>  Model: Y6 Prime 2019 (MRD-LX1F)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
-        moreInfo.innerHTML=(" Operating System	Android 9.0 Pie<br/>Chipset	MediaTek Helio A22 (MT6761)<br/>Number of CPU Cores	4<br/>RAM	2 GB<br/>Internal Memory	32 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	PowerVR GE8300<br/>Width	73.5 mm<br/>Height	156.28 mm<br/>Thickness	8.0 mm<br/>Weight	150.0 g<br/>DisplayType	LCD_IPS<br/>Diagonal	6.09 inches<br/>Resolution	720x1560 px<br/>Screen-to-body ratio	79.2 %<br/>Pixel density	282 ppi<br/>Colors	16M ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356970108685623</font><br/>  Model: Galaxy A30 (SM-A305F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A305F BLACK XFE<br/>Search Term: 356970108685623<br/>IMEI 1: 356970108685623<br/>IMEI 2: 356971108685621<br/>Serial Number:<font color=#ff0000> R58M60JPAST</font><br/>Model Desc: Samsung Galaxy A30<br/>Model Name: SM-A305F<br/>Model Number: SM-A305FZKFXFE<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 04-06-2021<br/>Production location: Korea SEC<br/>Production Date: 04-06-2019<br/>Country: Botswana<br/>Carrier: Factory Unlocked ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
