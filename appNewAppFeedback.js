@@ -33,7 +33,7 @@ function feedBack(){
 if (username=="maselecybernetics@gmail.com"){
           window.location.href=("resultsMasele35863.html");
    } 
-if (username=="ramapulanakb@GMAIL.COM"){
+if (username=="ramapulanakb@GMAIL.COM" || username=="ramapulanakb@gmail.com"){
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a30.jpg";
     
