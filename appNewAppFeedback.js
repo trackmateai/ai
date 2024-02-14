@@ -30,8 +30,15 @@ function feedBack(){
         moreInfo.style.display=("block");
 }  
 
-if (username=="maselecybernetics@gmail.com"){
-            window.location.href=("resultsMasele86028.html");
+if (username=="atasebeke@gmail.com"){
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-plus.jpg";
+    
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 358070201811081</font><br/>  Model: iPhone 14 Plus (A2886)<br/>Brand:  APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Operating System	iOS 16<br/>Chipset	Apple A15 Bionic<br/>Number of CPU Cores	6<br/>RAM	6 GB<br/>Width	78.1 mm<br/>Height	160.8 mm<br/>Thickness	7.8 mm<br/>Weight	203.0 g<br/>Contectivity<br/>USB Conector Type	Lightning<br/>USB Version	2.0<br/>Built-in WiFi	yes<br/>WiFi Version	802.11 a/b/g/n/ac/6<br/> DisplayType	OLED<br/>Diagonal	6.7 inches<br/>Resolution	1284x2778 px<br/>Pixel density	457 ppi");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
    } 
 if (username=="ramapulanakb@GMAIL.COM" || username=="ramapulanakb@gmail.com"){
             phoneImageLay.style.display=("block");
