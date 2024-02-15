@@ -32,10 +32,10 @@ function feedBack(){
 
 if (username=="atasebeke@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/P/r/tIM5C5-d/samsung-galaxy-a54.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/z/f/Og22h4-d/apple-iphone-14-plus.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356080121964128</font><br/>  Model: Galaxy A54 (SM-A546E)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A546E/DS BLACK AFA<br/>Search Term: 356080121964128<br/>IMEI 1: 356080121964128<br/>IMEI 2: 357141181964124<br/>Serial Number:<font color=#ff0000> RZCW4050WGF</font><br/>Model Desc: Samsung Korea Galaxy A54 5g<br/>Model Name: SM-A546E/DS<br/>Model Number: SM-A546EZKDAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 04-04-2025<br/>Production location: Brazil SEDA<br/>Production Date: 04-04-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked  ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 358070201811081</font><br/>  Model:  iPhone 14 Plus (A2886)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" <font color=#00ee00>125BWP</font> Payment required for already tracked devices ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
