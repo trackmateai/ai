@@ -40,15 +40,8 @@ if (username=="atasebeke@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
    } 
-if (username=="ramapulanakb@GMAIL.COM" || username=="ramapulanakb@gmail.com"){
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a30.jpg";
-    
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356970108685623</font><br/>  Model: Galaxy A30 (SM-A305F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A305F BLACK XFE<br/>Search Term: 356970108685623<br/>IMEI 1: 356970108685623<br/>IMEI 2: 356971108685621<br/>Serial Number:<font color=#ff0000> R58M60JPAST</font><br/>Model Desc: Samsung Galaxy A30<br/>Model Name: SM-A305F<br/>Model Number: SM-A305FZKFXFE<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 04-06-2021<br/>Production location: Korea SEC<br/>Production Date: 04-06-2019<br/>Country: Botswana<br/>Carrier: Factory Unlocked ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+if (username=="ramapulanakb@GMAIL.COM" || username=="ramapulanakb@gmail.com || Ramapulanakb@GMAIL.COM""){
+            alert(" 35882483355083 is an invalid IMEi number. Please recheck and try again");
    } 
 if (username=="twinteckmedia@gmail.com"){
             phoneImageLay.style.display=("block");
