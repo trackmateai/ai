@@ -31,7 +31,14 @@ function feedBack(){
 }  
 
 if (username=="atasebeke@gmail.com"){
-            window.location.href=("resultsMasele3580.html");
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/nokia-c2-2nd-edition-blue.jpg";
+    
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353766764403068</font><br/>  Model: C2 2nd Edition<br/>Brand: NOKIA<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Operating System	Android 11 Go Edition<br/>Number of CPU Cores	4<br/>RAM	1 GB<br/>Internal Memory	32 GB<br/>Memory Card Type	microSDXC<br/> Width	75.9 mm<br/>Height	154.0 mm<br/>Thickness	10.0 mm<br/>Weight	180.0 g<br/>Contectivity<br/>USB Conector Type	Micro USB<br/>USB Version	2.0<br/>Built-in WiFi	yes<br/>WiFi Version	802.11 b/g/n<br/>WiFi Features	hotspot<br/>Built-in bluetooth	yes<br/>Bluetooth Features	A2DP, LE<br/>Bluetooth Version	5.0<br/>Built-in NFC	no<br/>Built-in GPS	yes");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
    } 
 if (username=="ramapulanakb@GMAIL.COM" || username=="ramapulanakb@gmail.com" || username=="Ramapulanakb@GMAIL.COM"){
             alert(" 35882483355083 is an invalid IMEi number. Please recheck and try again");
