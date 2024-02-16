@@ -40,7 +40,7 @@ if (username=="atasebeke@gmail.com"){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
    } 
-if (username=="ramapulanakb@GMAIL.COM" || username=="ramapulanakb@gmail.com" || Ramapulanakb@GMAIL.COM"){
+if (username=="ramapulanakb@GMAIL.COM" || username=="ramapulanakb@gmail.com" || username=="Ramapulanakb@GMAIL.COM"){
             alert(" 35882483355083 is an invalid IMEi number. Please recheck and try again");
    } 
 if (username=="twinteckmedia@gmail.com"){
