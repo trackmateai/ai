@@ -31,14 +31,7 @@ function feedBack(){
 }  
 
 if (username=="atasebeke@gmail.com"){
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/z/f/Og22h4-d/apple-iphone-14-plus.jpg";
-    
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 358070201811081</font><br/>  Model:  iPhone 14 Plus (A2886)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" <font color=#00ee00>125BWP</font> Payment required for already tracked devices ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+            window.location.href=("resultsMasele3580.html");
    } 
 if (username=="ramapulanakb@GMAIL.COM" || username=="ramapulanakb@gmail.com" || username=="Ramapulanakb@GMAIL.COM"){
             alert(" 35882483355083 is an invalid IMEi number. Please recheck and try again");
