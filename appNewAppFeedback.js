@@ -33,15 +33,13 @@ function feedBack(){
 if (username=="atasebeke@gmail.com"){
             window.location.href=("resultsSebeke35416.html");
    } 
-if (username=="ramapulanakb@GMAIL.COM" || username=="ramapulanakb@gmail.com" || username=="Ramapulanakb@GMAIL.COM"){
-            alert(" 35882483355083 is an invalid IMEi number. Please recheck and try again");
-   } 
-if (username=="twinteckmedia@gmail.com"){
+
+if (username=="thuto2018th@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/n/R/UxcXxI-d/tecno-camon-19-pro.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/u/Z/dd2mZE-d/huawei-p40-lite.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352229802430727</font><br/>  Model: Camon 19 Pro<br/>Brand:  TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Operating System	Android 12<br/>Chipset	MediaTek Dimensity 810 MT6833V<br/>Number of CPU Cores	2<br/>RAM	8 GB<br/>Width	74.6 mm<br/>Height	166.8 mm<br/>Thickness	8.58 mm<br/>Contectivity<br/>USB Conector Type	USB Type-C<br/>USB Version	2.0<br/>Built-in WiFi	yes<br/>WiFi Version	802.11 a/b/g/n/ac<br/>DisplayType	LCD_IPS<br/>Diagonal	6.8 inches<br/>Resolution	1080x2460 px<br/>Screen-to-body ratio	88.2 %<br/>Pixel density	395 ppi<br/>Colors	16M ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867594052185356</font><br/>  Model: P40 lite (JNY-LX1)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=(" Operating System	Android 10<br/>Chipset	Huawei HiSilicon KIRIN 810<br/>Number of CPU Cores	2<br/>RAM	6 GB<br/>Internal Memory	128 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	ARM Mali-G52 MP6<br/>GPU Cores	6<br/>GPU Clock	820.0 MHz<br/>Width	76.3 mm<br/>Height	159.2 mm<br/>Thickness	8.7 mm<br/>Weight	183.0 g<br/>DisplayType	LCD_IPS<br/>Diagonal	6.4 inches<br/>Resolution	1080x2310 px<br/>Screen-to-body ratio	83.5 %<br/>Pixel density	398 ppi<br/>Colors	16M ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
