@@ -30,8 +30,15 @@ function feedBack(){
         moreInfo.style.display=("block");
 }  
 
-if (username=="atasebeke@gmail.com"){
-            window.location.href=("resultsSebeke35416.html");
+if (username=="phetsookay@gmail.com"){
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/k/O/MCpIfl-d/samsung-galaxy-a24.jpg";
+    
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354916449643922</font><br/>  Model: Galaxy A24 (SM-A245F)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A245F BLACK MEA<br/>Search Term: 354916449643922<br/>IMEI 1: 354916449643922<br/>Serial Number: <font color=#ff0000>RZ8W80DXD2Z</font><br/>Model Desc: Samsung Korea Galaxy A24<br/>Model Name: SM-A245F<br/>Model Number: SM-A245FZKUMEA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 22-08-2025<br/>Production location: Brazil SEDA<br/>Production Date: 22-08-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
    } 
 
 if (username=="thuto2018th@gmail.com"){
