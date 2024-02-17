@@ -1,0 +1,209 @@
+<html>
+<head>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="resultsCss.css">
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Changa&family=Josefin+Sans&family=Righteous&display=swap');
+     </style>
+        
+        
+     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+     
+     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+    
+</head>
+	
+
+
+<body>
+	
+	
+	
+<div class="mainCard">
+	
+	
+	<div class="card">
+	
+	
+	
+	
+    <div class="mapDiv" id="mapDiv">
+    
+         <div id="demo" class="demoDiv" ></div>
+         
+         
+        <div id="map" class="map"></div>
+
+          
+        <script type="text/javascript">
+                 
+                 
+                 
+
+         var map = L.map('map').setView([-24.8684484493989, 25.851813157990776], 14);//14
+         
+         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+         maxZoom: 19,
+         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">TrackMate</a>'
+         }).addTo(map);
+
+         var marker = L.marker([-24.8684484493989, 25.851813157990776]).addTo(map);
+
+
+    marker.bindPopup("<b> KGTEL A65</b> <br/> <font size=0.5px color=grey> -24.86844... ").openPopup();
+     
+                 
+                 
+        </script>   
+         
+         
+    </div>
+	
+	
+	
+	
+    <div class="card__img">
+              
+    </div><!---EndOfMap--->
+    
+    
+    
+    
+    
+        
+        <div class="bottom-section">
+          
+          <span class="title"> 09289000-3h00-11bd-553d-8679u <font color=#00ee00>Checks</font> 1-of-3</span>
+          <div class="row row1">
+            <div class="item">
+              <span class="big-text">IMEi</span>
+              <span class="regular-text">354160930108877</span>
+            </div>
+            <div class="item">
+              <span class="big-text">STATUS</span>
+              <span class="regular-text"> Active</span>
+            </div>
+            <div class="item">
+              <span class="big-text"> SND PORT</span>
+              <span class="regular-text">8268</span>
+            </div>
+          </div>
+          
+        </div>
+    
+    
+    
+    
+    
+    
+    
+    <div class="card__title">354160930108877</div>
+    <div class="card__subtitle">Device Query</div>
+    <div class="rating">
+            <svg width="17" height="17" viewBox="0 0 17 17" fill="none">
+                <path d="M8.51948 1.625C9.1214 1.625 10.0427 4.16625 10.4636 5.43013C10.6014 5.8437 10.9837 6.13054 11.4192 6.14904C12.7373 6.20505 15.375 6.39722 15.375 7.0384C15.375 7.66696 13.5161 9.17543 12.5322 9.92976C12.1816 10.1986 12.0365 10.6604 12.1687 11.082C12.5631 12.34 13.2755 14.8755 12.7573 15.3009C12.2506 15.717 10.2147 14.2326 9.15246 13.4009C8.77021 13.1016 8.22949 13.1012 7.84719 13.4004C6.78473 14.2321 4.75246 15.717 4.28166 15.3009C3.79912 14.8745 4.47615 12.3275 4.84741 11.0727C4.97086 10.6555 4.82425 10.2029 4.47885 9.93826C3.49798 9.18681 1.625 7.66933 1.625 7.0384C1.625 6.3962 4.2711 6.20444 5.5871 6.14878C6.0197 6.13048 6.3998 5.84769 6.53973 5.43793C6.97041 4.17673 7.91633 1.625 8.51948 1.625Z" fill="#00B9AE" stroke="#00B9AE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
+        </div>
+        
+        
+        
+        
+    <div class="imageLay" id="imageLay">
+    
+    <image class="phoneImage" id="phoneImage" src="data:image/jpeg;base64,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"></image>
+    
+    
+    </div>
+        
+        
+        
+        
+<div class="phoneInfoDiv">
+
+<p class="phoneInfo"> 
+
+<font color=#43ff64d9> DEVICE QUERY </font><br/>
+
+Status: <font color=#00ee00> Active </font><br/>
+Location:<font color=grey>-24.8684484493989, 25.851813157990776<br/>
+Net_Provider: Orange BW <br>
+TNP_ID: Undefined  <br/>
+ActiveCards: 1 <br/>
+ActiveNo.:<font color=grey> 76311384 </font><br/>
+
+
+
+  </p>
+  
+  
+ 
+<p class="numberInfo">
+
+<font color=#C70039>NUMBER QUERY </font> <br/>
+
+
+Phone Number: 76311384<br/>
+Name: Refilwe <br/>
+Surname: Temogo<br/>
+Gender: Male <br/>
+Title: Mr <br/>
+DateOfBirth: 1993/07/10  <br/>
+PlaceOfBirth: <br/>
+ID Type: ID Card <br/>
+ID Number: 970114038 <br/>
+ExpiryDate: <br/>
+ResidentialAddress: Boseja Ward <br/>
+PostalAddress: Box 103 Mochudi <br/>
+City/Village: Mochudi
+
+
+
+</p>
+  
+  
+<a href="appNewAppMain.html">Go back</a>
+
+	
+  
+  
+</div>
+        
+        
+        
+        
+        
+</div><!-----Main Card Close..All Elements In Here----->
+
+
+
+
+
+
+
+	
+	
+</div><!----End Of Main Card---->
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</body>
+</html>
+
+
