@@ -63,6 +63,17 @@ if (username=="Ramapulanakb@GMAIL.COM"){
         moreInfo.style.display=("block");
    }
 
+if (username=="ashrafprofessor30@gmail.com"){
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/T/A/9jTExH-d/xiaomi-mi-note-10.jpg";
+    
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 864348055210114</font><br/>  Model: Mi Note 10 (M2101K7AG)<br/>Brand: XIAOMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=(" Operating System	Android 9.0 Pie<br/>Chipset	Qualcomm Snapdragon 730G<br/>Number of CPU Cores	2<br/>RAM	6 GB<br/>Width	74.2 mm<br/>Height	157.8 mm<br/>Thickness	9.67 mm<br/>Weight	208.0 g<br/>DisplayType	AMOLED<br/>Diagonal	6.47 inches<br/>Resolution	1080x2340 px<br/>Screen-to-body ratio	87.7 %<br/>Pixel density	398 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, Scratch resistant ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+   }
+    
             
 }
 
