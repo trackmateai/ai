@@ -19,12 +19,12 @@ function feedBack(){
                 phoneImageLay= document.getElementById("imageLay")
                 phoneImage= document.getElementById("phoneImage")
       
-  if (username=="nboikaego@yahoo.com"){
+  if (username=="atasebeke@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/n/c/isCgsM-d/nokia-c2-2020.jpg";
     
-        mainInfo.innerHTML=("  STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 359056817410797</font><br/>  Model: iPhone 14 Pro Max (A2894)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Operating System	iOS 16<br/>Chipset	Apple A16 Bionic<br/>Number of CPU Cores	6<br/>RAM	6 GB<br/> Width	77.6 mm<br/>Height	160.7 mm<br/>Thickness	7.85 mm<br/>Weight	240.0 g<br/>DisplayType	RETINA<br/>Diagonal	6.7 inches<br/>Resolution	1290x2796 px<br/>Pixel density	460 ppi<br/>Colors	1073M<br/>Other display Features	, Display refresh rate: 120 Hz ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354223106072432</font><br/>  Model: C2 2020 (C2)<br/>Brand: NOKIA<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Operating System	Android 9.0 Pie<br/>Chipset	Unisoc<br/>Number of CPU Cores	4<br/>RAM	1 GB<br/>Internal Memory	16 GB<br/>Memory Card Type	microSDXC<br/>Width	75.59 mm<br/>Height	154.8 mm<br/>Thickness	8.85 mm<br/>Weight	161.0 g<br/> DisplayType	LCD_IPS<br/>Diagonal	5.7 inches<br/>Resolution	720x1520 px<br/>Screen-to-body ratio	69.3 %<br/>Pixel density	282 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
