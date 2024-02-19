@@ -21,10 +21,10 @@ function feedBack(){
       
   if (username=="atasebeke@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/n/c/isCgsM-d/nokia-c2-2020.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/H/o/RHYzWX-d/sony-ericsson-t280i.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354223106072432</font><br/>  Model: C2 2020 (C2)<br/>Brand: NOKIA<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Operating System	Android 9.0 Pie<br/>Chipset	Unisoc<br/>Number of CPU Cores	4<br/>RAM	1 GB<br/>Internal Memory	16 GB<br/>Memory Card Type	microSDXC<br/>Width	75.59 mm<br/>Height	154.8 mm<br/>Thickness	8.85 mm<br/>Weight	161.0 g<br/> DisplayType	LCD_IPS<br/>Diagonal	5.7 inches<br/>Resolution	720x1520 px<br/>Screen-to-body ratio	69.3 %<br/>Pixel density	282 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 3534220242305740</font><br/>  Model: T280i<br/>Brand: SONY ERICSSON<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=(" Brand: Sony Ericsson<br/>Model: T280i<br/>Model Name: T280i<br/> IMEI.info:<br/>Device type: Phone<br/>Design: Classic<br/>Released: May2008 r.<br/>SIM card size:Mini Sim - Regular ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
