@@ -31,7 +31,7 @@ function feedBack(){
 }  
  
   if (username=="atasebeke@gmail.com"){
-            window.location.href=("resultsSebeke35012.html");
+           alert("315692097933047 is an invalid IMEi number");
 }     
 
 if (username=="phetsookay@gmail.com"){
