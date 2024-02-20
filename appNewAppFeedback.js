@@ -19,12 +19,12 @@ function feedBack(){
                 phoneImageLay= document.getElementById("imageLay")
                 phoneImage= document.getElementById("phoneImage")
       
-  if (username=="atasebeke@gmail.com"){
+  if (username=="atanoa@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/H/o/RHYzWX-d/sony-ericsson-t280i.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/Q/B/XoRZ7G-d/samsung-galaxy-j7-prime.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 3534220242305740</font><br/>  Model: T280i<br/>Brand: SONY ERICSSON<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
-        moreInfo.innerHTML=(" Brand: Sony Ericsson<br/>Model: T280i<br/>Model Name: T280i<br/> IMEI.info:<br/>Device type: Phone<br/>Design: Classic<br/>Released: May2008 r.<br/>SIM card size:Mini Sim - Regular ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351692097933047</font><br/>  Model: Galaxy J7 Prime (SM-G610F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-G610F/DS GOLD XFE<br/>Search Term: 351692097933047<br/>IMEI 1: 351692097933047<br/>IMEI 2: 351693097933045<br/>Serial Number:<font color=#ff0000> R58JA317H2N</font><br/>Model Desc: Samsung Galaxy J7 Prime/Galaxy On7 Prime<br/>Model Name: SM-G610F/DS<br/>Model Number: SM-G610FZDDXFE<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 16-10-2019<br/>Production location: Korea SEC<br/>Production Date: 16-10-2017<br/>Country: Botswana<br/>Carrier: Factory Unlocked");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
