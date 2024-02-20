@@ -29,6 +29,10 @@ function feedBack(){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
 }  
+ 
+  if (username=="atasebeke@gmail.com"){
+            window.location.href=("resultsSebeke35012.html");
+}     
 
 if (username=="phetsookay@gmail.com"){
             phoneImageLay.style.display=("block");
