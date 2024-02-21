@@ -21,10 +21,10 @@ function feedBack(){
       
   if (username=="atasebeke@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a04s.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-7-plus-r2.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350026555476606</font><br/>  Model: Galaxy A04S (SM-A047F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A047F/DS BLACK AFA<br/>Search Term: 350026555476606<br/>IMEI 1: 350026555476606<br/>Serial Number:<font color=#ff0000> R58W814WSCV</font><br/>Model Desc: Samsung Galaxy A04s<br/>Model Name: SM-A047F/DS<br/>Model Number: SM-A047FZKDAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 23-08-2025<br/>Production location: Korea SEC<br/>Production Date: 23-08-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked   ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 359174075348813</font><br/>  Model: iPhone 7 Plus (A1661)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=(" Operating System	iOS<br/>Chipset	Apple A10 Fusion APL1W24<br/>Number of CPU Cores	4<br/>RAM	2 GB<br/> Width	77.9 mm<br/>Height	158.2 mm<br/>Thickness	7.3 mm<br/>Weight	188.0 g<br/>DisplayType	RETINA<br/>Diagonal	5.5 inches<br/>Resolution	1080x1920 px<br/>Screen-to-body ratio	67.7 %<br/>Pixel density	401 ppi<br/>Colors	16M ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
