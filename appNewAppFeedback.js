@@ -47,8 +47,8 @@ if (username=="thuto2018th@gmail.com"){
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://www.imei.info/media/t/gsm-cache/u/Z/dd2mZE-d/huawei-p40-lite.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867594052185356</font><br/>  Model: P40 lite (JNY-LX1)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
-        moreInfo.innerHTML=(" Operating System	Android 10<br/>Chipset	Huawei HiSilicon KIRIN 810<br/>Number of CPU Cores	2<br/>RAM	6 GB<br/>Internal Memory	128 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	ARM Mali-G52 MP6<br/>GPU Cores	6<br/>GPU Clock	820.0 MHz<br/>Width	76.3 mm<br/>Height	159.2 mm<br/>Thickness	8.7 mm<br/>Weight	183.0 g<br/>DisplayType	LCD_IPS<br/>Diagonal	6.4 inches<br/>Resolution	1080x2310 px<br/>Screen-to-body ratio	83.5 %<br/>Pixel density	398 ppi<br/>Colors	16M ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867991056018411</font><br/>  Model:  P40 lite (JNY-LX1) <br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=(" Description Full: HUAWEI P40 lite 6GB+128GB Midnight Black Dual Card Open Market Ver. NEEU EU Standard<br/>Model Code: Jenny-L21A<br/>IMEI: 867991056018411<br/>S/N: <font color=#ff0000>EPHUT21309006341</font><br/>Item Code: 51095CJV<br/>Offer Code: OFFE00148682<br/>Country Code: +267<br/>Country Name: Botswana<br/>Warranty Status: Warranty Active<br/>Warranty Start:<br/>Warranty Expire: 2024/7/4 ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
