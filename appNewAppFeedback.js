@@ -27,8 +27,18 @@ function feedBack(){
         moreInfo.innerHTML=(" Description Full: HUAWEI Y6 Prime 2019 2GB+32GB Amber Brown Dual Card Open Market Ver. UK Charger<br/>Model Code: Madrid-L41A<br/>IMEI: 863930047060458<br/>S/N:<font color=ff0000> 5HR6R19A14014094</font><br/>Item Code: 51093KAB<br/>Offer Code: OFFE00083271<br/>Country Code: +267<br/>Country Name: Botswana<br/>Warranty Status: Out of Warranty<br/>Warranty Start:<br/>Warranty Expire: 2021/4/29 ");
         
         mainInfo.style.display=("block");
-        moreInfo.style.display=("block");}   
-
+        moreInfo.style.display=("block");
+  }   
+if (username=="atasebeke@gmail.com"){
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-7-plus-r2.jpg";
+    
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 863930047060458</font><br/>  Model: Y6 Prime 2019 (MRD-LX1F)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Operating System	iOS<br/>Chipset	Apple A10 Fusion APL1W24<br/>Number of CPU Cores	4<br/>RAM	2 GB<br/>Width	77.9 mm<br/>Height	158.2 mm<br/>Thickness	7.3 mm<br/>Weight	188.0 g<br/>DisplayType	RETINA<br/>Diagonal	5.5 inches<br/>Resolution	1080x1920 px<br/>Screen-to-body ratio	67.7 %<br/>Pixel density	401 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+  }   
 if (username=="phetsookay@gmail.com"){
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://www.imei.info/media/t/gsm-cache/k/O/MCpIfl-d/samsung-galaxy-a24.jpg";
