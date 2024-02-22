@@ -29,8 +29,6 @@ function signUpFirebase(){
 
 function signInFirebase(){
 
-   alert("App under scheduled maintenance");
-
     var firebaseConfig = {
       apiKey: "AIzaSyD09GeejzBofXCWBs_GBj8rDtIEDHd0O98",
       authDomain: "https://www.google.com",
