@@ -19,9 +19,15 @@ function feedBack(){
                 phoneImageLay= document.getElementById("imageLay")
                 phoneImage= document.getElementById("phoneImage")
       
-  if (username=="atasebeke@gmail.com"){
-            window.location.href=("resultsSebeke35002.html");
-}   
+  if (username=="atanoa@gmail.com	"){
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/S/v/CJAcGC-d/huawei-y6-prime-2019.jpg";
+    
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 863930047060458</font><br/>  Model: Y6 Prime 2019 (MRD-LX1F)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Description Full: HUAWEI Y6 Prime 2019 2GB+32GB Amber Brown Dual Card Open Market Ver. UK Charger<br/>Model Code: Madrid-L41A<br/>IMEI: 863930047060458<br/>S/N:<font color=ff0000> 5HR6R19A14014094</font><br/>Item Code: 51093KAB<br/>Offer Code: OFFE00083271<br/>Country Code: +267<br/>Country Name: Botswana<br/>Warranty Status: Out of Warranty<br/>Warranty Start:<br/>Warranty Expire: 2021/4/29 ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");}   
 
 if (username=="phetsookay@gmail.com"){
             phoneImageLay.style.display=("block");
