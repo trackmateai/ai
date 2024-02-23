@@ -19,8 +19,8 @@ function feedBack(){
                 phoneImageLay= document.getElementById("imageLay")
                 phoneImage= document.getElementById("phoneImage")
       
-  if (username=="atanoa@gmail.com	"){
-           alert("Invalid IMEi 357093536833019");
+  if (username=="maitumeloonamile@gmail.com"){
+           window.location.href=("resultsMaitumelo.html");
   }   
 if (username=="atasebeke@gmail.com"){
            window.location.href=("resultsSebeke35169.html");
