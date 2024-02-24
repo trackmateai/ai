@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
 /*------Login---------------------------------------------*/
 
 
-
+/*
 
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
-
+*/
 
 
 
