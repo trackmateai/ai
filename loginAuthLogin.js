@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
         clientID: 'YOUR_AUTH0_CLIENT_ID'
     });
 
-    document.getElementById('login-form').addEventListener('submit', function(event) {
+    document.getElementById('login').addEventListener('submit', function(event) {
         event.preventDefault();
         var email = document.getElementById('email').value;
         var password = document.getElementById('password').value;
