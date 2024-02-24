@@ -1,5 +1,5 @@
 
-function signUpAuth(){
+function getAuth(){
 
 document.addEventListener('DOMContentLoaded', function() {
     var webAuth = new auth0.WebAuth({
