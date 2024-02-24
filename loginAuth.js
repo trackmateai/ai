@@ -1,6 +1,6 @@
 
+function signUp(){
 
-/*
 document.addEventListener('DOMContentLoaded', function() {
     var webAuth = new auth0.WebAuth({
         domain: 'dev-sbc5r8exf2mefu6u.us.auth0.com',
@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
-*/
+}
 
 
 
