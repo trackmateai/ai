@@ -22,7 +22,7 @@ function feedBack(){
   if (username=="maitumeloonamile@gmail.com"){
            window.location.href=("resultsMaitumelo.html");
   }   
-if (username=="atasebeke@gmail.com"){
+if (username=="atanoa@gmail.com"){
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03-core.jpg";
     
