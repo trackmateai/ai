@@ -1,8 +1,8 @@
 
 document.addEventListener('DOMContentLoaded', function() {
     var webAuth = new auth0.WebAuth({
-        domain: 'YOUR_AUTH0_DOMAIN',
-        clientID: 'YOUR_AUTH0_CLIENT_ID'
+        domain: 'dev-sbc5r8exf2mefu6u.us.auth0.com',
+        clientID: 'n8iLnlRGG5CvJcBFB3UiDtRo1rvUXOd9'
     });
 
     document.getElementById('form').addEventListener('submit', function(event) {
