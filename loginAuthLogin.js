@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('form').addEventListener('submit', function(event) {
         event.preventDefault();
         var email = document.getElementById('email').value;
-        var password = document.getElementById('password').value;
+        var password = document.getElementById('passwordIn').value;
 
         var url = webAuth.client.buildAuthorizeUrl({
             clientID: 'n8iLnlRGG5CvJcBFB3UiDtRo1rvUXOd9',
