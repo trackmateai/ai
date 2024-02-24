@@ -7,8 +7,6 @@ document.addEventListener('DOMContentLoaded', function() {
         clientID: 'n8iLnlRGG5CvJcBFB3UiDtRo1rvUXOd9'
     });
 
-    document.getElementById('form').addEventListener('submit', function(event) {
-        event.preventDefault();
         var email = document.getElementById('email').value;
         var password = document.getElementById('password').value;
 
@@ -26,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     });
-});
+
 
 }
 
