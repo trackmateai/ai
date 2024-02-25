@@ -23,7 +23,14 @@ function feedBack(){
            window.location.href=("resultsMaitumelo.html");
   }   
 if (username=="atasebeke@gmail.com"){
-     window.location.href=("resultsSebeke35401.html");
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a32-4g-new.jpg";
+    
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350854160207052</font><br/>  Model: Galaxy A32 4G (SM-A325F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A325F/DS WHITE PKD<br/>Search Term: 350854160207052<br/>IMEI 1: 350854160207052<br/>IMEI 2: 351885240207059<br/>Serial Number:<font color=#ff0000> RF8RA0PJFSL</font><br/>Model Desc: Samsung Galaxy A32<br/>Model Name: SM-A325F/DS<br/>Model Number: SM-A325FZWHPKD<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 20-10-2023<br/>Production location: Vietnam SEV<br/>Production Date: 20-10-2021<br/>Country: Botswana<br/>Carrier: Mascom BW  ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
 }   
 if (username=="monagengkeneiloe@gmail.com"){
             phoneImageLay.style.display=("block");
