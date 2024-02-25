@@ -24,10 +24,10 @@ function feedBack(){
   }   
 if (username=="atasebeke@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a32-4g-new.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350854160207052</font><br/>  Model: Galaxy A32 4G (SM-A325F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A325F/DS WHITE PKD<br/>Search Term: 350854160207052<br/>IMEI 1: 350854160207052<br/>IMEI 2: 351885240207059<br/>Serial Number:<font color=#ff0000> RF8RA0PJFSL</font><br/>Model Desc: Samsung Galaxy A32<br/>Model Name: SM-A325F/DS<br/>Model Number: SM-A325FZWHPKD<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 20-10-2023<br/>Production location: Vietnam SEV<br/>Production Date: 20-10-2021<br/>Country: Botswana<br/>Carrier: Mascom BW  ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353045111065023</font><br/>  Model: iPhone 12 (A2402)<br/>Brand: APPLE <br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=("Operating System	iOS<br/>Chipset	Apple A14 Bionic<br/>Number of CPU Cores	6<br/>RAM	4 GB<br/>Width	71.5 mm<br/>Height	146.7 mm<br/>Thickness	7.4 mm<br/>Weight	164.0 g<br/> DisplayType	OLED<br/>Diagonal	6.1 inches<br/>Resolution	1170x2532 px<br/>Pixel density	457 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch<br/>BatteryCapacity	2775.0 mah<br/>Type	Li-Ion<br/>Removable battery	no<br/>Features	Qi wireless charging, Wireless reverse charging, USB PD 3.0 ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
