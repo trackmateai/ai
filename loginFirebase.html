@@ -2,7 +2,7 @@
 <head>                   
     <meta name="viewport" content="width=device-width">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-     <script src="loginFirebase.js"></script>
+    <script src='loginFirebase.js'>  </script>
     <link rel="stylesheet" href="loginFirebase.css"></head>
     
     <script src="https://www.gstatic.com/firebasejs/8.3.2/firebase-app.js"></script>
@@ -27,11 +27,11 @@
     
 	<p class="title">Login</p>
 	
-	<form class="form" id="form0">
+	<form class="form">
 	
 		<div class="input-group">
 			<label for="username">Username</label>
-			<input type="text" name="username" id="email" placeholder="">
+			<input type="text" name="username" id="username" placeholder="">
 		</div>
 		<div class="input-group">
 			<label for="password">Password</label>
@@ -40,7 +40,7 @@
 				<a rel="noopener noreferrer" href="#">Forgot Password ?</a>
 			</div>
 		</div>
-		<button class="sign" onClick="signInFirebase()">Sign in</button>
+		<button class="sign" type="button" onClick="signInFirebase()">Sign in</button>
 	</form>
 	
 	<div class="social-message">
