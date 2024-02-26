@@ -39,7 +39,7 @@ function signInFirebase(){
     };
     firebase.initializeApp(firebaseConfig);
     
-      var email = document.getElementById("email").value;
+      var email = document.getElementById("username").value;
       var password = document.getElementById("passwordIn").value;
 
       firebase.auth().signInWithEmailAndPassword(email, password)
