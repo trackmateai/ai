@@ -2,10 +2,9 @@
 <head>          
     <meta name="viewport" content="width=device-width">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="loginFirebase.js"></script>
-    <link rel="stylesheet" href="loginFirebase.css">
+    <script src='loginFirebase.js'>  </script>
+    <link rel="stylesheet" href="loginFirebase.css"></head>
     
-    <script src="https://cdn.auth0.com/js/auth0/9.11/auth0.min.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.3.2/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.3.2/firebase-auth.js"></script>
 
@@ -29,7 +28,7 @@
     
 	<p class="title">SignUp</p>
 	
-	<form class="form" id="form-sign">
+	<form class="form">
 	
 		<div class="input-group">
 			<label for="username">Email</label>
@@ -42,7 +41,7 @@
 				<a rel="noopener noreferrer" href="#"><u><font color=#00ee00>Privacy Policy</font></u></a>
 			</div>
 		</div>
-		<button class="sign" type="submit">SignUp</button>
+		<button class="sign" type="button" onClick="signUpFirebase()">SignUp</button>
 	</form>
 	
 	<div class="social-message">
