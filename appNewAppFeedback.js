@@ -45,6 +45,19 @@ function feedBack(){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
 }   
+
+    if (username=="76507189@gmail.com" ){
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a33-5g.jpg";
+    
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353722583519592</font><br/>  Model: Galaxy A33 5G (SM-A336E)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A336E/DSN BLACK AFA<br/>Search Term: 353722583519592<br/>IMEI 1: 353722583519592<br/>IMEI 2: 356787183519596<br/>Serial Number:<font color=#ff0000> RZCW118NDHK </font><br/>Model Desc: Samsung Galaxy A33 5G<br/>Model Name: SM-A336E/DSN<br/>Model Number: SM-A336EZKGAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 13-01-2025<br/>Production location: Brazil SEDA<br/>Production Date: 13-01-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked  ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+}   
+    
+
     
             
 }
