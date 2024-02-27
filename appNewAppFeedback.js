@@ -35,6 +35,16 @@ function feedBack(){
      window.location.href=("resultsGabriel35033.html");
 }   
 
+    if (username=="atasebeke@gmail.com" ){
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/h/D/c30ozb-d/huawei-y8s.jpg";
+    
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 867032041303020</font><br/>  Model: Y8s (JKM-LX1)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Description Full: HUAWEI Y8s 4GB+64GB Midnight Black Dual Card Open Market Ver. EU Charger<br/>Model Code: Jackman-L21MEX7<br/>IMEI: 867032041303020<br/>S/N:<font color=#ff0000> KWV6R20710003319 </font><br/>Item Code: 51095VHR<br/>Offer Code: OFFE00164858<br/>Country Code: +267<br/>Country Name: Botswana<br/>Warranty Status: Out of Warranty<br/>Warranty Start: loading...<br/>Warranty Expire: loading... ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+}   
     
             
 }
