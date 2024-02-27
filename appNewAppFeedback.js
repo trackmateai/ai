@@ -20,12 +20,12 @@ function feedBack(){
                 phoneImage= document.getElementById("phoneImage")
       
 
-    if (username=="atasebeke@gmail.com"){
+    if (username=="Thabochizwe81@gmail.com" || username=="thabochizwe81@gmail.com" ){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353045111065023</font><br/>  Model: iPhone 12 (A2402)<br/>Brand: APPLE <br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
-        moreInfo.innerHTML=("Operating System	iOS<br/>Chipset	Apple A14 Bionic<br/>Number of CPU Cores	6<br/>RAM	4 GB<br/>Width	71.5 mm<br/>Height	146.7 mm<br/>Thickness	7.4 mm<br/>Weight	164.0 g<br/> DisplayType	OLED<br/>Diagonal	6.1 inches<br/>Resolution	1170x2532 px<br/>Pixel density	457 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch<br/>BatteryCapacity	2775.0 mah<br/>Type	Li-Ion<br/>Removable battery	no<br/>Features	Qi wireless charging, Wireless reverse charging, USB PD 3.0 ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 357261098026989</font><br/>  Model:  iPhone Xs Max (A1921)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=(" Operating System	iOS<br/>Chipset	Apple A12 Bionic<br/>Number of CPU Cores	6<br/>RAM	4 GB<br/>Width	77.4 mm<br/>Height	157.5 mm<br/>Thickness	7.9 mm<br/>Weight	208.0 <br/>DisplayType	OLED<br/>Diagonal	6.5 inches<br/>Resolution	1242x2688 px<br/>Screen-to-body ratio	85.2 %<br/>Pixel density	458 ppi<br/>Colors	16M");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
