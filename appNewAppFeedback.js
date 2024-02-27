@@ -30,8 +30,11 @@ function feedBack(){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
 }   
+ if (username=="ogaatlale@gmail.com" ){
 
-    
+     window.location.href=("resultsGabriel35033.html");
+}   
+
     
             
 }
