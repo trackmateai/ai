@@ -32,7 +32,7 @@ function feedBack(){
 }   
  if (username=="76507189@gmail.com" ){
 
-     window.location.href=("results76507..html");
+     window.location.href=("results76507.html");
 }   
 
     if (username=="atasebeke@gmail.com" ){
