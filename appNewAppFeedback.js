@@ -30,9 +30,9 @@ function feedBack(){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
 }   
- if (username=="ogaatlale@gmail.com" ){
+ if (username=="76507189@gmail.com" ){
 
-     window.location.href=("resultsGabriel35033.html");
+     window.location.href=("results76507.html");
 }   
 
     if (username=="atasebeke@gmail.com" ){
