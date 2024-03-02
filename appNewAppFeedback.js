@@ -20,12 +20,12 @@ function feedBack(){
                 phoneImage= document.getElementById("phoneImage")
       
 
-    if (username=="Thabochizwe81@gmail.com" || username=="thabochizwe81@gmail.com" ){
+    if (username=="pascootsile@gmail.com" ){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/w/I/rjY9kh-d/huawei-y6s.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 357261098026989</font><br/>  Model:  iPhone Xs Max (A1921)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
-        moreInfo.innerHTML=(" Operating System	iOS<br/>Chipset	Apple A12 Bionic<br/>Number of CPU Cores	6<br/>RAM	4 GB<br/>Width	77.4 mm<br/>Height	157.5 mm<br/>Thickness	7.9 mm<br/>Weight	208.0 <br/>DisplayType	OLED<br/>Diagonal	6.5 inches<br/>Resolution	1242x2688 px<br/>Screen-to-body ratio	85.2 %<br/>Pixel density	458 ppi<br/>Colors	16M");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 868023046677699</font><br/>  Model: Y6s (JAT-L29)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Description Full: HUAWEI Y6s 3GB+64GB Orchid Blue Dual Card Open Market Ver. EU Charger<br/>Model Code: Jakarta-L29CHW<br/>IMEI: 868023046677699<br/>S/N:<font color=#ff0000> 9EHVB20307011986</font><br/>Item Code: 51095BEA-002<br/>Offer Code: OFFE00118607<br/>Warranty Status: Out of Warranty<br/>Warranty Start: refresh<br/>Warranty Expire: refresh ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
