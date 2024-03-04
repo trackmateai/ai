@@ -56,6 +56,17 @@ function feedBack(){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
 }   
+     if (username=="ramapulanakb@gmail.com" ){
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/b/R/3fT1J3-d/huawei-p-smart.jpg";
+    
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 865840037807214</font><br/>  IMEI.info: P Smart (FIG-LA1)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=(" Description Full: HUAWEI P smart 3GB+32GB Black Dual Card Open Market Ver. UK Charger<br/>Operating System	Android 8.0 Oreo<br/>Chipset	Huawei HiSilicon KIRIN 659<br/>Number of CPU Cores	4<br/>RAM	3 GB<br/>Model Code: Figo-L21<br/>IMEI: 865840037807214<br/>S/N:<font color=#ff0000> 35P4C18322012303</font><br/>Item Code: 51092CTX<br/>Offer Code: OFFE00044286<br/>Warranty Status: Out of Warranty  ");
+        
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+}   
+
     
             
 }
