@@ -35,6 +35,12 @@ function feedBack(){
      window.location.href=("resultsMaitumelo.html");
 }   
 
+if (username=="onicamaphane99@gmail.com" ){
+
+     window.location.href=("resultsOnica.html");
+}
+
+    
     if (username=="seizsoka5694@gmail.com" ){
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://www.imei.info/media/t/gsm-cache/Q/9/B5fkgh-d/samsung-galaxy-a04e.jpg";
