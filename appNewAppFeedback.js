@@ -40,6 +40,10 @@ if (username=="onicamaphane99@gmail.com" ){
      window.location.href=("resultsOnica.html");
 }
 
+if (username=="twinteckmedia@gmail.com" ){
+
+     window.location.href=("resultsTwinteck.html");
+}
     
     if (username=="seizsoka5694@gmail.com" ){
             phoneImageLay.style.display=("block");
