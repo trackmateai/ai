@@ -35,12 +35,12 @@ function feedBack(){
      window.location.href=("resultsMaitumelo.html");
 }   
 
-    if (username=="atasebeke@gmail.com" ){
+    if (username=="seizsoka5694@gmail.com" ){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/u/q/eWfmn6-d/huawei-nova-y70.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/Q/9/B5fkgh-d/samsung-galaxy-a04e.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 860285061077463</font><br/>  Model: Nova Y70 (MGA-LX9)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Description Full: HUAWEI nova Y70 4GB+128GB Midnight Black Dual Card Open Market Ver. UK charger<br/>Model Code: Mega-L29B<br/>IMEI: 860285061077463<br/>S/N: <font color=#ff0000>KDSBB22610206480</font><br/>Item Code: 51096YTN<br/>Offer Code: OFFE00418304<br/>Warranty Status: Out of Warranty<br/>Warranty Start: refreshing...<br/>Warranty Expire: refreshing...  ");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350128817244093</font><br/>  Model: Galaxy A04e (SM-A042F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A042F/DS LIGHT BLUE AFA<br/>Search Term: 350128817244093<br/>IMEI 1: 350128817244093<br/>Serial Number:<font color=#ff0000> R83W709ER9X</font><br/>Model Desc: Samsung A04e<br/>Model Name: SM-A042F/DS<br/>Model Number: SM-A042FLBDAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 11-07-2025<br/>Production location: Korea SEC<br/>Production Date: 11-07-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked  ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
