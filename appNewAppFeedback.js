@@ -20,12 +20,12 @@ function feedBack(){
                 phoneImage= document.getElementById("phoneImage")
       
 
-    if (username=="pascootsile@gmail.com" ){
+    if (username=="thuto2018th@gmail.com" ){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/w/I/rjY9kh-d/huawei-y6s.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a04s.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 868023046677699</font><br/>  Model: Y6s (JAT-L29)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Description Full: HUAWEI Y6s 3GB+64GB Orchid Blue Dual Card Open Market Ver. EU Charger<br/>Model Code: Jakarta-L29CHW<br/>IMEI: 868023046677699<br/>S/N:<font color=#ff0000> 9EHVB20307011986</font><br/>Item Code: 51095BEA-002<br/>Offer Code: OFFE00118607<br/>Warranty Status: Out of Warranty<br/>Warranty Start: refresh<br/>Warranty Expire: refresh ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350026555862276</font><br/>  Model: Galaxy A04S (SM-A047F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A047F/DS BLACK MEA<br/>Search Term: 350026555862276<br/>IMEI 1: 350026555862276<br/>Serial Number:<font color=#ff0000> R58W90Z6NNZ</font><br/>Model Desc: Samsung Galaxy A04s<br/>Model Name: SM-A047F/DS<br/>Model Number: SM-A047FZKDMEA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 20-09-2025<br/>Production location: Korea SEC<br/>Production Date: 20-09-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
