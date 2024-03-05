@@ -56,12 +56,12 @@ if (username=="twinteckmedia@gmail.com" ){
         moreInfo.style.display=("block");
 }   
     
- if (username=="onicamaphane99@gmail.com" ){
+ if (username=="Disebotlalo@gmail.com" || username=="disebotlalo@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/v/Y/OLNPUH-d/xiaomi-redmi-note-11e-pro.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 860555066930647</font><br/>  Model: Redmi Note 11E Pro (2201117TG)br/>Brand: XIAOMI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Model: Redmi Note 11 Graphite Gray 4GB RAM 128GB ROM<br/>IMEI: 860555066930647<br/>Brand: Redmi<br/>Model: 2201117TG<br/>Model Name: Note 11<br/>Purchase Country: South Africa<br/>Shipping date: 2022-04-27 14:40:28<br/>Activation date: 2022-09-03 18:35:31 ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351957188817916</font><br/>  Model: iPhone 11 (A2221) <br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Operating System	iOS<br/>Chipset	Apple A13 Bionic<br/>Number of CPU Cores	6<br/>RAM	4 GB<br/>Width	75.7 mm<br/>Height	150.9 mm<br/>Thickness	8.3 mm<br/>Weight	194.0 g<br/>DisplayType	LCD_IPS<br/>Diagonal	6.1 inches<br/>Resolution	828x1792 px<br/>Screen-to-body ratio	80.1 %<br/>Pixel density	324 ppi<br/>Colors	16M");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
