@@ -1,6 +1,8 @@
 body
 {
-   background: #000000;
+    background-image: url("https://media.istockphoto.com/id/1196497566/video/imitation-of-an-old-film-overlay-for-the-frame-on-a-black-background-with-fibers-and-grain-hd.jpg?s=640x640&k=20&c=DCVv69IE5bOMDt6-3J2R_Kr6BuMOMmT9g0wHgA0oKQ8=");
+    background-repeat: no-repeat; 
+  background-size: cover;
 }
 
 
