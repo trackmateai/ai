@@ -5,8 +5,9 @@
      color: gray;
      font-size: 23px;
      font-family: 'Aboreto', cursive;
-     margin-top: 1%;
+     margin-top: -3%;
      margin-left: 4%;
+     z-index: 9999999;
  }
 
 
