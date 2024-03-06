@@ -66,12 +66,12 @@ if (username=="twinteckmedia@gmail.com" ){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
 }   
-     if (username=="ramapulanakb@gmail.com" ){
+     if (username=="segotsoreuben@gmail.com" ){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/b/R/3fT1J3-d/huawei-p-smart.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03-core.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 865840037807214</font><br/>  IMEI.info: P Smart (FIG-LA1)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
-        moreInfo.innerHTML=(" Description Full: HUAWEI P smart 3GB+32GB Black Dual Card Open Market Ver. UK Charger<br/>Operating System	Android 8.0 Oreo<br/>Chipset	Huawei HiSilicon KIRIN 659<br/>Number of CPU Cores	4<br/>RAM	3 GB<br/>Model Code: Figo-L21<br/>IMEI: 865840037807214<br/>S/N:<font color=#ff0000> 35P4C18322012303</font><br/>Item Code: 51092CTX<br/>Offer Code: OFFE00044286<br/>Warranty Status: Out of Warranty  ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352607841345172</font><br/>Model: Galaxy A03 Core (SM-A032F)br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A032F/DS CERAMIC BLACK AFC<br/>Search Term: 352607841345172<br/>IMEI 1: 352607841345172<br/>Serial Number:<font color=#ff0000> R7AW5021J3H</font><br/>Model Desc: Samsung Galaxy A03 Core<br/>Model Name: SM-A032F/DS<br/>Model Number: SM-A032FCKDAFC<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 21-05-2025<br/>Production location: Korea SEC<br/>Production Date: 21-05-2023  ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
