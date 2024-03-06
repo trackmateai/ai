@@ -35,9 +35,9 @@ function feedBack(){
      window.location.href=("resultsMaitumelo.html");
 }   
 
-if (username=="onicamaphane99@gmail.com" ){
+if (username=="atasebeke@gmail.com" ){
 
-     window.location.href=("resultsOnica.html");
+     window.location.href=("resultsSebeke35619.html");
 }
 
 if (username=="twinteckmedia@gmail.com" ){
