@@ -20,12 +20,12 @@ function feedBack(){
                 phoneImage= document.getElementById("phoneImage")
       
 
-    if (username=="thuto2018th@gmail.com" ){
+    if (username=="ashrafprofessor30@gmail.com" ){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a04s.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350026555862276</font><br/>  Model: Galaxy A04S (SM-A047F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A047F/DS BLACK MEA<br/>Search Term: 350026555862276<br/>IMEI 1: 350026555862276<br/>Serial Number:<font color=#ff0000> R58W90Z6NNZ</font><br/>Model Desc: Samsung Galaxy A04s<br/>Model Name: SM-A047F/DS<br/>Model Number: SM-A047FZKDMEA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 20-09-2025<br/>Production location: Korea SEC<br/>Production Date: 20-09-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked ");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352922115177148</font><br/>  Model: iPhone 11 (A2221)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Operating System	iOS<br/>Chipset	Apple A13 Bionic<br/>Number of CPU Cores	6<br/>RAM	4 GB<br/>DisplayType	LCD_IPS<br/>Diagonal	6.1 inches<br/>Resolution	828x1792 px<br/>Screen-to-body ratio	80.1 %<br/>Pixel density	324 ppi<br/>Colors	16M ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
