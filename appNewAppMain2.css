@@ -23,8 +23,8 @@
   align-items: center;
   width: 98%;
   height: 7%;
-  position: relative;/*
-  margin-top: -50%;*/
+  position: relative;
+  margin-top: -10%;
 }
 /* a fancy bg for showing background and border when focus. */
 .fancy-bg {
