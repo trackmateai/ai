@@ -46,8 +46,10 @@ function signInFirebase(){
 
       firebase.auth().signInWithEmailAndPassword(email, password)
         .then(function(user) {
-          
-          window.location.href=("https://trackmateai.github.io/ai/appNewAppMain.html");
+
+          alert("App Under Maintenance,Please try again later");
+              
+          //window.location.href=("https://trackmateai.github.io/ai/appNewAppMain.html");
           
         })
         .catch(function(error) {
