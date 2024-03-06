@@ -56,12 +56,12 @@ if (username=="twinteckmedia@gmail.com" ){
         moreInfo.style.display=("block");
 }   
     
- if (username=="Disebotlalo@gmail.com" || username=="disebotlalo@gmail.com"){
+ if (username=="laefmo15@gmail.com"){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351957188817916</font><br/>  Model: iPhone 11 (A2221) <br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Operating System	iOS<br/>Chipset	Apple A13 Bionic<br/>Number of CPU Cores	6<br/>RAM	4 GB<br/>Width	75.7 mm<br/>Height	150.9 mm<br/>Thickness	8.3 mm<br/>Weight	194.0 g<br/>DisplayType	LCD_IPS<br/>Diagonal	6.1 inches<br/>Resolution	828x1792 px<br/>Screen-to-body ratio	80.1 %<br/>Pixel density	324 ppi<br/>Colors	16M");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355786376148800</font><br/>  Model: iPhone 13 Pro (A2638)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" IMEI: 355786376148800<br/>Model Region: Global<br/>Activation Status: <font color=#00ee00>Activated</font><br/>Warranty Status: Coverage Expired<br/>Coverage Start Date: Dec 2021<br/>Estimated Purchase Date: Dec 2021<br/>AppleCare Eligible: No<br/>Valid Purchase Date: Yes<br/>Registered Device: Yes<br/>Replaced Device: No<br/>Loaner Device: No<br/>IMEI2: 3557863762**309<br/>Serial Number:<font color=#ff0000> W44RYLXW64</font><br/>Estimated Purchase Date: 20 Dec 2021<br/>Carrier: This device is <font color=#00ee00>UNLOCKED</font><br/>Next Tether Policy: 10<br/>Sim-Lock: Unlocked<br/>Find My iPhone: ON");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
