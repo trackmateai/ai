@@ -25,7 +25,7 @@
   height: 7%;
   position: relative;
   margin-top: -6%;
-  margin-left: 1px;
+  margin-left: -2px;
 }
 /* a fancy bg for showing background and border when focus. */
 .fancy-bg {
@@ -136,7 +136,7 @@ input:-webkit-autofill:active {
 
  .mapDiv{
   position: relative;
-  top: 1px;
+  top: 2%;
   width: 108%;
   height: 200px;
   left: -5%;
