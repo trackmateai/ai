@@ -136,7 +136,7 @@ input:-webkit-autofill:active {
 
  .mapDiv{
   position: relative;
-  margin-top: 3%;
+  margin-top: 1.5%;
   width: 108%;
   height: 200px;
   left: -5%;
@@ -175,6 +175,7 @@ input:-webkit-autofill:active {
     background: #00ee00;
     z-index: 9999999999;
     border-radius: 20px;
+    margin-top: 2%;
 }
 
 
