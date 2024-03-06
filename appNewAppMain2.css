@@ -131,16 +131,6 @@ input:-webkit-autofill:active {
 
 
 
- .titleNew{
-     position: relative;
-     color: gray;
-     font-size: 23px;
-     font-family: 'Aboreto', cursive;
-     margin-top: -3%;
-     margin-left: 1%;
-     z-index: 9999999;
- }
-
 
 
  .mapDiv{
@@ -203,7 +193,7 @@ input:-webkit-autofill:active {
   /*height: 100px;*/
   /*border: 6px solid #000000;
   border-radius: 100px;*/
-  padding-left: 10%;
+  padding-left: 15%;
   padding-top: 7%;
 }
 
