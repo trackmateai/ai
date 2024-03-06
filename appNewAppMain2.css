@@ -1,5 +1,16 @@
 
 
+ .titleNew{
+     position: relative;
+     color: gray;
+     font-size: 23px;
+     font-family: 'Aboreto', cursive;
+     margin-top: 10%;
+     margin-left: 4%;
+ }
+
+
+
  .mapDiv{
   position: relative;
   top: -10px;
