@@ -35,13 +35,13 @@ function feedBack(){
      window.location.href=("resultsMaitumelo.html");
 }   
 
-if (username=="atasebeke@gmail.com" ){
+if (username=="thuto2018th@gmail.com" ){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/Q/9/B5fkgh-d/samsung-galaxy-a04e.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a04s.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351778739585665</font><br/>  Model: Galaxy A04e (SM-A042F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("  Model Info: MOBILE SM-A042F/DS LIGHT BLUE SKZ<br/>Search Term: 351778739585665<br/>IMEI 1: 351778739585665<br/>Serial Number:<font color=#ff0000> R8YTB1ERYDP</font><br/>Model Desc: Samsung A04e<br/>Model Name: SM-A042F/DS<br/>Model Number: SM-A042FLBDSKZ<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 01-12-2024<br/>Production location: Korea SEC<br/>Production Date: 01-12-2022");
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350026555862276</font><br/>  Model: Galaxy A04S (SM-A047F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana  ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A047F/DS BLACK MEA<br/>Search Term: 350026555862276<br/>IMEI 1: 350026555862276<br/>Serial Number:<font color=#ff0000> R58W90Z6NNZ</font><br/>Model Desc: Samsung / SM-A047F/DS / Galaxy A04s<br/>Model Name: SM-A047F/DS<br/>Model Number: SM-A047FZKDMEA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 20-09-2025<br/>Production location: Korea SEC<br/>Production Date: 20-09-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked  ");
         
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
