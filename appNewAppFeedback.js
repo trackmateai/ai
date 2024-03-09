@@ -73,16 +73,10 @@ if (username=="twinteckmedia@gmail.com" ){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
 }   
-     if (username=="segotsoreuben@gmail.com" ){
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03-core.jpg";
-    
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352607841345172</font><br/>Model: Galaxy A03 Core (SM-A032F)br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A032F/DS CERAMIC BLACK AFC<br/>Search Term: 352607841345172<br/>IMEI 1: 352607841345172<br/>Serial Number:<font color=#ff0000> R7AW5021J3H</font><br/>Model Desc: Samsung Galaxy A03 Core<br/>Model Name: SM-A032F/DS<br/>Model Number: SM-A032FCKDAFC<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 21-05-2025<br/>Production location: Korea SEC<br/>Production Date: 21-05-2023  ");
-        
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
-}   
+     if (username=="Ramapulanakb@GMAIL.COM" || username=="ramapulanakb@gmail.Ccom" ){
+     
+          alert("770098105471230 is an invalid IMEi number");
+     }   
 
     
             
