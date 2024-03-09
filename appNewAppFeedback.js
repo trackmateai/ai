@@ -34,7 +34,10 @@ function feedBack(){
 
      window.location.href=("resultsMaitumelo.html");
 }   
+if (username=="atasebeke@gmail.com" ){
 
+            alert("Please check the IMEI number you entered,it has not passed our validation check");
+}
 if (username=="thuto2018th@gmail.com" ){
 
             window.location.href=("resultsThuto35002.html");
