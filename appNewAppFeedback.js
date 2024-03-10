@@ -22,10 +22,10 @@ function feedBack(){
 
     if (username=="ashrafprofessor30@gmail.com" ){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m13.jpg";
+            phoneImage.src = "https://imei.net/phone-images/t/gsm-cache/0/i/OjHiaD-d.jpg";
     
-        mainInfo.innerHTML=("  STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 352397454696174</font><br/>  Model: Galaxy M13 (SM-M135FU)br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-M135FU/DS INS<br/>Search Term: 352397454696174<br/>IMEI 1: 352397454696174<br/>IMEI 2: 353455424696176<br/>Serial Number:<font color=#ff0000> RZ8T714F6VZ</font><br/>Model Desc: Samsung Galaxy M13<br/>Model Name: SM-M135FU/DS<br/>Model Number: SM-M135FDBPINS<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 20-07-2024<br/>Production location: Brazil SEDA<br/>Production Date: 20-07-2022<br/>Country: Botswana<br/>Carrier: Factory Unlocked  ");        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355134571999026</font><br/>  Model: Camon 20<br/>Brand:  TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Width	74.4 mm<br/>Height	166.6 mm<br/>Thickness	8.3 mm<br/>DisplayType	LCD_IPS<br/>Diagonal	6.8 inches<br/>Resolution	1080x2460 px<br/>Pixel density	395 ppi<br/>Other display Features	Capacitive, Multi-touch, 2.5D curved glass screen<br/>  ");        
 
     mainInfo.style.display=("block");
         moreInfo.style.display=("block");
