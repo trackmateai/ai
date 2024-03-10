@@ -36,7 +36,7 @@ function feedBack(){
 }   
 if (username=="atasebeke@gmail.com" ){
 
-            alert("Please check the IMEI number you entered,it has not passed our validation check");
+            alert("Please check the IMEI number(355207113621572) you entered,it has not passed our validation check");
 }
 if (username=="thuto2018th@gmail.com" ){
 
