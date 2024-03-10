@@ -40,12 +40,14 @@ if (username=="atasebeke@gmail.com" ){
 }
 if (username=="thuto2018th@gmail.com" ){
 
-            window.location.href=("resultsThuto35002.html");
-}
-
-if (username=="twinteckmedia@gmail.com" ){
-
-     window.location.href=("resultsTwinteck.html");
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/C/B/EphI4Q-d/huawei-y5p.jpg";
+    
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 868470040223428</font><br/>  Model:  Y5p (DRA-LX9)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Operating System	Android 10<br/>Chipset	MediaTek Helio P22 (MT6762R)<br/>Number of CPU Cores	4<br/>RAM	2 GB<br/>Internal Memory	32 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	PowerVR GE8320<br/>Width	70.94 mm<br/>Height	146.5 mm<br/>Thickness	8.35 mm<br/>Weight	144.0 g<br/> DisplayType	LCD_IPS<br/>Diagonal	5.45 inches<br/>Resolution	720x1440 px<br/>Screen-to-body ratio	73.8 %<br/>Pixel density	276 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, 2.5D curved glass screen");        
+     
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
 }
     
     if (username=="Tshepogars@gmail.com" || username=="tshepogars@gmail.com" ){
