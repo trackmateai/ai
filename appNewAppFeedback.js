@@ -35,13 +35,13 @@ function feedBack(){
      window.location.href=("resultsMaitumelo.html");
 }   
 
-if (username=="thuto2018th@gmail.com" ){
+if (username=="atasebeke@gmail.com" ){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/C/B/EphI4Q-d/huawei-y5p.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 868470040223428</font><br/>  Model:  Y5p (DRA-LX9)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Operating System	Android 10<br/>Chipset	MediaTek Helio P22 (MT6762R)<br/>Number of CPU Cores	4<br/>RAM	2 GB<br/>Internal Memory	32 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	PowerVR GE8320<br/>Width	70.94 mm<br/>Height	146.5 mm<br/>Thickness	8.35 mm<br/>Weight	144.0 g<br/> DisplayType	LCD_IPS<br/>Diagonal	5.45 inches<br/>Resolution	720x1440 px<br/>Screen-to-body ratio	73.8 %<br/>Pixel density	276 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, 2.5D curved glass screen");        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356720119340712</font><br/>  Model: iPhone 12 Pro Max (A2410)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Operating System	iOS<br/>Chipset	Apple A14 Bionic<br/>RAM	6 GB<br/>Width	78.09 mm<br/>Height	160.84 mm<br/>Thickness	7.39 mm<br/>Weight	228.0 g<br/>DisplayType	OLED<br/>Diagonal	6.7 inches<br/>Resolution	1824x2778 px<br/>Pixel density	496 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, Scratch resistant ");        
      
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
