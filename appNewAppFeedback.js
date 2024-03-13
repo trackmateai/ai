@@ -38,10 +38,10 @@ function feedBack(){
 if (username=="atasebeke@gmail.com" ){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-a7-lite.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356720119340712</font><br/>  Model: iPhone 12 Pro Max (A2410)<br/>Brand: APPLE<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Operating System	iOS<br/>Chipset	Apple A14 Bionic<br/>RAM	6 GB<br/>Width	78.09 mm<br/>Height	160.84 mm<br/>Thickness	7.39 mm<br/>Weight	228.0 g<br/>DisplayType	OLED<br/>Diagonal	6.7 inches<br/>Resolution	1824x2778 px<br/>Pixel density	496 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, Scratch resistant ");        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353415702433288</font><br/>  Model: Galaxy Tab A7 Lite (SM-T225N)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-T225N GRAY AFA<br/>Search Term: 353415702433288<br/>IMEI 1: 353415702433288<br/>Serial Number:<font color=#ff0000> R9PRA04G3KK</font><br/>Model Desc: Samsung / SM-T225N / Galaxy Tab A7 Lite<br/>Model Name: SM-T225N<br/>Model Number: SM-T225NZALAFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 15-10-2023<br/>Production location: Korea SEC<br/>Production Date: 15-10-2021<br/>Country: Botswana<br/>Carrier: Factory Unlocked ");        
      
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
