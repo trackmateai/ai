@@ -29,7 +29,8 @@ function signUpFirebase(){
 
 function signInFirebase(){
 
-
+    
+    
     var firebaseConfig = {
       apiKey: "AIzaSyD09GeejzBofXCWBs_GBj8rDtIEDHd0O98",
       authDomain: "https://www.google.com",
@@ -47,6 +48,7 @@ function signInFirebase(){
         .then(function(user) {
 
           window.location.href=("https://trackmateai.github.io/ai/appNewAppMain.html");
+            alert("App Migration scheduled in the next 48hrs,all Premium Users adviced to migrate their metadata. Refer on app inbox");
           
         })
         .catch(function(error) {
