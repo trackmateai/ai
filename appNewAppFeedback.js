@@ -30,18 +30,14 @@ function feedBack(){
     mainInfo.style.display=("block");
         moreInfo.style.display=("block");
 }   
- if (username=="maitumeloonamile@gmail.com" ){
 
-     window.location.href=("resultsMaitumelo.html");
-}   
-
-if (username=="atasebeke@gmail.com" ){
+if (username=="wizzy.kellyink@gmail.com" ){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-a7-lite.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/k/O/MCpIfl-d/samsung-galaxy-a24.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353415702433288</font><br/>  Model: Galaxy Tab A7 Lite (SM-T225N)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-T225N GRAY AFA<br/>Search Term: 353415702433288<br/>IMEI 1: 353415702433288<br/>Serial Number:<font color=#ff0000> R9PRA04G3KK</font><br/>Model Desc: Samsung / SM-T225N / Galaxy Tab A7 Lite<br/>Model Name: SM-T225N<br/>Model Number: SM-T225NZALAFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 15-10-2023<br/>Production location: Korea SEC<br/>Production Date: 15-10-2021<br/>Country: Botswana<br/>Carrier: Factory Unlocked ");        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354916446334699</font><br/>  Model: Galaxy A24 (SM-A245F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A245F/DSN BLACK AFA<br/>Search Term: 354916446334699<br/>IMEI 1: 354916446334699<br/>Serial Number:<font color=#ff0000> RZ8W503Q2RF</font><br/>Model Desc: Samsung Korea / SM-A245F/DSN / Galaxy A24<br/>Model Name: SM-A245F/DSN<br/>Model Number: SM-A245FZKUAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 25-07-2026<br/>Production location: Brazil SEDA<br/>Estimated Production Date: 25-07-2024<br/>Country: Botswana<br/>Carrier: Factory Unlocked ");        
      
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
