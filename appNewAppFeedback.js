@@ -20,12 +20,12 @@ function feedBack(){
                 phoneImage= document.getElementById("phoneImage")
       
 
-    if (username=="ashrafprofessor30@gmail.com" ){
+    if (username=="	seizsoka5694@gmail.com" ){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://imei.net/phone-images/t/gsm-cache/0/i/OjHiaD-d.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a12-sm-a125.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355134571999026</font><br/>  Model: Camon 20<br/>Brand:  TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Width	74.4 mm<br/>Height	166.6 mm<br/>Thickness	8.3 mm<br/>DisplayType	LCD_IPS<br/>Diagonal	6.8 inches<br/>Resolution	1080x2460 px<br/>Pixel density	395 ppi<br/>Other display Features	Capacitive, Multi-touch, 2.5D curved glass screen<br/>  ");        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351886697213285</font><br/>  Model: Galaxy A12 (SM-A127F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A127F/DS BLUE AFA<br/>Search Term: 351886697213285<br/>IMEI 1: 351886697213285<br/>IMEI 2: 358434337213283<br/>Serial Number:<font color=#ff0000> RZ8R90F7JXE</font><br/>Model Desc: Samsung / SM-A127F/DS / Galaxy A12<br/>Model Name: SM-A127F/DS<br/>Model Number: SM-A127FZBGAFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 07-09-2023<br/>Production location: Brazil SEDA<br/>Production Date: 07-09-2021<br/>Country: Botswana<br/>Carrier: Factory Unlocked ");        
 
     mainInfo.style.display=("block");
         moreInfo.style.display=("block");
