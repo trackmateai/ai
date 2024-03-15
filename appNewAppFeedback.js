@@ -55,6 +55,20 @@ if (username=="pascootsile@gmail.com" ){
         moreInfo.style.display=("block");
 }   
 
+     if (username=="peloyankwetlhalefang@gmail.com"){
+            
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://imei.net/phone-images/t/gsm-cache/S/v/CJAcGC-d.jpg";
+    
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 861178047006293</font><br/>  Model: Y6 Prime 2019 (MRD-LX1F)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Operating System	Android 9.0 Pie<br/>Chipset	MediaTek Helio A22 (MT6761)<br/>Number of CPU Cores	4<br/>RAM	2 GB<br/>Internal Memory	32 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	PowerVR GE8300<br/>Width	73.5 mm<br/>Height	156.28 mm<br/>Thickness	8.0 mm<br/>Weight	150.0 g<br/>DisplayType	LCD_IPS<br/>Diagonal	6.09 inches<br/>Resolution	720x1560 px<br/>Screen-to-body ratio	79.2 %<br/>Pixel density	282 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch ");        
+     
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+}   
+
+
+
     
             
 }
