@@ -20,12 +20,12 @@ function feedBack(){
                 phoneImage= document.getElementById("phoneImage")
       
 
-    if (username=="	seizsoka5694@gmail.com" ){
+    if (username=="thuto2018th@gmail.com" ){
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a12-sm-a125.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a04.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351886697213285</font><br/>  Model: Galaxy A12 (SM-A127F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A127F/DS BLUE AFA<br/>Search Term: 351886697213285<br/>IMEI 1: 351886697213285<br/>IMEI 2: 358434337213283<br/>Serial Number:<font color=#ff0000> RZ8R90F7JXE</font><br/>Model Desc: Samsung / SM-A127F/DS / Galaxy A12<br/>Model Name: SM-A127F/DS<br/>Model Number: SM-A127FZBGAFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 07-09-2023<br/>Production location: Brazil SEDA<br/>Production Date: 07-09-2021<br/>Country: Botswana<br/>Carrier: Factory Unlocked ");        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353503966872174</font><br/>  Model: Galaxy A04 (SM-A045F)br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A045F/DS BLACK AFA<br/>Search Term: 353503966872174<br/>IMEI 1: 353503966872174<br/>Serial Number:<font color=#ff0000> R9DW803YL2N</font><br/>Model Desc: Samsung / SM-A045F/DS / Galaxy A04<br/>Model Name: SM-A045F/DS<br/>Model Number: SM-A045FZKDAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 30-08-2025<br/>Production location: Korea SEC<br/>Production Date: 30-08-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked  ");        
 
     mainInfo.style.display=("block");
         moreInfo.style.display=("block");
