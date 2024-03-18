@@ -48,13 +48,13 @@ if (username=="pascootsile@gmail.com" ){
            alert("35843433713283 is an invalid IMEi");
 }   
 
-     if (username=="peloyankwetlhalefang@gmail.com"){
+     if (username=="Ramapulabakb@GMAIL.COM"){
             
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-10t-.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/E/K/o6pMOm-d/huawei-nova-y61.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356329354944947</font><br/>  Model: Hot 10Tbr/>Brand: INFINIX<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Operating System	Android 11<br/>Chipset	MediaTek Helio G70<br/>Number of CPU Cores	2<br/>RAM	4 GB<br/>Internal Memory	128 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	ARM Mali-G52 2EEMC2<br/>GPU Clock	820.0 MHz<br/>DisplayType	LCD_IPS<br/>Diagonal	6.82 inches<br/>Resolution	720x1640 px<br/>Screen-to-body ratio	83.1 %<br/>Pixel density	263 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, 2.5D curved glass screen");        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 862134064540895</font><br/>  Model: Nova Y61 (EVE-LX9)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Operating System	Android 12<br/>Chipset	Huawei HiSilicon KIRIN 710<br/>Number of CPU Cores	4<br/>RAM	4 GB<br/>Width	75.8 mm<br/>Height	164.28 mm<br/>Thickness	8.94 mm<br/>Weight	188.0 g<br/>DisplayType	LCD_IPS<br/>Diagonal	6.52 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	82.4 %<br/>Pixel density	269 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch");        
      
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
