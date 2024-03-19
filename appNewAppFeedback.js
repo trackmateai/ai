@@ -43,9 +43,9 @@ if (username=="pascootsile@gmail.com" ){
         moreInfo.style.display=("block");
 }
     
-    if (username=="seizsoka5694@gmail.com"){
+    if (username=="Ksmosime@gmail.com"){
             
-           alert("35843433713283 is an invalid IMEi");
+           window.location.href=("resultsKsmosime.html");
 }   
 
      if (username=="Ramapulabakb@GMAIL.COM"){
