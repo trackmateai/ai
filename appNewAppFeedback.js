@@ -27,7 +27,7 @@ function feedBack(){
         mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 353503966872174</font><br/>  Model: Galaxy A04 (SM-A045F)br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
         moreInfo.innerHTML=("Model Info: MOBILE SM-A045F/DS BLACK AFA<br/>Search Term: 353503966872174<br/>IMEI 1: 353503966872174<br/>Serial Number:<font color=#ff0000> R9DW803YL2N</font><br/>Model Desc: Samsung / SM-A045F/DS / Galaxy A04<br/>Model Name: SM-A045F/DS<br/>Model Number: SM-A045FZKDAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 30-08-2025<br/>Production location: Korea SEC<br/>Production Date: 30-08-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked  ");        
 
-    mainInfo.style.display=("block");
+        mainInfo.style.display=("block");
         moreInfo.style.display=("block");
 }   
 
@@ -59,13 +59,13 @@ if (username=="pascootsile@gmail.com" ){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
 }   
- if (username=="thuto2018th@gmail.com"){
-            
+ if (username=="atasebeke@gmail.com	"){
+        
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/Q/9/B5fkgh-d/samsung-galaxy-a04e.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/k/O/MCpIfl-d/samsung-galaxy-a24.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 356742913115041</font><br/>  Model: Galaxy A04e (SM-A042F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A042F/DS BLACK AFA<br/>Search Term: 356742913115041<br/>IMEI 1: 356742913115041<br/>Serial Number:<font color=#ff0000> R8YWB0GLMVD</font><br/>Model Desc: A04e<br/>Model Name: SM-A042F/DS<br/>Model Number: SM-A042FZKDAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 07-11-2025<br/>Production location: Korea SEC<br/>Production Date: 07-11-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked");
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354916447289918</font><br/>  Model: Galaxy A24 (SM-A245F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=(" Model Info: MOBILE SM-A245F/DSN AFA<br/>Search Term: 354916447289918<br/>IMEI 1: 354916447289918<br/>Serial Number:<font color=#ff0000> RZ8W604QXDT</font><br/>Model Desc: Galaxy A24<br/>Model Name: SM-A245F/DSN<br/>Model Number: SM-A245FLGUAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 09-06-2025<br/>Production location: Brazil SEDA<br/>Production Date: 09-06-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked");
      
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
