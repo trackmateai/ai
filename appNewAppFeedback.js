@@ -59,7 +59,7 @@ if (username=="pascootsile@gmail.com" ){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
 }   
- if (username=="atasebeke@gmail.com	"){
+ if (username=="atasebeke@gmail.com"){
         
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://www.imei.info/media/t/gsm-cache/k/O/MCpIfl-d/samsung-galaxy-a24.jpg";
