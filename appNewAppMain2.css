@@ -244,14 +244,10 @@ input:-webkit-autofill:active {
     font-family: Arial, Helvetica, sans-serif;
     width: var(--width);
     height: var(--height);
-    background: linear-gradient(
-        180deg,
-        rgba(22, 24, 30, 0) 0%,
-        rgba(22, 24, 30, 0.7) 65.28%
-      ),
-      linear-gradient(0deg, rgba(22, 24, 30, 0.4), rgba(22, 24, 30, 0.4));
-    background-size: cover;
+    background: #000000;
+    border: 1px solid #222831 ;
     border-radius: var(--radius);
+    box-shadow: 0 0 20px #222831;
     flex-direction: column;
     gap: 0.7rem;
     padding: 1em;
