@@ -56,8 +56,9 @@ if (username=="peloyankwetlhalefang@gmail.com" ){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
 }
-
-     
+      if (username=="76780358@temp.com" ){
+          window.location.href=("results35088.html");
+      }
     
             
 }
