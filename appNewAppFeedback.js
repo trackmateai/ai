@@ -25,10 +25,10 @@ function feedBack(){
 if (username=="atasebeke@gmail.com" ){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/k/O/MCpIfl-d/samsung-galaxy-a24.jpg";
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/H/r/WnrQfJ-d/huawei-y5-2019.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354916447289918</font><br/>  Model: Galaxy A24 (SM-A245F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Model Info: MOBILE SM-A245F/DSN AFA<br/>Search Term: 354916447289918<br/>IMEI 1: 354916447289918<br/>Serial Number:<font color=#ff0000> RZ8W604QXDT</font><br/>Model Desc: Galaxy A24<br/>Model Name: SM-A245F/DSN<br/>Model Number: SM-A245FLGUAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 09-06-2025<br/>Production location: Brazil SEDA<br/>Production Date: 09-06-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked ");        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 861366046830447</font><br/>  Model:  Y5 (2019) (AMN-LX9)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=(" Operating System	Android 9.0 Pie<br/>Chipset	MediaTek Helio A22 (MT6761)<br/>Number of CPU Cores	4<br/>RAM	2 GB<br/>Width	70.78 mm<br/>Height	147.13 mm<br/>Thickness	8.45 mm<br/>Weight	146.0 g<br/>DisplayType	LCD_IPS<br/>Diagonal	5.71 inches<br/>Resolution	720x1520 px<br/>Screen-to-body ratio	78.0 %<br/>Pixel density	295 ppi<br/>Other display Features	Multi-touch, 2.5D curved glass screen");        
      
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
