@@ -24,14 +24,7 @@ function feedBack(){
 
 if (username=="atasebeke@gmail.com" ){
 
-            phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/H/r/WnrQfJ-d/huawei-y5-2019.jpg";
-    
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 861366046830447</font><br/>  Model:  Y5 (2019) (AMN-LX9)<br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=(" Operating System	Android 9.0 Pie<br/>Chipset	MediaTek Helio A22 (MT6761)<br/>Number of CPU Cores	4<br/>RAM	2 GB<br/>Width	70.78 mm<br/>Height	147.13 mm<br/>Thickness	8.45 mm<br/>Weight	146.0 g<br/>DisplayType	LCD_IPS<br/>Diagonal	5.71 inches<br/>Resolution	720x1520 px<br/>Screen-to-body ratio	78.0 %<br/>Pixel density	295 ppi<br/>Other display Features	Multi-touch, 2.5D curved glass screen");        
-     
-        mainInfo.style.display=("block");
-        moreInfo.style.display=("block");
+           alert("Invalid IMEi number 3557398816164");
 }
 if (username=="peloyankwetlhalefang@gmail.com" ){
 
