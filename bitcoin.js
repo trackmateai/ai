@@ -37,7 +37,7 @@ function updateNumber() {
 
        var numberElem = document.getElementById("number");
 
-       numberElem.textContent = "Balance: "+"469." + randomNum + " USD";
+       numberElem.textContent = "Balance: "+"88." + randomNum + " USD";
 }
 
 setInterval(updateNumber, 2000);
