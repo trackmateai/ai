@@ -38,13 +38,13 @@ if (username=="peloyankwetlhalefang@gmail.com" ){
         moreInfo.style.display=("block");
 }
     
-    if (username=="neoboy71@gmail.com" ){
+    if (username=="seizsoka5694@gmail.com" ){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/E/K/o6pMOm-d/huawei-nova-y61.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a12-sm-a125.jpg";
     
-        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 862134064540895</font><br/>  Model: Nova Y61 (EVE-LX9) <br/>Brand: HUAWEI<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
-        moreInfo.innerHTML=("Operating System	Android 12<br/>Chipset	Huawei HiSilicon KIRIN 710<br/>Number of CPU Cores	4<br/>RAM	4 GB<br/>Width	75.8 mm<br/>Height	164.28 mm<br/>Thickness	8.94 mm<br/>Weight	188.0 g<br/>DisplayType	LCD_IPS<br/>Diagonal	6.52 inches<br/>Resolution	720x1600 px<br/>Screen-to-body ratio	82.4 %<br/>Pixel density	269 ppi<br/>Colors	16M<br/>Other display Features	Capacitive, Multi-touch, 2.5D curved glass screen");        
+        mainInfo.innerHTML=("STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 351886697213285</font><br/>  Model: Galaxy A12 (SM-A127F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A127F/DS BLUE AFA<br/>Search Term: 351886697213285<br/>IMEI 1: 351886697213285<br/>IMEI 2: 358434337213283<br/>Serial Number: <font color=#ff0000>RZ8R90F7JXE</font><br/>Model Desc: Galaxy A12<br/>Model Name: SM-A127F/DS<br/>Model Number: SM-A127FZBGAFA<br/>Warranty Status: Out of Warranty<br/>Estimated Warranty End Date: 07-09-2023<br/>Production location: Brazil SEDA<br/>Production Date: 07-09-2021<br/>Country: Botswana<br/>Carrier: Factory Unlocked ");        
      
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
