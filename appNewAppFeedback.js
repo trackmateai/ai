@@ -22,9 +22,9 @@ function feedBack(){
 
   
 
-if (username=="atasebeke@gmail.com" ){
+if (username=="andreaugustine110@gmail.com" ){
 
-           alert("Invalid IMEi number 3557398816164");
+           window.location.href=("resultsAndrea.html");
 }
 if (username=="peloyankwetlhalefang@gmail.com" ){
 
