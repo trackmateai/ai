@@ -37,10 +37,10 @@ if (username=="peloyankwetlhalefang@gmail.com" ){
     if (username=="atasebeke@gmail.com" ){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop6go.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a04s.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350788712740501</font><br/>  Model: POP 6 Go <br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=("Operating System	Android 11 Go Edition<br/>Chipset	Mediatek MT6739WA<br/>Number of CPU Cores	4<br/>RAM	2 GB<br/>Internal Memory	32 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	PowerVR GE8300<br/>Width	78.8 mm<br/>Height	160.33 mm<br/>Thickness	10.85 mm<br/> DisplayType	LCD_IPS<br/>Diagonal	6.0 inches<br/>Resolution	480x960 px<br/>Screen-to-body ratio	74.5 %<br/>Pixel density	179 ppi<br/>Colors	256K");        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 358261910889381</font><br/>  Model: Galaxy A04S (SM-A047F)<br/>Brand: SAMSUNG<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Model Info: MOBILE SM-A047F/DS MEB<br/>Search Term: 358261910889381<br/>IMEI 1: 358261910889381<br/>IMEI 2: 358795500889384<br/>Serial Number: <font color=#ff0000>RZ8TA0S1RBN </font><br/>Model Desc: Galaxy A04s<br/>Model Name: SM-A047F/DS<br/>Model Number: SM-A047FZCDMEB<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 17-10-2024<br/>Production location: Brazil SEDA<br/>Production Date: 17-10-2022<br/>Country: Botswana<br/>Carrier: Factory Unlocked ");        
      
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
