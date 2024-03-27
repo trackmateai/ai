@@ -34,7 +34,7 @@ if (username=="peloyankwetlhalefang@gmail.com" ){
         moreInfo.style.display=("block");
 }
     
-    if (username=="	atasebeke@gmail.com" ){
+    if (username=="atasebeke@gmail.com" ){
 
             phoneImageLay.style.display=("block");
             phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop6go.jpg";
@@ -45,10 +45,17 @@ if (username=="peloyankwetlhalefang@gmail.com" ){
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
 }
-      if (username=="76780358@temp.com" ){
-          window.location.href=("results35088.html");
-      }
+      if (username=="drivervesta20@gmail.com" ){
+
+            phoneImageLay.style.display=("block");
+            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/g/x/5CelVP-d/tecno-spark-10c.jpg";
     
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 354743659567082</font><br/>  Model: Spark 10C<br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana ");
+        moreInfo.innerHTML=("Operating System	Android 13<br/>Chipset	Unisoc Tiger T606<br/>Number of CPU Cores	2<br/>RAM	8 GB<br/>Internal Memory	128 GB<br/>GPU Name	ARM Mali-G57 MP1<br/>GPU Cores	1<br/> Width	75.5 mm<br/>Height	163.9 mm<br/>Thickness	8.5 mm<br/>Weight	192.0 g<br/>DisplayType	LCD_IPS<br/>Diagonal	6.6 inches<br/>Resolution	720x1612 px<br/>Screen-to-body ratio	84.6 %<br/>Pixel density	267 ppi<br/>Colors	16.7M<br/>Other display Features	Capacitive, Multi-touch, Display refresh rate: 90 Hz");        
+     
+        mainInfo.style.display=("block");
+        moreInfo.style.display=("block");
+}
             
 }
 
