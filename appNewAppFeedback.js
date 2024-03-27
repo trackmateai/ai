@@ -22,10 +22,6 @@ function feedBack(){
 
   
 
-if (username=="andreaugustine110@gmail.com" ){
-
-           window.location.href=("resultsAndrea.html");
-}
 if (username=="peloyankwetlhalefang@gmail.com" ){
 
             phoneImageLay.style.display=("block");
@@ -38,13 +34,13 @@ if (username=="peloyankwetlhalefang@gmail.com" ){
         moreInfo.style.display=("block");
 }
     
-    if (username=="seizsoka5694@gmail.com" ){
+    if (username=="	atasebeke@gmail.com" ){
 
             phoneImageLay.style.display=("block");
-            phoneImage.src = "https://www.imei.info/media/t/gsm-cache/Q/9/B5fkgh-d/samsung-galaxy-a04e.jpg";
+            phoneImage.src = "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop6go.jpg";
     
-        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 355088373954227</font><br/>  Model: Galaxy A04e (SM-A042F)<br/>Brand: Samsung<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
-        moreInfo.innerHTML=(" Model Info: MOBILE SM-A042F/DS BLACK AFA<br/>Search Term: 355088373954227<br/>IMEI 1: 355088373954227<br/>Serial Number: <font color=#ff0000>R8YW804GRGN</font><br/>Model Desc: A04e<br/>Model Name: SM-A042F/DS<br/>Model Number: SM-A042FZKDAFA<br/>Warranty Status: Warranty Active<br/>Estimated Warranty End Date: 04-08-2025<br/>Production location: Korea SEC<br/>Production Date: 04-08-2023<br/>Country: Botswana<br/>Carrier: Factory Unlocked");        
+        mainInfo.innerHTML=(" STATUS: <font color=#00ee00>Found</font><br/>IMEI: <font color=#00ee00> 350788712740501</font><br/>  Model: POP 6 Go <br/>Brand: TECNO<br/>DeviceType:  Smartphone<br/>  Location: <font color=#ff0000>  Hidden(Payment Required)</font><br/>  Country Code: BW<br/>  Country Name: Botswana");
+        moreInfo.innerHTML=("Operating System	Android 11 Go Edition<br/>Chipset	Mediatek MT6739WA<br/>Number of CPU Cores	4<br/>RAM	2 GB<br/>Internal Memory	32 GB<br/>Memory Card Type	microSDXC<br/>GPU Name	PowerVR GE8300<br/>Width	78.8 mm<br/>Height	160.33 mm<br/>Thickness	10.85 mm<br/> DisplayType	LCD_IPS<br/>Diagonal	6.0 inches<br/>Resolution	480x960 px<br/>Screen-to-body ratio	74.5 %<br/>Pixel density	179 ppi<br/>Colors	256K");        
      
         mainInfo.style.display=("block");
         moreInfo.style.display=("block");
